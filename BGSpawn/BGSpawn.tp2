@@ -411,6 +411,42 @@ BEGIN @1101 DESIGNATED 1000 LABEL "BGSpawn-Main"
     COPY_EXISTING ~amnis3.CRE~ ~override/samnis3.CRE~
         WRITE_ASCII 0x280 ~~ #20
 
+    ACTION_DEFINE_ASSOCIATIVE_ARRAY random_treasures_trilogy BEGIN
+	    "RNDEQU01"	=>	"RNDEQU04" //RNDEQUIP.2DA - LOW
+	    "RNDEQU02"	=>	"RNDEQU05" //RNDEQUIP.2DA - HIGH
+	    "RNDEQU03"	=>	"RNDEQU06" //RNDEQUIP.2DA - POOP
+	    "RNDMAG01"	=>	"RNDMAG03" //RNDMAGIC.2DA - LOW
+	    "RNDMAG02"	=>	"RNDMAG04" //RNDMAGIC.2DA - HIGH
+	    "RNDMAG03"	=>	"RNDMAG05" //RNDMAGIC.2DA - POOP
+	    "RNDSCR01"	=>	"RNDSCR04" //RNDSCROL.2DA - 1st
+	    "RNDSCR02"	=>	"RNDSCR05" //RNDSCROL.2DA - 2nd
+	    "RNDSCR03"	=>	"RNDSCR06" //RNDSCROL.2DA - 3rd
+	    "RNDSCR04"	=>	"RNDSCR07" //RNDSCROL.2DA - 4th
+	    "RNDTRE01"	=>	"RNDMAG06" //RNDTREAS.2DA - POOR
+	    "RNDTRE02"	=>	"RNDTRE06" //RNDTREAS.2DA - AVERAGE
+	    "RNDTRE03"	=>	"RNDTRE07" //RNDTREAS.2DA - WELL_OFF
+	    "RNDTRE04"	=>	"RNDTRE08" //RNDTREAS.2DA - WEALTHY
+	    "RNDTRE05"	=>	"RNDTRE09" //RNDTREAS.2DA - RICH
+	    "RNDWEP01"	=>	"RNDWEP04" //RNDWEP.2DA - 1st
+	    "RNDWEP02"	=>	"RNDWEP05" //RNDWEP.2DA - 2nd
+	    "RNDWEP03"	=>	"RNDWEP06" //RNDWEP.2DA - 3rd
+    END
+
+    DEFINE_PATCH_MACRO PATCH_RANDOM_TREASURES BEGIN
+    	READ_LONG  0x2bc itm_off ELSE 0
+    	READ_LONG  0x2c0 itm_num ELSE 0
+    	FOR (index = 0; index < itm_num; ++index) BEGIN
+    		SET currentitem = itm_off + index * 0x14
+    		READ_ASCII currentitem currentitem_name (8) NULL
+    		PATCH_IF (VARIABLE_IS_SET currentitem_name) BEGIN
+    			TO_UPPER currentitem_name
+    			PATCH_IF (VARIABLE_IS_SET $random_treasures_trilogy(~%currentitem_name%~)) BEGIN
+    				WRITE_ASCIIE currentitem $random_treasures_trilogy(~%currentitem_name%~) (8)
+    			END
+    		END
+    	END
+    END
+
     // Clone backported BG2 creatures used in BG1 areas
     // This uses a 4-character dedicated-for-cloning prefix within my namespace to prevent accidental overlaps within the S namespace
     // Graion Dilach, 2024-12-23
@@ -493,6 +529,7 @@ BEGIN @1101 DESIGNATED 1000 LABEL "BGSpawn-Main"
     ACTION_PHP_EACH backport_bg2_cres AS crekey => crevalue BEGIN
         COPY_EXISTING ~%crekey%.cre~ ~override/%crevalue%.cre~
                 WRITE_ASCII 0x280 ~~ #20
+                LPM PATCH_RANDOM_TREASURES
     END
 
     // Individual backport fixes:
