@@ -37,7 +37,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -65,7 +65,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -93,7 +93,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -121,7 +121,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -149,7 +149,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -177,7 +177,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -206,7 +206,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -234,7 +234,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -262,7 +262,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -290,7 +290,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -323,7 +323,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -356,7 +356,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -390,7 +390,7 @@ IF
 THEN
   RESPONSE #30
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -427,7 +427,7 @@ IF
 THEN
   RESPONSE #30
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -466,7 +466,7 @@ IF
 THEN
   RESPONSE #30
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -505,7 +505,7 @@ IF
 THEN
   RESPONSE #30
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -546,7 +546,7 @@ IF
 THEN
   RESPONSE #30
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -595,7 +595,7 @@ IF
 THEN
   RESPONSE #30
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -642,7 +642,7 @@ IF
 THEN
   RESPONSE #30
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -653,7 +653,7 @@ THEN
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
 END
 IF
@@ -677,12 +677,12 @@ IF
 THEN
   RESPONSE #15
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -693,7 +693,7 @@ THEN
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
 END
 IF
@@ -717,12 +717,12 @@ IF
 THEN
   RESPONSE #15
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -733,7 +733,7 @@ THEN
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
 END
 IF
@@ -757,18 +757,18 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -779,7 +779,7 @@ THEN
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
 END
 IF
@@ -803,18 +803,18 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -825,7 +825,7 @@ THEN
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
 END
 IF
@@ -849,14 +849,14 @@ IF
 THEN
   RESPONSE #15
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -867,7 +867,7 @@ THEN
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
 END
 
@@ -892,7 +892,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -903,12 +903,12 @@ THEN
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
 END
 IF
@@ -932,12 +932,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -948,12 +948,12 @@ THEN
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
 END
 IF
@@ -977,12 +977,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -993,12 +993,12 @@ THEN
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
 END
 IF
@@ -1022,14 +1022,14 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -1040,12 +1040,12 @@ THEN
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
 END
 IF
@@ -1069,14 +1069,14 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -1087,18 +1087,18 @@ THEN
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
 END
 IF
@@ -1122,16 +1122,16 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -1142,23 +1142,23 @@ THEN
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
 END
 
@@ -1177,7 +1177,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("BASGRT01",[1891.1761],0)  // Greater Basilisk
+    CreateCreature("ZG#SBGRT",[1891.1761],0)  // Greater Basilisk
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -1188,12 +1188,12 @@ THEN
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
 END
 IF
@@ -1211,7 +1211,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("BASGRT01",[1891.1761],0)  // Greater Basilisk
+    CreateCreature("ZG#SBGRT",[1891.1761],0)  // Greater Basilisk
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -1222,12 +1222,12 @@ THEN
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
 END
 IF
@@ -1245,7 +1245,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("BASGRT01",[1891.1761],0)  // Greater Basilisk
+    CreateCreature("ZG#SBGRT",[1891.1761],0)  // Greater Basilisk
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -1261,18 +1261,18 @@ THEN
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
 END
 IF
@@ -1290,7 +1290,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("BASGRT01",[1891.1761],0)  // Greater Basilisk
+    CreateCreature("ZG#SBGRT",[1891.1761],0)  // Greater Basilisk
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -1306,25 +1306,25 @@ THEN
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
 END
 IF
@@ -1342,7 +1342,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("BASGRT01",[1891.1761],0)  // Greater Basilisk
+    CreateCreature("ZG#SBGRT",[1891.1761],0)  // Greater Basilisk
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -1358,20 +1358,20 @@ THEN
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
 END
 IF
@@ -1389,12 +1389,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("BASGRT01",[1891.1761],0)  // Greater Basilisk
+    CreateCreature("ZG#SBGRT",[1891.1761],0)  // Greater Basilisk
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("BASGRT01",[1891.1761],0)  // Greater Basilisk
-    CreateCreature("BASGRT01",[1891.1761],0)  // Greater Basilisk
+    CreateCreature("ZG#SBGRT",[1891.1761],0)  // Greater Basilisk
+    CreateCreature("ZG#SBGRT",[1891.1761],0)  // Greater Basilisk
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -1410,27 +1410,27 @@ THEN
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
 END
 
@@ -1455,7 +1455,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -1487,7 +1487,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -1519,7 +1519,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -1551,7 +1551,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -1583,7 +1583,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -1615,7 +1615,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -1648,7 +1648,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -1680,7 +1680,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -1712,7 +1712,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -1749,7 +1749,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -1791,7 +1791,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -1833,7 +1833,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -1882,7 +1882,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -1924,7 +1924,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -1972,7 +1972,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -2020,7 +2020,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -2083,7 +2083,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -2146,7 +2146,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -2220,7 +2220,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -2279,12 +2279,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -2345,12 +2345,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -2419,18 +2419,18 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -2510,18 +2510,18 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -2607,14 +2607,14 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -2740,12 +2740,12 @@ THEN
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
 END
 IF
@@ -2824,12 +2824,12 @@ THEN
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
 END
 IF
@@ -2914,12 +2914,12 @@ THEN
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
 END
 IF
@@ -2943,16 +2943,16 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
     CreateCreature("SKELET03",[1891.1761],0)  // Skeleton
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
     CreateCreature("SKELET02",[1891.1761],0)  // Skeleton (Archer)
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
@@ -3027,12 +3027,12 @@ THEN
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
 END
 IF
@@ -3056,37 +3056,37 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
     CreateCreature("SKELET03",[1891.1761],0)  // Skeleton
     CreateCreature("SKELET03",[1891.1761],0)  // Skeleton
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
     CreateCreature("SKELET02",[1891.1761],0)  // Skeleton (Archer)
     CreateCreature("SKELET02",[1891.1761],0)  // Skeleton (Archer)
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
     CreateCreature("SKELET03",[1891.1761],0)  // Skeleton
     CreateCreature("SKELET02",[1891.1761],0)  // Skeleton (Archer)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
     CreateCreature("SKELICE",[1891.1761],0)  // Skeleton Ice
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
     CreateCreature("SKELFIRE",[1891.1761],0)  // Skeleton Fire
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
     CreateCreature("SKELACI",[1891.1761],0)  // Skeleton Acid
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
@@ -3098,18 +3098,18 @@ THEN
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
 END
 IF
@@ -3133,52 +3133,52 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
     CreateCreature("SKELICE",[1891.1761],0)  // Skeleton Ice
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
     CreateCreature("SKELFIRE",[1891.1761],0)  // Skeleton Fire
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
     CreateCreature("SKELACI",[1891.1761],0)  // Skeleton Acid
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
     CreateCreature("SKELICE",[1891.1761],0)  // Skeleton Ice
     CreateCreature("SKELFIRE",[1891.1761],0)  // Skeleton Fire
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
     CreateCreature("SKELFIRE",[1891.1761],0)  // Skeleton Fire
     CreateCreature("SKELACI",[1891.1761],0)  // Skeleton Acid
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
     CreateCreature("SKELACI",[1891.1761],0)  // Skeleton Acid
     CreateCreature("SKELICE",[1891.1761],0)  // Skeleton Ice
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELICE",[1891.1761],0)  // Skeleton Ice
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
@@ -3190,23 +3190,23 @@ THEN
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
 END
 
@@ -3225,7 +3225,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("BASGRT01",[1891.1761],0)  // Greater Basilisk
+    CreateCreature("ZG#SBGRT",[1891.1761],0)  // Greater Basilisk
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -3236,30 +3236,30 @@ THEN
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
     CreateCreature("SKELICE",[1891.1761],0)  // Skeleton Ice
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
     CreateCreature("SKELFIRE",[1891.1761],0)  // Skeleton Fire
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
     CreateCreature("SKELACI",[1891.1761],0)  // Skeleton Acid
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
 END
 IF
@@ -3277,7 +3277,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("BASGRT01",[1891.1761],0)  // Greater Basilisk
+    CreateCreature("ZG#SBGRT",[1891.1761],0)  // Greater Basilisk
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -3288,57 +3288,57 @@ THEN
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELICE",[1891.1761],0)  // Skeleton Ice
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELFIRE",[1891.1761],0)  // Skeleton Fire
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
     CreateCreature("SKELICE",[1891.1761],0)  // Skeleton Ice
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
     CreateCreature("SKELFIRE",[1891.1761],0)  // Skeleton Fire
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
     CreateCreature("SKELACI",[1891.1761],0)  // Skeleton Acid
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
     CreateCreature("SKELICE",[1891.1761],0)  // Skeleton Ice
     CreateCreature("SKELFIRE",[1891.1761],0)  // Skeleton Fire
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
     CreateCreature("SKELFIRE",[1891.1761],0)  // Skeleton Fire
     CreateCreature("SKELACI",[1891.1761],0)  // Skeleton Acid
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
     CreateCreature("SKELACI",[1891.1761],0)  // Skeleton Acid
     CreateCreature("SKELICE",[1891.1761],0)  // Skeleton Ice
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
 END
 IF
@@ -3356,7 +3356,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("BASGRT01",[1891.1761],0)  // Greater Basilisk
+    CreateCreature("ZG#SBGRT",[1891.1761],0)  // Greater Basilisk
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -3372,56 +3372,56 @@ THEN
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELICE",[1891.1761],0)  // Skeleton Ice
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELFIRE",[1891.1761],0)  // Skeleton Fire
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELACI",[1891.1761],0)  // Skeleton Acid
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELDIS",[1891.1761],0)  // Skeleton Dispel
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
 END
 IF
@@ -3439,7 +3439,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("BASGRT01",[1891.1761],0)  // Greater Basilisk
+    CreateCreature("ZG#SBGRT",[1891.1761],0)  // Greater Basilisk
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -3455,86 +3455,86 @@ THEN
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELICE",[1891.1761],0)  // Skeleton Ice
     CreateCreature("SKELICE",[1891.1761],0)  // Skeleton Ice
     CreateCreature("SKELFIRE",[1891.1761],0)  // Skeleton Fire
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELICE",[1891.1761],0)  // Skeleton Ice
     CreateCreature("SKELFIRE",[1891.1761],0)  // Skeleton Fire
     CreateCreature("SKELFIRE",[1891.1761],0)  // Skeleton Fire
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELACI",[1891.1761],0)  // Skeleton Acid
     CreateCreature("SKELFIRE",[1891.1761],0)  // Skeleton Fire
     CreateCreature("SKELFIRE",[1891.1761],0)  // Skeleton Fire
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELACI",[1891.1761],0)  // Skeleton Acid
     CreateCreature("SKELACI",[1891.1761],0)  // Skeleton Acid
     CreateCreature("SKELFIRE",[1891.1761],0)  // Skeleton Fire
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELFIRE",[1891.1761],0)  // Skeleton Fire
     CreateCreature("SKELFIRE",[1891.1761],0)  // Skeleton Fire
     CreateCreature("SKELACI",[1891.1761],0)  // Skeleton Acid
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELFIRE",[1891.1761],0)  // Skeleton Fire
     CreateCreature("SKELFIRE",[1891.1761],0)  // Skeleton Fire
     CreateCreature("SKELDIS",[1891.1761],0)  // Skeleton Dispel
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
 END
 IF
@@ -3552,7 +3552,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("BASGRT01",[1891.1761],0)  // Greater Basilisk
+    CreateCreature("ZG#SBGRT",[1891.1761],0)  // Greater Basilisk
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -3568,95 +3568,95 @@ THEN
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELICE",[1891.1761],0)  // Skeleton Ice
     CreateCreature("SKELICE",[1891.1761],0)  // Skeleton Ice
     CreateCreature("SKELFIRE",[1891.1761],0)  // Skeleton Fire
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELICE",[1891.1761],0)  // Skeleton Ice
     CreateCreature("SKELFIRE",[1891.1761],0)  // Skeleton Fire
     CreateCreature("SKELFIRE",[1891.1761],0)  // Skeleton Fire
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELACI",[1891.1761],0)  // Skeleton Acid
     CreateCreature("SKELFIRE",[1891.1761],0)  // Skeleton Fire
     CreateCreature("SKELFIRE",[1891.1761],0)  // Skeleton Fire
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELACI",[1891.1761],0)  // Skeleton Acid
     CreateCreature("SKELACI",[1891.1761],0)  // Skeleton Acid
     CreateCreature("SKELFIRE",[1891.1761],0)  // Skeleton Fire
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELFIRE",[1891.1761],0)  // Skeleton Fire
     CreateCreature("SKELFIRE",[1891.1761],0)  // Skeleton Fire
     CreateCreature("SKELACI",[1891.1761],0)  // Skeleton Acid
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELFIRE",[1891.1761],0)  // Skeleton Fire
     CreateCreature("SKELFIRE",[1891.1761],0)  // Skeleton Fire
     CreateCreature("SKELDIS",[1891.1761],0)  // Skeleton Dispel
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
 END
 IF
@@ -3674,12 +3674,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("BASGRT01",[1891.1761],0)  // Greater Basilisk
+    CreateCreature("ZG#SBGRT",[1891.1761],0)  // Greater Basilisk
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("BASGRT01",[1891.1761],0)  // Greater Basilisk
-    CreateCreature("BASGRT01",[1891.1761],0)  // Greater Basilisk
+    CreateCreature("ZG#SBGRT",[1891.1761],0)  // Greater Basilisk
+    CreateCreature("ZG#SBGRT",[1891.1761],0)  // Greater Basilisk
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
@@ -3695,100 +3695,100 @@ THEN
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELICE",[1891.1761],0)  // Skeleton Ice
     CreateCreature("SKELDIS",[1891.1761],0)  // Skeleton Dispel
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELFIRE",[1891.1761],0)  // Skeleton Fire
     CreateCreature("SKELDIS",[1891.1761],0)  // Skeleton Dispel
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELACI",[1891.1761],0)  // Skeleton Acid
     CreateCreature("SKELDIS",[1891.1761],0)  // Skeleton Dispel
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELICE",[1891.1761],0)  // Skeleton Ice
     CreateCreature("SKELICE",[1891.1761],0)  // Skeleton Ice
     CreateCreature("SKELDIS",[1891.1761],0)  // Skeleton Dispel
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELFIRE",[1891.1761],0)  // Skeleton Fire
     CreateCreature("SKELFIRE",[1891.1761],0)  // Skeleton Fire
     CreateCreature("SKELDIS",[1891.1761],0)  // Skeleton Dispel
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[1891.1761],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[1891.1761],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[1891.1761],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELACI",[1891.1761],0)  // Skeleton Acid
     CreateCreature("SKELACI",[1891.1761],0)  // Skeleton Acid
     CreateCreature("SKELDIS",[1891.1761],0)  // Skeleton Dispel
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset18911761","%DurlagsTower%",1)
-    CreateCreature("DOPPLE01",[1891.1761],0)  // Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
-    CreateCreature("DOPGRE01",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPP",[1891.1761],0)  // Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
+    CreateCreature("ZG#SDOPG",[1891.1761],0)  // Greater Doppleganger
     SetGlobalTimer("050018911761","%DurlagsTower%",EIGHT_HOURS)
 END
 
@@ -3817,4 +3817,3 @@ THEN
     CreateCreature("DOPPLE",[1891.1761],0)  // ~Doppleganger~
     SetGlobalTimer("050018911761","%DurlagsTower%",2400)
 END
-

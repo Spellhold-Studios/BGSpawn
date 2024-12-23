@@ -44,7 +44,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -52,7 +52,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -85,7 +85,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -93,7 +93,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -126,7 +126,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -134,7 +134,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -167,7 +167,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -180,7 +180,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -218,7 +218,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -231,7 +231,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -269,7 +269,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -288,11 +288,11 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -325,7 +325,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -333,7 +333,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -366,7 +366,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -374,7 +374,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -407,7 +407,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -420,7 +420,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -458,7 +458,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -471,12 +471,12 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -520,7 +520,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -539,7 +539,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -579,7 +579,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -594,18 +594,18 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -638,7 +638,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -646,7 +646,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -684,7 +684,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -697,7 +697,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -741,7 +741,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -760,12 +760,12 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -805,7 +805,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -820,18 +820,18 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -878,7 +878,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -893,18 +893,18 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -959,7 +959,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -981,14 +981,14 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -1029,7 +1029,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -1046,7 +1046,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -1082,7 +1082,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -1104,12 +1104,12 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -1145,7 +1145,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -1169,18 +1169,18 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -1216,7 +1216,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -1253,14 +1253,14 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -1301,7 +1301,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -1346,21 +1346,21 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -1401,7 +1401,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -1462,16 +1462,16 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -1518,7 +1518,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -1549,12 +1549,12 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -1590,7 +1590,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -1621,18 +1621,18 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -1668,7 +1668,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -1705,14 +1705,14 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -1758,7 +1758,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -1808,21 +1808,21 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -1880,7 +1880,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -1942,24 +1942,24 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -2009,7 +2009,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -2106,27 +2106,27 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -2170,7 +2170,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -2248,7 +2248,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -2332,7 +2332,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -2463,7 +2463,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -2612,7 +2612,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -2810,7 +2810,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("DEER01",[2496.704],0)  // Deer
+    CreateCreature("ZG#SDEER",[2496.704],0)  // Deer
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -3031,7 +3031,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -3039,7 +3039,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
 END
 
@@ -3072,7 +3072,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -3080,7 +3080,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
 END
 
@@ -3113,7 +3113,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -3121,7 +3121,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
 END
 
@@ -3154,7 +3154,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -3162,7 +3162,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
 END
 
@@ -3195,7 +3195,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -3203,7 +3203,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
 END
 
@@ -3241,12 +3241,12 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -3254,7 +3254,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
 END
 
@@ -3287,12 +3287,12 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -3300,7 +3300,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
 END
 
@@ -3343,18 +3343,18 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -3362,7 +3362,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
 END
 
@@ -3405,18 +3405,18 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -3429,7 +3429,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
 END
 
@@ -3484,25 +3484,25 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -3521,12 +3521,12 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #11
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #11
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
 END
 
@@ -3577,21 +3577,21 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -3610,12 +3610,12 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
 END
 
@@ -3669,21 +3669,21 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
-    CreateCreature("GIBBER01",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2496.704],0)  // Gibberling
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
@@ -3698,18 +3698,18 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
 END
 
@@ -3759,7 +3759,7 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
 END
 
@@ -3809,12 +3809,12 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
 END
 
@@ -3870,12 +3870,12 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
 END
 
@@ -3938,18 +3938,18 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
 END
 
@@ -4017,18 +4017,18 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
 END
 
@@ -4104,14 +4104,14 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
 END
 
@@ -4170,12 +4170,12 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
 END
 
@@ -4238,18 +4238,18 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
 END
 
@@ -4320,14 +4320,14 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
 END
 
@@ -4417,21 +4417,21 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
 END
 
@@ -4501,29 +4501,29 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
 END
 
@@ -4617,24 +4617,24 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
-    CreateCreature("WOLF01",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2496.704],0)  // Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
 END
 
@@ -5294,11 +5294,11 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GHOGR01",[2496.704],0)  // Greater Ghoul
+    CreateCreature("ZG#SGHGR",[2496.704],0)  // Greater Ghoul
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLFVA01",[2496.704],0)  // Vampiric Wolf
+    CreateCreature("ZG#SWOVA",[2496.704],0)  // Vampiric Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
 END
 
@@ -5368,11 +5368,11 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GHOGR01",[2496.704],0)  // Greater Ghoul
+    CreateCreature("ZG#SGHGR",[2496.704],0)  // Greater Ghoul
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLFVA01",[2496.704],0)  // Vampiric Wolf
+    CreateCreature("ZG#SWOVA",[2496.704],0)  // Vampiric Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
 END
 
@@ -5461,16 +5461,16 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GHOGR01",[2496.704],0)  // Greater Ghoul
+    CreateCreature("ZG#SGHGR",[2496.704],0)  // Greater Ghoul
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GHOGR01",[2496.704],0)  // Greater Ghoul
-    CreateCreature("GHOGR01",[2496.704],0)  // Greater Ghoul
+    CreateCreature("ZG#SGHGR",[2496.704],0)  // Greater Ghoul
+    CreateCreature("ZG#SGHGR",[2496.704],0)  // Greater Ghoul
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLFVA01",[2496.704],0)  // Vampiric Wolf
+    CreateCreature("ZG#SWOVA",[2496.704],0)  // Vampiric Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
 END
 
@@ -5589,18 +5589,18 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GHOGR01",[2496.704],0)  // Greater Ghoul
-    CreateCreature("GHOGR01",[2496.704],0)  // Greater Ghoul
+    CreateCreature("ZG#SGHGR",[2496.704],0)  // Greater Ghoul
+    CreateCreature("ZG#SGHGR",[2496.704],0)  // Greater Ghoul
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GHOGR01",[2496.704],0)  // Greater Ghoul
-    CreateCreature("GHOGR01",[2496.704],0)  // Greater Ghoul
-    CreateCreature("GHOGR01",[2496.704],0)  // Greater Ghoul
+    CreateCreature("ZG#SGHGR",[2496.704],0)  // Greater Ghoul
+    CreateCreature("ZG#SGHGR",[2496.704],0)  // Greater Ghoul
+    CreateCreature("ZG#SGHGR",[2496.704],0)  // Greater Ghoul
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLFVA01",[2496.704],0)  // Vampiric Wolf
+    CreateCreature("ZG#SWOVA",[2496.704],0)  // Vampiric Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
 END
 
@@ -5714,23 +5714,23 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GHOGR01",[2496.704],0)  // Greater Ghoul
-    CreateCreature("GHOGR01",[2496.704],0)  // Greater Ghoul
+    CreateCreature("ZG#SGHGR",[2496.704],0)  // Greater Ghoul
+    CreateCreature("ZG#SGHGR",[2496.704],0)  // Greater Ghoul
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GHOGR01",[2496.704],0)  // Greater Ghoul
-    CreateCreature("GHOGR01",[2496.704],0)  // Greater Ghoul
-    CreateCreature("GHOGR01",[2496.704],0)  // Greater Ghoul
+    CreateCreature("ZG#SGHGR",[2496.704],0)  // Greater Ghoul
+    CreateCreature("ZG#SGHGR",[2496.704],0)  // Greater Ghoul
+    CreateCreature("ZG#SGHGR",[2496.704],0)  // Greater Ghoul
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLFVA01",[2496.704],0)  // Vampiric Wolf
+    CreateCreature("ZG#SWOVA",[2496.704],0)  // Vampiric Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLFVA01",[2496.704],0)  // Vampiric Wolf
-    CreateCreature("WOLFVA01",[2496.704],0)  // Vampiric Wolf
+    CreateCreature("ZG#SWOVA",[2496.704],0)  // Vampiric Wolf
+    CreateCreature("ZG#SWOVA",[2496.704],0)  // Vampiric Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
 END
 
@@ -5857,30 +5857,30 @@ THEN
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GHOGR01",[2496.704],0)  // Greater Ghoul
-    CreateCreature("GHOGR01",[2496.704],0)  // Greater Ghoul
+    CreateCreature("ZG#SGHGR",[2496.704],0)  // Greater Ghoul
+    CreateCreature("ZG#SGHGR",[2496.704],0)  // Greater Ghoul
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GHOGR01",[2496.704],0)  // Greater Ghoul
-    CreateCreature("GHOGR01",[2496.704],0)  // Greater Ghoul
-    CreateCreature("GHOGR01",[2496.704],0)  // Greater Ghoul
+    CreateCreature("ZG#SGHGR",[2496.704],0)  // Greater Ghoul
+    CreateCreature("ZG#SGHGR",[2496.704],0)  // Greater Ghoul
+    CreateCreature("ZG#SGHGR",[2496.704],0)  // Greater Ghoul
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("GHOGR01",[2496.704],0)  // Greater Ghoul
-    CreateCreature("GHOGR01",[2496.704],0)  // Greater Ghoul
-    CreateCreature("GHOGR01",[2496.704],0)  // Greater Ghoul
-    CreateCreature("GHOGR01",[2496.704],0)  // Greater Ghoul
+    CreateCreature("ZG#SGHGR",[2496.704],0)  // Greater Ghoul
+    CreateCreature("ZG#SGHGR",[2496.704],0)  // Greater Ghoul
+    CreateCreature("ZG#SGHGR",[2496.704],0)  // Greater Ghoul
+    CreateCreature("ZG#SGHGR",[2496.704],0)  // Greater Ghoul
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLFVA01",[2496.704],0)  // Vampiric Wolf
+    CreateCreature("ZG#SWOVA",[2496.704],0)  // Vampiric Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2496704","%SpiderWood%",1)
-    CreateCreature("WOLFVA01",[2496.704],0)  // Vampiric Wolf
-    CreateCreature("WOLFVA01",[2496.704],0)  // Vampiric Wolf
+    CreateCreature("ZG#SWOVA",[2496.704],0)  // Vampiric Wolf
+    CreateCreature("ZG#SWOVA",[2496.704],0)  // Vampiric Wolf
     SetGlobalTimer("30002496704","%SpiderWood%",EIGHT_HOURS)
 END
 
@@ -5904,4 +5904,3 @@ THEN
     CreateCreature("SPIDHU",[2496.704],0)  // ~Huge Spider~
     SetGlobalTimer("30002496704","%SpiderWood%",2400)
 END
-

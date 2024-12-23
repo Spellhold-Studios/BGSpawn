@@ -45,7 +45,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -57,7 +57,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -90,7 +90,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -102,7 +102,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -135,7 +135,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -147,7 +147,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -180,7 +180,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -192,7 +192,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -225,7 +225,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -237,7 +237,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -275,7 +275,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -287,7 +287,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -320,7 +320,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -332,7 +332,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -365,7 +365,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -377,7 +377,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -410,7 +410,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -422,7 +422,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -460,7 +460,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -477,12 +477,12 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -520,7 +520,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -537,12 +537,12 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -586,7 +586,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -603,12 +603,12 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -646,7 +646,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -655,7 +655,7 @@ THEN
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -668,7 +668,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -706,7 +706,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -715,7 +715,7 @@ THEN
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -728,7 +728,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -772,7 +772,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -781,7 +781,7 @@ THEN
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -799,7 +799,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -839,7 +839,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -848,7 +848,7 @@ THEN
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -866,12 +866,12 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -916,7 +916,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -925,7 +925,7 @@ THEN
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #11
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -949,12 +949,12 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -1006,7 +1006,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -1015,13 +1015,13 @@ THEN
   RESPONSE #4
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -1041,18 +1041,18 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -1086,14 +1086,14 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -1102,7 +1102,7 @@ THEN
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -1115,12 +1115,12 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -1149,14 +1149,14 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -1165,7 +1165,7 @@ THEN
   RESPONSE #11
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -1178,18 +1178,18 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -1223,14 +1223,14 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -1239,13 +1239,13 @@ THEN
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #11
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -1258,18 +1258,18 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -1303,14 +1303,14 @@ IF
 THEN
   RESPONSE #11
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -1319,15 +1319,15 @@ THEN
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -1346,14 +1346,14 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -1393,14 +1393,14 @@ IF
 THEN
   RESPONSE #11
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -1409,15 +1409,15 @@ THEN
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -1436,21 +1436,21 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -1486,14 +1486,14 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -1502,22 +1502,22 @@ THEN
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -1543,29 +1543,29 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -1601,14 +1601,14 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -1617,7 +1617,7 @@ THEN
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -1630,12 +1630,12 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -1664,14 +1664,14 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -1680,14 +1680,14 @@ THEN
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -1700,14 +1700,14 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -1736,14 +1736,14 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -1752,14 +1752,14 @@ THEN
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -1778,21 +1778,21 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -1826,19 +1826,19 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -1853,14 +1853,14 @@ THEN
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -1885,16 +1885,16 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -1934,19 +1934,19 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -1961,16 +1961,16 @@ THEN
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -2002,18 +2002,18 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -2053,19 +2053,19 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -2080,25 +2080,25 @@ THEN
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -2131,22 +2131,22 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -2183,7 +2183,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -2232,7 +2232,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -2286,7 +2286,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -2358,7 +2358,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -2438,7 +2438,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -2529,7 +2529,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("DEER01",[913.342],0)  // Deer
+    CreateCreature("ZG#SDEER",[913.342],0)  // Deer
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -2634,7 +2634,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -2679,7 +2679,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -2724,7 +2724,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -2769,7 +2769,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -2814,7 +2814,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -2864,7 +2864,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -2909,7 +2909,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -2954,7 +2954,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -2999,7 +2999,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -3054,12 +3054,12 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -3114,12 +3114,12 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -3180,12 +3180,12 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -3232,7 +3232,7 @@ THEN
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -3245,7 +3245,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -3292,7 +3292,7 @@ THEN
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -3305,7 +3305,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -3358,7 +3358,7 @@ THEN
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -3376,7 +3376,7 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -3425,7 +3425,7 @@ THEN
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -3443,12 +3443,12 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -3502,7 +3502,7 @@ THEN
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #11
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -3526,12 +3526,12 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -3592,13 +3592,13 @@ THEN
   RESPONSE #4
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -3618,18 +3618,18 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -3663,7 +3663,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -3679,7 +3679,7 @@ THEN
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -3692,12 +3692,12 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -3726,7 +3726,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -3742,7 +3742,7 @@ THEN
   RESPONSE #11
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -3755,18 +3755,18 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -3800,7 +3800,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -3816,13 +3816,13 @@ THEN
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #11
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -3835,18 +3835,18 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -3880,7 +3880,7 @@ IF
 THEN
   RESPONSE #11
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -3896,15 +3896,15 @@ THEN
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -3923,14 +3923,14 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -3970,7 +3970,7 @@ IF
 THEN
   RESPONSE #11
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -3986,15 +3986,15 @@ THEN
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -4013,21 +4013,21 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -4063,7 +4063,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -4079,22 +4079,22 @@ THEN
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -4120,29 +4120,29 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -4178,7 +4178,7 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -4194,7 +4194,7 @@ THEN
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -4207,12 +4207,12 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -4241,7 +4241,7 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -4262,14 +4262,14 @@ THEN
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -4282,14 +4282,14 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -4318,7 +4318,7 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -4339,14 +4339,14 @@ THEN
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -4365,21 +4365,21 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -4413,12 +4413,12 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -4445,14 +4445,14 @@ THEN
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -4477,16 +4477,16 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -4526,12 +4526,12 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -4564,16 +4564,16 @@ THEN
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -4605,18 +4605,18 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -4656,12 +4656,12 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
-    CreateCreature("CATPAN01",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
+    CreateCreature("ZG#SCPAN",[913.342],0)  // Panther
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -4690,25 +4690,25 @@ THEN
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
     CreateCreature("SDRUID3",[913.342],0)  // Druid
     CreateCreature("SDRUID3",[913.342],0)  // Druid
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -4741,22 +4741,22 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
-    CreateCreature("WOLF01",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[913.342],0)  // Wolf
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -4793,12 +4793,12 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("TROLL01",[913.342],0)  // Troll
+    CreateCreature("ZG#STROL",[913.342],0)  // Troll
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("TROLL01",[913.342],0)  // Troll
-    CreateCreature("TROLL01",[913.342],0)  // Troll
+    CreateCreature("ZG#STROL",[913.342],0)  // Troll
+    CreateCreature("ZG#STROL",[913.342],0)  // Troll
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -4847,12 +4847,12 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("TROLL01",[913.342],0)  // Troll
+    CreateCreature("ZG#STROL",[913.342],0)  // Troll
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("TROLL01",[913.342],0)  // Troll
-    CreateCreature("TROLL01",[913.342],0)  // Troll
+    CreateCreature("ZG#STROL",[913.342],0)  // Troll
+    CreateCreature("ZG#STROL",[913.342],0)  // Troll
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -4906,14 +4906,14 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("TROLL01",[913.342],0)  // Troll
-    CreateCreature("TROLL01",[913.342],0)  // Troll
+    CreateCreature("ZG#STROL",[913.342],0)  // Troll
+    CreateCreature("ZG#STROL",[913.342],0)  // Troll
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("TROLL01",[913.342],0)  // Troll
-    CreateCreature("TROLL01",[913.342],0)  // Troll
-    CreateCreature("TROLL01",[913.342],0)  // Troll
+    CreateCreature("ZG#STROL",[913.342],0)  // Troll
+    CreateCreature("ZG#STROL",[913.342],0)  // Troll
+    CreateCreature("ZG#STROL",[913.342],0)  // Troll
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -4985,14 +4985,14 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("TROLL01",[913.342],0)  // Troll
-    CreateCreature("TROLL01",[913.342],0)  // Troll
+    CreateCreature("ZG#STROL",[913.342],0)  // Troll
+    CreateCreature("ZG#STROL",[913.342],0)  // Troll
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("TROLL01",[913.342],0)  // Troll
-    CreateCreature("TROLL01",[913.342],0)  // Troll
-    CreateCreature("TROLL01",[913.342],0)  // Troll
+    CreateCreature("ZG#STROL",[913.342],0)  // Troll
+    CreateCreature("ZG#STROL",[913.342],0)  // Troll
+    CreateCreature("ZG#STROL",[913.342],0)  // Troll
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -5072,16 +5072,16 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("TROLL01",[913.342],0)  // Troll
-    CreateCreature("TROLL01",[913.342],0)  // Troll
-    CreateCreature("TROLL01",[913.342],0)  // Troll
+    CreateCreature("ZG#STROL",[913.342],0)  // Troll
+    CreateCreature("ZG#STROL",[913.342],0)  // Troll
+    CreateCreature("ZG#STROL",[913.342],0)  // Troll
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("TROLL01",[913.342],0)  // Troll
-    CreateCreature("TROLL01",[913.342],0)  // Troll
-    CreateCreature("TROLL01",[913.342],0)  // Troll
-    CreateCreature("TROLL01",[913.342],0)  // Troll
+    CreateCreature("ZG#STROL",[913.342],0)  // Troll
+    CreateCreature("ZG#STROL",[913.342],0)  // Troll
+    CreateCreature("ZG#STROL",[913.342],0)  // Troll
+    CreateCreature("ZG#STROL",[913.342],0)  // Troll
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -5172,16 +5172,16 @@ THEN
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("TROLL01",[913.342],0)  // Troll
-    CreateCreature("TROLL01",[913.342],0)  // Troll
-    CreateCreature("TROLL01",[913.342],0)  // Troll
+    CreateCreature("ZG#STROL",[913.342],0)  // Troll
+    CreateCreature("ZG#STROL",[913.342],0)  // Troll
+    CreateCreature("ZG#STROL",[913.342],0)  // Troll
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
-    CreateCreature("TROLL01",[913.342],0)  // Troll
-    CreateCreature("TROLL01",[913.342],0)  // Troll
-    CreateCreature("TROLL01",[913.342],0)  // Troll
-    CreateCreature("TROLL01",[913.342],0)  // Troll
+    CreateCreature("ZG#STROL",[913.342],0)  // Troll
+    CreateCreature("ZG#STROL",[913.342],0)  // Troll
+    CreateCreature("ZG#STROL",[913.342],0)  // Troll
+    CreateCreature("ZG#STROL",[913.342],0)  // Troll
     SetGlobalTimer("1600913342","%CloakwoodDruids%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset913342","%CloakwoodDruids%",1)
@@ -5273,4 +5273,3 @@ THEN
     CreateCreature("BEARBR",[913.342],0)  // ~Brown Bear~
     SetGlobalTimer("1600913342","%CloakwoodDruids%",2400)
 END
-

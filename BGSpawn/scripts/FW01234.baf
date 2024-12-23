@@ -566,7 +566,7 @@ IF
 THEN
   RESPONSE #60
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2948577","%Undercity%",1)
@@ -574,7 +574,7 @@ THEN
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 IF
@@ -598,7 +598,7 @@ IF
 THEN
   RESPONSE #60
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2948577","%Undercity%",1)
@@ -606,7 +606,7 @@ THEN
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 IF
@@ -630,7 +630,7 @@ IF
 THEN
   RESPONSE #60
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2948577","%Undercity%",1)
@@ -638,7 +638,7 @@ THEN
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 IF
@@ -662,12 +662,12 @@ IF
 THEN
   RESPONSE #50
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2948577","%Undercity%",1)
@@ -680,7 +680,7 @@ THEN
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 IF
@@ -704,12 +704,12 @@ IF
 THEN
   RESPONSE #40
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2948577","%Undercity%",1)
@@ -722,7 +722,7 @@ THEN
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 IF
@@ -746,12 +746,12 @@ IF
 THEN
   RESPONSE #30
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2948577","%Undercity%",1)
@@ -764,7 +764,7 @@ THEN
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 
@@ -789,33 +789,33 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIM01",[2948.577],0)  // Vampire Male
+    CreateCreature("ZG#SVAMM",[2948.577],0)  // Vampire Male
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 IF
@@ -839,33 +839,33 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIM01",[2948.577],0)  // Vampire Male
+    CreateCreature("ZG#SVAMM",[2948.577],0)  // Vampire Male
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 IF
@@ -889,34 +889,34 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIM01",[2948.577],0)  // Vampire Male
+    CreateCreature("ZG#SVAMM",[2948.577],0)  // Vampire Male
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 IF
@@ -940,52 +940,52 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #25
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #25
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIM01",[2948.577],0)  // Vampire Male
+    CreateCreature("ZG#SVAMM",[2948.577],0)  // Vampire Male
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 IF
@@ -1009,52 +1009,52 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #25
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #25
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIM01",[2948.577],0)  // Vampire Male
+    CreateCreature("ZG#SVAMM",[2948.577],0)  // Vampire Male
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 IF
@@ -1078,83 +1078,83 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIM01",[2948.577],0)  // Vampire Male
+    CreateCreature("ZG#SVAMM",[2948.577],0)  // Vampire Male
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 
@@ -1173,34 +1173,34 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIM01",[2948.577],0)  // Vampire Male
+    CreateCreature("ZG#SVAMM",[2948.577],0)  // Vampire Male
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 IF
@@ -1218,34 +1218,34 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIM01",[2948.577],0)  // Vampire Male
+    CreateCreature("ZG#SVAMM",[2948.577],0)  // Vampire Male
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 IF
@@ -1263,46 +1263,46 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #25
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIM01",[2948.577],0)  // Vampire Male
+    CreateCreature("ZG#SVAMM",[2948.577],0)  // Vampire Male
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #25
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 IF
@@ -1320,71 +1320,71 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIM01",[2948.577],0)  // Vampire Male
+    CreateCreature("ZG#SVAMM",[2948.577],0)  // Vampire Male
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIM01",[2948.577],0)  // Vampire Male
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMM",[2948.577],0)  // Vampire Male
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 IF
@@ -1402,123 +1402,123 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIM01",[2948.577],0)  // Vampire Male
+    CreateCreature("ZG#SVAMM",[2948.577],0)  // Vampire Male
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIM01",[2948.577],0)  // Vampire Male
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMM",[2948.577],0)  // Vampire Male
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIM01",[2948.577],0)  // Vampire Male
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMM",[2948.577],0)  // Vampire Male
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 IF
@@ -1536,104 +1536,104 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIM01",[2948.577],0)  // Vampire Male
+    CreateCreature("ZG#SVAMM",[2948.577],0)  // Vampire Male
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #14
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIM01",[2948.577],0)  // Vampire Male
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMM",[2948.577],0)  // Vampire Male
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIM01",[2948.577],0)  // Vampire Male
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMM",[2948.577],0)  // Vampire Male
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 
@@ -2187,7 +2187,7 @@ IF
 THEN
   RESPONSE #60
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2948577","%Undercity%",1)
@@ -2195,7 +2195,7 @@ THEN
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 IF
@@ -2219,7 +2219,7 @@ IF
 THEN
   RESPONSE #60
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2948577","%Undercity%",1)
@@ -2227,7 +2227,7 @@ THEN
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 IF
@@ -2251,7 +2251,7 @@ IF
 THEN
   RESPONSE #60
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2948577","%Undercity%",1)
@@ -2259,7 +2259,7 @@ THEN
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 IF
@@ -2283,12 +2283,12 @@ IF
 THEN
   RESPONSE #50
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2948577","%Undercity%",1)
@@ -2301,7 +2301,7 @@ THEN
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 IF
@@ -2325,12 +2325,12 @@ IF
 THEN
   RESPONSE #40
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2948577","%Undercity%",1)
@@ -2343,7 +2343,7 @@ THEN
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 IF
@@ -2367,12 +2367,12 @@ IF
 THEN
   RESPONSE #30
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2948577","%Undercity%",1)
@@ -2385,7 +2385,7 @@ THEN
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 
@@ -2410,33 +2410,33 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIM01",[2948.577],0)  // Vampire Male
+    CreateCreature("ZG#SVAMM",[2948.577],0)  // Vampire Male
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 IF
@@ -2460,33 +2460,33 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIM01",[2948.577],0)  // Vampire Male
+    CreateCreature("ZG#SVAMM",[2948.577],0)  // Vampire Male
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 IF
@@ -2510,34 +2510,34 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIM01",[2948.577],0)  // Vampire Male
+    CreateCreature("ZG#SVAMM",[2948.577],0)  // Vampire Male
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 IF
@@ -2561,52 +2561,52 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #25
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #25
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIM01",[2948.577],0)  // Vampire Male
+    CreateCreature("ZG#SVAMM",[2948.577],0)  // Vampire Male
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 IF
@@ -2630,52 +2630,52 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #25
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #25
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIM01",[2948.577],0)  // Vampire Male
+    CreateCreature("ZG#SVAMM",[2948.577],0)  // Vampire Male
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 IF
@@ -2699,83 +2699,83 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIM01",[2948.577],0)  // Vampire Male
+    CreateCreature("ZG#SVAMM",[2948.577],0)  // Vampire Male
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 
@@ -2794,34 +2794,34 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIM01",[2948.577],0)  // Vampire Male
+    CreateCreature("ZG#SVAMM",[2948.577],0)  // Vampire Male
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 IF
@@ -2839,34 +2839,34 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIM01",[2948.577],0)  // Vampire Male
+    CreateCreature("ZG#SVAMM",[2948.577],0)  // Vampire Male
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 IF
@@ -2884,46 +2884,46 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #25
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIM01",[2948.577],0)  // Vampire Male
+    CreateCreature("ZG#SVAMM",[2948.577],0)  // Vampire Male
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #25
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 IF
@@ -2941,71 +2941,71 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIM01",[2948.577],0)  // Vampire Male
+    CreateCreature("ZG#SVAMM",[2948.577],0)  // Vampire Male
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIM01",[2948.577],0)  // Vampire Male
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMM",[2948.577],0)  // Vampire Male
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 IF
@@ -3023,123 +3023,123 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIM01",[2948.577],0)  // Vampire Male
+    CreateCreature("ZG#SVAMM",[2948.577],0)  // Vampire Male
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIM01",[2948.577],0)  // Vampire Male
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMM",[2948.577],0)  // Vampire Male
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIM01",[2948.577],0)  // Vampire Male
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMM",[2948.577],0)  // Vampire Male
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 IF
@@ -3157,104 +3157,104 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("SHADOW01",[2948.577],0)  // Shadow
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[2948.577],0)  // Shadow
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("WRAITH01",[2948.577],0)  // Wraith
-    CreateCreature("NEVM1",[2948.577],0)  // Wight
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWRAI",[2948.577],0)  // Wraith
+    CreateCreature("ZG#SWIGH",[2948.577],0)  // Wight
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIM01",[2948.577],0)  // Vampire Male
+    CreateCreature("ZG#SVAMM",[2948.577],0)  // Vampire Male
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #14
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIM01",[2948.577],0)  // Vampire Male
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMM",[2948.577],0)  // Vampire Male
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset2948577","%Undercity%",1)
-    CreateCreature("VAMPIM01",[2948.577],0)  // Vampire Male
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
-    CreateCreature("VAMPIF01",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMM",[2948.577],0)  // Vampire Male
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
+    CreateCreature("ZG#SVAMF",[2948.577],0)  // Vampire Female
     SetGlobalTimer("01232948577","%Undercity%",EIGHT_HOURS)
 END
 
@@ -3280,4 +3280,3 @@ THEN
     CreateCreature("SKELET_A",[2948.577],0)  // ~Skeleton~
     SetGlobalTimer("01232948577","%Undercity%",2400)
 END
-

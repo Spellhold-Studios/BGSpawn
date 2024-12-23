@@ -36,10 +36,9 @@ IF
 THEN
   RESPONSE #30
     SetGlobal("SpawnReset1211347","%WerewolfCaverns%",1)
-    CreateCreature("SHAWOL02",[1211.347],0)  // Greater Shade Wolf
+    CreateCreature("ZG#SSHGW",[1211.347],0)  // Greater Shade Wolf
     SetGlobalTimer("20121211347","%WerewolfCaverns%",EIGHT_HOURS)
   RESPONSE #70
     SetGlobal("SpawnReset1211347","%WerewolfCaverns%",1)
     SetGlobalTimer("20121211347","%WerewolfCaverns%",EIGHT_HOURS)
 END
-

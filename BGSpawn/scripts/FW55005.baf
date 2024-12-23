@@ -38,7 +38,7 @@ IF
 THEN
   RESPONSE #40
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -71,7 +71,7 @@ IF
 THEN
   RESPONSE #40
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -104,7 +104,7 @@ IF
 THEN
   RESPONSE #40
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -137,12 +137,12 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -180,12 +180,12 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -223,18 +223,18 @@ IF
 THEN
   RESPONSE #15
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -272,7 +272,7 @@ IF
 THEN
   RESPONSE #40
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -306,12 +306,12 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -349,14 +349,14 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -394,14 +394,14 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -445,21 +445,21 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -503,16 +503,16 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -552,14 +552,14 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -603,24 +603,24 @@ IF
 THEN
   RESPONSE #15
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -660,24 +660,24 @@ IF
 THEN
   RESPONSE #15
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -724,27 +724,27 @@ IF
 THEN
   RESPONSE #15
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -791,27 +791,27 @@ IF
 THEN
   RESPONSE #15
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -853,37 +853,37 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -941,24 +941,24 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -1001,27 +1001,27 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -1066,30 +1066,30 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -1134,33 +1134,33 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -1212,36 +1212,36 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -1295,39 +1295,39 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -1381,24 +1381,24 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -1441,27 +1441,27 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -1506,30 +1506,30 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -1579,33 +1579,33 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -1659,36 +1659,36 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -1744,39 +1744,39 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -1828,24 +1828,24 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
      SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -1882,27 +1882,27 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
      SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -1946,30 +1946,30 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
      SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -2015,33 +2015,33 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
      SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -2091,36 +2091,36 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
      SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -2172,39 +2172,39 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
      SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -2266,14 +2266,14 @@ IF
 THEN
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #18
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -2299,14 +2299,14 @@ IF
 THEN
   RESPONSE #50
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #18
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -2332,19 +2332,19 @@ IF
 THEN
   RESPONSE #25
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #25
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #17
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -2370,19 +2370,19 @@ IF
 THEN
   RESPONSE #25
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #25
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #17
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -2408,19 +2408,19 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #17
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -2446,30 +2446,30 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -2495,19 +2495,19 @@ IF
 THEN
   RESPONSE #25
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #25
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #16
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -2534,25 +2534,25 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #16
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -2578,26 +2578,26 @@ IF
 THEN
   RESPONSE #25
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #25
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -2623,33 +2623,33 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -2675,28 +2675,28 @@ IF
 THEN
   RESPONSE #25
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #25
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -2722,42 +2722,42 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -2783,28 +2783,28 @@ IF
 THEN
   RESPONSE #25
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #25
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -2830,30 +2830,30 @@ IF
 THEN
   RESPONSE #25
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #25
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -2879,36 +2879,36 @@ IF
 THEN
   RESPONSE #25
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #25
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #11
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -2934,41 +2934,41 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -2994,34 +2994,34 @@ IF
 THEN
   RESPONSE #25
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #25
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -3047,51 +3047,51 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #11
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -3120,32 +3120,32 @@ IF
 THEN
   RESPONSE #25
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #25
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -3174,44 +3174,44 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -3240,49 +3240,49 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -3311,52 +3311,52 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -3390,63 +3390,63 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -3480,60 +3480,60 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -3573,34 +3573,34 @@ IF
 THEN
   RESPONSE #25
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #25
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -3629,46 +3629,46 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -3702,51 +3702,51 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -3780,54 +3780,54 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -3863,66 +3863,66 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -3958,62 +3958,62 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -4050,36 +4050,36 @@ IF
 THEN
   RESPONSE #25
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
      SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #25
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -4103,48 +4103,48 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
      SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -4174,53 +4174,53 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
      SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -4250,56 +4250,56 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
      SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -4331,69 +4331,69 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
      SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -4425,64 +4425,64 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
      SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
-    CreateCreature("GIBBER01",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
+    CreateCreature("ZG#SGIBB",[2253.3243],0)  // Gibberling
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
-    CreateCreature("WOLF01",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[2253.3243],0)  // Wolf
     SetGlobalTimer("550022533243","%GibberlingMountains%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset22533243","%GibberlingMountains%",1)
@@ -4530,4 +4530,3 @@ THEN
     CreateCreature("WOLFDI",[2253.3243],0)  // ~Dire Wolf~
     SetGlobalTimer("550022533243","%GibberlingMountains%",2400)
 END
-
