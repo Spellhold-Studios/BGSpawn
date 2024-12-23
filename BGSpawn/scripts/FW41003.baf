@@ -6873,7 +6873,7 @@ THEN
   RESPONSE #14
     SetGlobal("SpawnReset42053560","%ArchaeologicalSite%",1)
     CreateCreature("WOLFDR01",[4205.3560],0)  // Dread Wolf
-    CreateCreature("WOLFWERE",[4205.3560],0)  // Wolfwere
+    CreateCreature("WOLFWE",[4205.3560],0)  // Wolfwere
     SetGlobalTimer("410042053560","%ArchaeologicalSite%",EIGHT_HOURS)
 END
 
@@ -8450,4 +8450,3 @@ THEN
     CreateCreature("TASLOI",[4205.3560],0)  // ~Tasloi~
     SetGlobalTimer("410042053560","%ArchaeologicalSite%",2400)
 END
-
