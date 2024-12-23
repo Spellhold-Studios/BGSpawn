@@ -1,4 +1,9 @@
- # 1.3.2: Graion Dilach
+# 1.3.4 Graion Dilach
+- Fix: Change references from missing WOLFWE to BG1 WOLFWERE creature.
+- Fix: A few spawns having wrong area and timer references in North Nashkel Road.
+- Change: Clone BG2 backported creatures to their own resources instead of using them directly to prevent unintended behaviour from difficulty-altering mods and prevent leaking BG2 random treasures into the BG1 section of the game.
+
+# 1.3.3: Graion Dilach
 - Fix: Dying spawned Amnian soldiers preventing mine entrance.
 
  # 1.3.2: Graion Dilach
@@ -42,7 +47,7 @@
 - Fix: Btelite.cre removed
 
 # V 1.10
-- Fix: Banditc.cre changed to sanditc.cre and set as Henemy". 
+- Fix: Banditc.cre changed to sanditc.cre and set as Henemy".
 - Fix: Russian translation updated (by Prowler)
 
 # V 1.09
