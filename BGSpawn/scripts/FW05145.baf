@@ -38,14 +38,14 @@ IF
 THEN
   RESPONSE #60
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPLIG01",[247.2268],0)  // Lightning Mephit
+    CreateCreature("ZG#SMELI",[247.2268],0)  // Lightning Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPAIR01",[247.2268],0)  // Air Mephit
+    CreateCreature("ZG#SMEAI",[247.2268],0)  // Air Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -66,14 +66,14 @@ IF
 THEN
   RESPONSE #60
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPLIG01",[247.2268],0)  // Lightning Mephit
+    CreateCreature("ZG#SMELI",[247.2268],0)  // Lightning Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPAIR01",[247.2268],0)  // Air Mephit
+    CreateCreature("ZG#SMEAI",[247.2268],0)  // Air Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -94,14 +94,14 @@ IF
 THEN
   RESPONSE #60
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPLIG01",[247.2268],0)  // Lightning Mephit
+    CreateCreature("ZG#SMELI",[247.2268],0)  // Lightning Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPAIR01",[247.2268],0)  // Air Mephit
+    CreateCreature("ZG#SMEAI",[247.2268],0)  // Air Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -122,14 +122,14 @@ IF
 THEN
   RESPONSE #60
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPLIG01",[247.2268],0)  // Lightning Mephit
+    CreateCreature("ZG#SMELI",[247.2268],0)  // Lightning Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPAIR01",[247.2268],0)  // Air Mephit
+    CreateCreature("ZG#SMEAI",[247.2268],0)  // Air Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -150,14 +150,14 @@ IF
 THEN
   RESPONSE #60
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPLIG01",[247.2268],0)  // Lightning Mephit
+    CreateCreature("ZG#SMELI",[247.2268],0)  // Lightning Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPAIR01",[247.2268],0)  // Air Mephit
+    CreateCreature("ZG#SMEAI",[247.2268],0)  // Air Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -178,14 +178,14 @@ IF
 THEN
   RESPONSE #60
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPLIG01",[247.2268],0)  // Lightning Mephit
+    CreateCreature("ZG#SMELI",[247.2268],0)  // Lightning Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPAIR01",[247.2268],0)  // Air Mephit
+    CreateCreature("ZG#SMEAI",[247.2268],0)  // Air Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 
@@ -207,14 +207,14 @@ IF
 THEN
   RESPONSE #50
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPLIG01",[247.2268],0)  // Lightning Mephit
+    CreateCreature("ZG#SMELI",[247.2268],0)  // Lightning Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPAIR01",[247.2268],0)  // Air Mephit
+    CreateCreature("ZG#SMEAI",[247.2268],0)  // Air Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -235,14 +235,14 @@ IF
 THEN
   RESPONSE #50
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPLIG01",[247.2268],0)  // Lightning Mephit
+    CreateCreature("ZG#SMELI",[247.2268],0)  // Lightning Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPAIR01",[247.2268],0)  // Air Mephit
+    CreateCreature("ZG#SMEAI",[247.2268],0)  // Air Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -263,14 +263,14 @@ IF
 THEN
   RESPONSE #50
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPLIG01",[247.2268],0)  // Lightning Mephit
+    CreateCreature("ZG#SMELI",[247.2268],0)  // Lightning Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPAIR01",[247.2268],0)  // Air Mephit
+    CreateCreature("ZG#SMEAI",[247.2268],0)  // Air Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -291,14 +291,14 @@ IF
 THEN
   RESPONSE #50
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPLIG01",[247.2268],0)  // Lightning Mephit
+    CreateCreature("ZG#SMELI",[247.2268],0)  // Lightning Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPAIR01",[247.2268],0)  // Air Mephit
+    CreateCreature("ZG#SMEAI",[247.2268],0)  // Air Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -319,14 +319,14 @@ IF
 THEN
   RESPONSE #50
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPLIG01",[247.2268],0)  // Lightning Mephit
+    CreateCreature("ZG#SMELI",[247.2268],0)  // Lightning Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPAIR01",[247.2268],0)  // Air Mephit
+    CreateCreature("ZG#SMEAI",[247.2268],0)  // Air Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -347,19 +347,19 @@ IF
 THEN
   RESPONSE #25
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPLIG01",[247.2268],0)  // Lightning Mephit
+    CreateCreature("ZG#SMELI",[247.2268],0)  // Lightning Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #25
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPLIG01",[247.2268],0)  // Lightning Mephit
-    CreateCreature("MEPLIG01",[247.2268],0)  // Lightning Mephit
+    CreateCreature("ZG#SMELI",[247.2268],0)  // Lightning Mephit
+    CreateCreature("ZG#SMELI",[247.2268],0)  // Lightning Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPAIR01",[247.2268],0)  // Air Mephit
+    CreateCreature("ZG#SMEAI",[247.2268],0)  // Air Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 
@@ -381,26 +381,26 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -421,26 +421,26 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -461,26 +461,26 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -501,26 +501,26 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -541,26 +541,26 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -581,26 +581,26 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 
@@ -625,26 +625,26 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -668,26 +668,26 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -711,26 +711,26 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -754,51 +754,51 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -822,77 +822,77 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -916,77 +916,77 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 
@@ -1011,22 +1011,22 @@ IF
 THEN
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -1050,22 +1050,22 @@ IF
 THEN
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -1089,22 +1089,22 @@ IF
 THEN
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -1128,42 +1128,42 @@ IF
 THEN
   RESPONSE #15
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -1187,48 +1187,48 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -1252,57 +1252,57 @@ IF
 THEN
   RESPONSE #15
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 
@@ -1321,22 +1321,22 @@ IF
 THEN
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -1354,22 +1354,22 @@ IF
 THEN
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -1387,22 +1387,22 @@ IF
 THEN
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -1420,42 +1420,42 @@ IF
 THEN
   RESPONSE #15
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -1473,48 +1473,48 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -1532,57 +1532,57 @@ IF
 THEN
   RESPONSE #15
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 
@@ -1606,14 +1606,14 @@ IF
 THEN
   RESPONSE #60
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPLIG01",[247.2268],0)  // Lightning Mephit
+    CreateCreature("ZG#SMELI",[247.2268],0)  // Lightning Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPAIR01",[247.2268],0)  // Air Mephit
+    CreateCreature("ZG#SMEAI",[247.2268],0)  // Air Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -1634,14 +1634,14 @@ IF
 THEN
   RESPONSE #60
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPLIG01",[247.2268],0)  // Lightning Mephit
+    CreateCreature("ZG#SMELI",[247.2268],0)  // Lightning Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPAIR01",[247.2268],0)  // Air Mephit
+    CreateCreature("ZG#SMEAI",[247.2268],0)  // Air Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -1662,14 +1662,14 @@ IF
 THEN
   RESPONSE #60
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPLIG01",[247.2268],0)  // Lightning Mephit
+    CreateCreature("ZG#SMELI",[247.2268],0)  // Lightning Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPAIR01",[247.2268],0)  // Air Mephit
+    CreateCreature("ZG#SMEAI",[247.2268],0)  // Air Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -1690,14 +1690,14 @@ IF
 THEN
   RESPONSE #60
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPLIG01",[247.2268],0)  // Lightning Mephit
+    CreateCreature("ZG#SMELI",[247.2268],0)  // Lightning Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPAIR01",[247.2268],0)  // Air Mephit
+    CreateCreature("ZG#SMEAI",[247.2268],0)  // Air Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -1718,14 +1718,14 @@ IF
 THEN
   RESPONSE #60
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPLIG01",[247.2268],0)  // Lightning Mephit
+    CreateCreature("ZG#SMELI",[247.2268],0)  // Lightning Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPAIR01",[247.2268],0)  // Air Mephit
+    CreateCreature("ZG#SMEAI",[247.2268],0)  // Air Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -1746,14 +1746,14 @@ IF
 THEN
   RESPONSE #60
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPLIG01",[247.2268],0)  // Lightning Mephit
+    CreateCreature("ZG#SMELI",[247.2268],0)  // Lightning Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPAIR01",[247.2268],0)  // Air Mephit
+    CreateCreature("ZG#SMEAI",[247.2268],0)  // Air Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 
@@ -1775,14 +1775,14 @@ IF
 THEN
   RESPONSE #50
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPLIG01",[247.2268],0)  // Lightning Mephit
+    CreateCreature("ZG#SMELI",[247.2268],0)  // Lightning Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPAIR01",[247.2268],0)  // Air Mephit
+    CreateCreature("ZG#SMEAI",[247.2268],0)  // Air Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -1803,14 +1803,14 @@ IF
 THEN
   RESPONSE #50
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPLIG01",[247.2268],0)  // Lightning Mephit
+    CreateCreature("ZG#SMELI",[247.2268],0)  // Lightning Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPAIR01",[247.2268],0)  // Air Mephit
+    CreateCreature("ZG#SMEAI",[247.2268],0)  // Air Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -1831,14 +1831,14 @@ IF
 THEN
   RESPONSE #50
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPLIG01",[247.2268],0)  // Lightning Mephit
+    CreateCreature("ZG#SMELI",[247.2268],0)  // Lightning Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPAIR01",[247.2268],0)  // Air Mephit
+    CreateCreature("ZG#SMEAI",[247.2268],0)  // Air Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -1859,14 +1859,14 @@ IF
 THEN
   RESPONSE #50
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPLIG01",[247.2268],0)  // Lightning Mephit
+    CreateCreature("ZG#SMELI",[247.2268],0)  // Lightning Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPAIR01",[247.2268],0)  // Air Mephit
+    CreateCreature("ZG#SMEAI",[247.2268],0)  // Air Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -1887,14 +1887,14 @@ IF
 THEN
   RESPONSE #50
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPLIG01",[247.2268],0)  // Lightning Mephit
+    CreateCreature("ZG#SMELI",[247.2268],0)  // Lightning Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPAIR01",[247.2268],0)  // Air Mephit
+    CreateCreature("ZG#SMEAI",[247.2268],0)  // Air Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -1915,19 +1915,19 @@ IF
 THEN
   RESPONSE #25
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPLIG01",[247.2268],0)  // Lightning Mephit
+    CreateCreature("ZG#SMELI",[247.2268],0)  // Lightning Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #25
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPLIG01",[247.2268],0)  // Lightning Mephit
-    CreateCreature("MEPLIG01",[247.2268],0)  // Lightning Mephit
+    CreateCreature("ZG#SMELI",[247.2268],0)  // Lightning Mephit
+    CreateCreature("ZG#SMELI",[247.2268],0)  // Lightning Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPAIR01",[247.2268],0)  // Air Mephit
+    CreateCreature("ZG#SMEAI",[247.2268],0)  // Air Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 
@@ -1949,26 +1949,26 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -1989,26 +1989,26 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -2029,26 +2029,26 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -2069,26 +2069,26 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -2109,26 +2109,26 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -2149,26 +2149,26 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 
@@ -2193,26 +2193,26 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -2236,26 +2236,26 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -2279,26 +2279,26 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -2322,51 +2322,51 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -2390,77 +2390,77 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -2484,77 +2484,77 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
-    CreateCreature("MEPFIR01",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
+    CreateCreature("ZG#SMEFI",[247.2268],0)  // Fire Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
-    CreateCreature("MEPDUS01",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
+    CreateCreature("ZG#SMEDU",[247.2268],0)  // Dust Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
-    CreateCreature("MEPSMO01",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
+    CreateCreature("ZG#SMESM",[247.2268],0)  // Smoke Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
-    CreateCreature("MEPICE01",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
+    CreateCreature("ZG#SMEIC",[247.2268],0)  // Ice Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
-    CreateCreature("MEPOOZ01",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
+    CreateCreature("ZG#SMEOO",[247.2268],0)  // Ooze Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 
@@ -2579,22 +2579,22 @@ IF
 THEN
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -2618,22 +2618,22 @@ IF
 THEN
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -2657,22 +2657,22 @@ IF
 THEN
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -2696,42 +2696,42 @@ IF
 THEN
   RESPONSE #15
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -2755,48 +2755,48 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -2820,57 +2820,57 @@ IF
 THEN
   RESPONSE #15
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 
@@ -2889,22 +2889,22 @@ IF
 THEN
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -2922,22 +2922,22 @@ IF
 THEN
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -2955,22 +2955,22 @@ IF
 THEN
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -2988,42 +2988,42 @@ IF
 THEN
   RESPONSE #15
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -3041,48 +3041,48 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 IF
@@ -3100,57 +3100,57 @@ IF
 THEN
   RESPONSE #15
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
-    CreateCreature("MEPMAG01",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
+    CreateCreature("ZG#SMEMA",[247.2268],0)  // Magma Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
-    CreateCreature("MEPMIS01",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
+    CreateCreature("ZG#SMEMS",[247.2268],0)  // Mist Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
-    CreateCreature("MEPMIN01",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
+    CreateCreature("ZG#SMEMN",[247.2268],0)  // Mineral Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2472268","%DurlagsTower_D4%",1)
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
-    CreateCreature("MEPSTE01",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
+    CreateCreature("ZG#SMEST",[247.2268],0)  // Steam Mephit
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",EIGHT_HOURS)
 END
 
@@ -3179,4 +3179,3 @@ THEN
     CreateCreature("GHOULLOR",[247.2268],0)  // ~Greater Ghoul~
     SetGlobalTimer("05142472268","%DurlagsTower_D4%",2400)
 END
-

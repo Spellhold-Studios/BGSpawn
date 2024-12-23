@@ -24,7 +24,7 @@ DEFINE_PATCH_MACRO are_update_offset BEGIN
         OR (("%actor_off%" = EVALUATE_BUFFER "%%are_update_offset_datatype_off%%") AND (EVALUATE_BUFFER "%%are_update_offset_datatype_num%%" = 0))) BEGIN
         WRITE_LONG 0x54 ("%actor_off%" + "%are_update_offset_increment%")
     END
-    PATCH_IF (NOT (("%are_update_offset_datatype%" STRING_COMPARE_CASE "info")=0))   
+    PATCH_IF (NOT (("%are_update_offset_datatype%" STRING_COMPARE_CASE "info")=0))
         AND (("%info_off%" > EVALUATE_BUFFER "%%are_update_offset_datatype_off%%")
         OR (("%info_off%" = EVALUATE_BUFFER "%%are_update_offset_datatype_off%%") AND (EVALUATE_BUFFER "%%are_update_offset_datatype_num%%" = 0))) BEGIN
         WRITE_LONG 0x5c ("%info_off%" + "%are_update_offset_increment%")
@@ -120,7 +120,7 @@ END
 ALWAYS
 
     OUTER_SPRINT MOD_FOLDER BGSpawn
-    
+
     DEFINE_ACTION_FUNCTION Set-RespawnTime INT_VAR spawns = 2400 BEGIN
         // The following replaces EIGHT_HOURS value in all .baf files with time of re-spawning from users' input. Thanks ascension64! :-)
         COPY ~%MOD_FOLDER%/scripts~ ~%MOD_FOLDER%/scripts~
@@ -407,8 +407,144 @@ BEGIN @1101 DESIGNATED 1000 LABEL "BGSpawn-Main"
     COPY ~%MOD_FOLDER%/cre/sironarc.CRE~ ~override~
         SAY 0x8 @1305
         SAY 0xc @1305
+    // Clone Amnish Soldier (BG1) to prevent Emerson blocking access to the mines when BGSpawn spawnees are killed by monsters
     COPY_EXISTING ~amnis3.CRE~ ~override/samnis3.CRE~
         WRITE_ASCII 0x280 ~~ #20
+
+    // Clone backported BG2 creatures used in BG1 areas
+    // This uses a 4-character dedicated-for-cloning prefix within my namespace to prevent accidental overlaps within the S namespace
+    // Graion Dilach, 2024-12-23
+    ACTION_DEFINE_ASSOCIATIVE_ARRAY backport_bg2_cres BEGIN
+        basgrt01  =>   zg#sbgrt    // Greater Basilisk
+        catleo01  =>   zg#scleo    // Leopard
+        catlim01  =>   zg#sclim    // Mountain Lion
+        catlyn01  =>   zg#sclyn    // Giant Lynx
+        catpan01  =>   zg#scpan    // Panther
+        cattig01  =>   zg#sctig    // Wild Tiger
+        deer01    =>   zg#sdeer    // Deer
+        dopgre01  =>   zg#sdopg    // Greater Doppelganger
+        dopple01  =>   zg#sdopp    // Doppelganger
+        elehob01  =>   zg#sgoco    // Goblin Commando
+        ghogr01   =>   zg#sghgr    // Greater Ghoul
+        gholor01  =>   zg#sghlr    // Ghoul Lord
+        gibber01  =>   zg#sgibb    // Gibberling
+        gnlcap01  =>   zg#sgnoc    // Gnoll Captain
+        gnleli01  =>   zg#sgnoe    // Gnoll Elite
+        gnlsla01  =>   zg#sgnos    // Gnoll Slasher
+        gnlvet01  =>   zg#sgnov    // Gnoll Veteran
+        hellho01  =>   zg#sheho    // Hell Hound
+        hgnymph   =>   zg#snymp    // Nymph
+        hobarc01  =>   zg#shoba    // Hobgoblin Archer
+        hobcap01  =>   zg#shobc    // Hobgoblin Captain
+        hobsha01  =>   zg#shobs    // Hobgoblin Shaman
+        hobwar01  =>   zg#shobw    // Hobgoblin Warrior
+        hobwiz01  =>   zg#shobm    // Hobgoblin Wizard
+        icgob03   =>   zg#sgob3    // Goblin
+        icgob04   =>   zg#sgob4    // Goblin Captain
+        jelgra01  =>   zg#sjlga    // Gray Ooze
+        jelgre01  =>   zg#sjlge    // Green Slime
+        jelmus01  =>   zg#sjlmu    // Mustard Jelly
+        jeloch01  =>   zg#sjloc    // Ochre Jelly
+        kobcap01  =>   zg#skoca    // Kobold Captain
+        kobkam01  =>   zg#skoka    // Kamikaze Kobold
+        kobscr01  =>   zg#skosc    // Kobold Scribe
+        kobsha01  =>   zg#skosh    // Kobold Shaman
+        kobwit01  =>   zg#skowi    // Kobold Witch Doctor
+        mepair01  =>   zg#smeai    // Air Mephit
+        mepdus01  =>   zg#smedu    // Dust Mephit
+        mepfir01  =>   zg#smefi    // Fire Mephit
+        mepice01  =>   zg#smeic    // Ice Mephit
+        meplig01  =>   zg#smeli    // Lightning Mephit
+        mepmag01  =>   zg#smema    // Magma Mephit
+        mepmin01  =>   zg#smemn    // Mineral Mephit
+        mepmis01  =>   zg#smems    // Mist Mephit
+        mepooz01  =>   zg#smeoo    // Ooze Mephit
+        mepsmo01  =>   zg#smesm    // Smoke Mephit
+        mepste01  =>   zg#smest    // Steam Mephit
+        mistho01  =>   zg#smiho    // Mist Horror
+        moose     =>   zg#smoos    // Moose
+        mummy01   =>   zg#smumm    // Mummy
+        nevm1     =>   zg#swigh    // Wight
+        orc01     =>   zg#sorc     // Orc
+        orc02     =>   zg#sorca    // Orc Archer
+        orc03     =>   zg#sorcp    // Orc Priest
+        orc04     =>   zg#sorcm    // Orc Mage
+        orc05     =>   zg#sorog    // Orog
+        shadow01  =>   zg#sshad    // Shadow
+        shawol01  =>   zg#sshwo    // Shade Wolf
+        shawol02  =>   zg#sshgw    // Greater Shade Wolf
+        sickrat   =>   zg#sdrat    // Diseased Rat
+        sirine01  =>   zg#ssiri    // Sirine
+        skelwa    =>   zg#sskw1    // Skeleton Warrior (explicitly BG2 variant!)
+        skelwa03  =>   zg#sskw3    // Skeleton Warrior (explicitly BG2 variant!)
+        trolde01  =>   zg#strde    // Desert Troll
+        troll01   =>   zg#strol    // Troll
+        vampif01  =>   zg#svamf    // Vampire (Female)
+        vampim01  =>   zg#svamm    // Vampire (Male)
+        wolf01    =>   zg#swolf    // Wolf
+        wolfdr01  =>   zg#swodr    // Dread Wolf
+        wolfgr01  =>   zg#swogr    // Greater Wolfwere
+        wolfva01  =>   zg#swova    // Vampiric Wolf
+        wolfzo01  =>   zg#swozo    // Zombie Wolf
+        wraith01  =>   zg#swrai    // Wraith
+    END
+
+    // Clear scriptname upon clones to prevent conflicts
+    ACTION_PHP_EACH backport_bg2_cres AS crekey => crevalue BEGIN
+        COPY_EXISTING ~%crekey%.cre~ ~override/%crevalue%.cre~
+                WRITE_ASCII 0x280 ~~ #20
+    END
+
+    // Individual backport fixes:
+    // hobgoblin group
+    // captain: restore script name to ensure wizard fleeing on death
+    //          (to-do: revisit this after SCS BCfH reminds captains to use their scroll)
+    COPY_EXISTING ~zg#shobc.cre~ ~override~
+        WRITE_ASCII 0x280 ~HobgoblinLeader~ #20
+    // shaman: split off the hobgoblin-specific block from HGSHAM01.BCS and use a common script
+    //         along to prevent mods overwriting HGSHAM01 overbuffing it here, while still
+    //         maintain the option for SCS to regenerate the spellbook
+    //         this drops Sanctuary from the shaman though, due to lack of a common script
+    //         featuring it's complete spellbook
+    COMPILE EVALUATE_BUFFER ~%MOD_FOLDER%/cre/zg#shobs.baf~
+    COPY_EXISTING ~zg#shobs.cre~ ~override~
+        WRITE_ASCII 0x258 ~ZG#SHOBS~ #8
+        WRITE_ASCII 0x260 ~PRIES6B~ #8
+    // wizard: split off the hobgoblin-specific block from HGWIZ01.BCS and use a common script
+    //         along to prevent mods overwriting HGWIZ01 overbuffing it here, while still
+    //         maintain the option for SCS to regenerate the spellbook
+    //         also cheats in the Captain's haste as a free spell (to-do: revisit after there
+    //         is a guideline for mods to interact with SCS spellchoices.2da)
+    COMPILE EVALUATE_BUFFER ~%MOD_FOLDER%/cre/zg#shobm.baf~
+    COPY_EXISTING ~zg#shobm.cre~ ~override~
+        WRITE_ASCII 0x258 ~ZG#SHOBM~ #8
+        WRITE_ASCII 0x260 ~MAGE10A~ #8
+    // kobold scribe: set level to a more sensible value of 7 (to allow SCS to roll a level 4 spell)
+    //                this monster has a spellbook and a matching script for level 5 spells
+    //                it also awards 700 XP and drops 8 random scrolls, so based on it's
+    //                other stats excluding it's level, it should be around level 9
+    //                but SCS sees it as level 1(!) and voids the whole spellbook
+    //                it's unused in oBG2, which is why this doesn't affect the base game
+    //                it's only used in high-level BGSpawn encounters
+    COPY_EXISTING ~zg#skosc.cre~ ~override~
+        WRITE_BYTE 0x234 7
+    // mummy: delete BG2 dialog file
+    //        (still uses BG2 scripts/monsters to interact with Resurrection though)
+    COPY_EXISTING ~zg#smumm.cre~ ~override~
+        WRITE_ASCII 0x2CC ~~ #8
+    // orc priest: decrease level from 12 to 6 (it can be rolled against level 4-5 groups)
+    //             so SCS only rolls a spellbook with level 4 spells
+    COPY_EXISTING ~zg#sorcp.cre~ ~override~
+        WRITE_BYTE 0x234 6
+    // orc mage: decrease level from 12 to 7 (it can be rolled against level 4-5 groups)
+    //             so SCS rolls a spellbook with a single level 4 spell
+    COPY_EXISTING ~zg#sorcm.cre~ ~override~
+        WRITE_BYTE 0x234 7
+    // greater shade wolf: delete override script referencing BG2 area
+    COPY_EXISTING ~zg#sshgw.cre~ ~override~
+        WRITE_ASCII 0x248 ~~ #8
+    // END of backporting
+
     // Compiling Scripts for Creatures
     COMPILE EVALUATE_BUFFER ~%MOD_FOLDER%/cre/sgnoll.baf~
     COMPILE EVALUATE_BUFFER ~%MOD_FOLDER%/cre/rogtro.baf~
@@ -416,14 +552,14 @@ BEGIN @1101 DESIGNATED 1000 LABEL "BGSpawn-Main"
     // END of Scripts for CRE
 
     // Copied directly from BGT-Tweaks code (ascension64)
-    ACTION_IF NOT FILE_EXISTS_IN_GAME ~FW01230.BCS~ THEN BEGIN // Check if BGT-Tutu levelled spawn is installed 
+    ACTION_IF NOT FILE_EXISTS_IN_GAME ~FW01230.BCS~ THEN BEGIN // Check if BGT-Tutu levelled spawn is installed
         COPY ~%MOD_FOLDER%/info~ ~%MOD_FOLDER%/info~
         SPRINT source "%SOURCE_RES%"
         SET info_vertex_num_new_total = 0
         PATCH_IF NOT ("%SOURCE_SIZE%" = 0) BEGIN
             FOR (i=0;i<10000;i+=1) BEGIN
             READ_ASCII ("%i%"*0xc4) info_data_new (196)
-            READ_ASCII (("%i%" + 1)*0xc4) buffer ELSE 10000 (196) 
+            READ_ASCII (("%i%" + 1)*0xc4) buffer ELSE 10000 (196)
             READ_SHORT ("%i%"*0xc4 + 0x2a) info_vertex_num_new
             SET info_vertex_num_new_total += "%info_vertex_num_new%"
             INNER_ACTION BEGIN
@@ -468,7 +604,7 @@ BEGIN @1101 DESIGNATED 1000 LABEL "BGSpawn-Main"
                     COPY ~%MOD_FOLDER%/vertex/%source%.vtx~ ~%MOD_FOLDER%/vertex/%source%.vtx~
                         READ_LONG (("%j%" + "%info_vertex_num_new_total%" - "%info_vertex_num_new%")*0x4) vertex_data_new
                     BUT_ONLY_IF_IT_CHANGES
-                    END          
+                    END
                     READ_SHORT 0x80 vertex_num
                     INSERT_BYTES ("%vertex_off%") 4
                     WRITE_LONG ("%vertex_off%") "%vertex_data_new%"
@@ -574,7 +710,7 @@ BEGIN @1507 SUBCOMPONENT @1500 DESIGNATED 3700 LABEL "BGSpawn-SpawnProbability-8
     OUTER_SPRINT "spawnRem" 15
     COMPILE EVALUATE_BUFFER ~%MOD_FOLDER%/scripts~
 BEGIN @1508 SUBCOMPONENT @1500 DESIGNATED 3800 LABEL "BGSpawn-SpawnProbability-100"
-    REQUIRE_PREDICATE MOD_IS_INSTALLED "BGSpawn.tp2" ( ID_OF_LABEL "BGSpawn.tp2" "BGSpawn-Main" ) @2    
+    REQUIRE_PREDICATE MOD_IS_INSTALLED "BGSpawn.tp2" ( ID_OF_LABEL "BGSpawn.tp2" "BGSpawn-Main" ) @2
     OUTER_SPRINT "spawnPerc" 100
     OUTER_SPRINT "spawnRem" 0
     COMPILE EVALUATE_BUFFER ~%MOD_FOLDER%/scripts~
@@ -643,7 +779,7 @@ BEGIN @1105 DESIGNATED 5000 LABEL "BGSpawn-RandomEncounters"
         // COPY ~%MOD_FOLDER%/are_eet/BG6001.ARE~ ~override~
         // COPY ~%MOD_FOLDER%/are_eet/BG6100.ARE~ ~override~
         // COMPILE EVALUATE_BUFFER ~%MOD_FOLDER%/are_eet~
-        
+
         // need to EXTEND_BOTTOM here, because COMPILE overwrite Dorn's fixed encounter (the scripts exist in the basegame already)
         EXTEND_BOTTOM ~BG5600.BCS~ ~%MOD_FOLDER%/are_eet/BG5600.baf~ EVALUATE_BUFFER
         EXTEND_BOTTOM ~BG5601.BCS~ ~%MOD_FOLDER%/are_eet/BG5601.baf~ EVALUATE_BUFFER
@@ -686,5 +822,3 @@ BEGIN @1105 DESIGNATED 5000 LABEL "BGSpawn-RandomEncounters"
     COMPILE EVALUATE_BUFFER ~%MOD_FOLDER%/cre/sftroll.baf~
     COMPILE EVALUATE_BUFFER ~%MOD_FOLDER%/cre/sftrolxd.baf~
     // END of Scripts for CRE
-
-

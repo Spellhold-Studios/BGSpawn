@@ -46,7 +46,7 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -84,7 +84,7 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -122,7 +122,7 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -160,7 +160,7 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -203,7 +203,7 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -246,7 +246,7 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -284,7 +284,7 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -322,7 +322,7 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -365,7 +365,7 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -408,7 +408,7 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -462,12 +462,12 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -517,18 +517,18 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -571,11 +571,11 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -613,11 +613,11 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -655,11 +655,11 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -697,16 +697,16 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -744,16 +744,16 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -791,26 +791,26 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -856,20 +856,20 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -914,32 +914,32 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -984,32 +984,32 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -1054,48 +1054,48 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC05",[404.340],0)  // Orog
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -1145,55 +1145,55 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC05",[404.340],0)  // Orog
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -1243,67 +1243,67 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -1360,48 +1360,48 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -1448,59 +1448,59 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -1553,69 +1553,69 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -1669,70 +1669,70 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -1791,79 +1791,79 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #5
@@ -1938,74 +1938,74 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -2068,11 +2068,11 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -2114,56 +2114,56 @@ THEN
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
-  RESPONSE #2
-    SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
-  RESPONSE #2
-    SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
-  RESPONSE #2
-    SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC05",[404.340],0)  // Orog
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
+  RESPONSE #2
+    SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
+    CreateCreature("SELORC01",[404.340],0)  // Orc Elite
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
+  RESPONSE #2
+    SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
+  RESPONSE #2
+    SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -2222,71 +2222,71 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
-  RESPONSE #2
-    SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("SELORC01",[404.340],0)  // Orc Elite
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
+  RESPONSE #2
+    SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
+    CreateCreature("SELORC01",[404.340],0)  // Orc Elite
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -2360,73 +2360,73 @@ THEN
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
-    SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
-  RESPONSE #2
-    SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("SELORC01",[404.340],0)  // Orc Elite
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
+    SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
+  RESPONSE #2
+    SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
+    CreateCreature("SELORC01",[404.340],0)  // Orc Elite
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -2515,81 +2515,81 @@ THEN
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
-    SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
-  RESPONSE #2
-    SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("SELORC01",[404.340],0)  // Orc Elite
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
+    SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
+  RESPONSE #2
+    SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
+    CreateCreature("SELORC01",[404.340],0)  // Orc Elite
+    CreateCreature("SELORC01",[404.340],0)  // Orc Elite
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -2690,61 +2690,61 @@ THEN
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -2752,8 +2752,8 @@ THEN
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -2835,7 +2835,7 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -2873,7 +2873,7 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -2911,7 +2911,7 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -2949,7 +2949,7 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -2992,7 +2992,7 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -3035,7 +3035,7 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -3073,7 +3073,7 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -3111,7 +3111,7 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -3154,7 +3154,7 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -3197,7 +3197,7 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -3251,12 +3251,12 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -3306,18 +3306,18 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
-    CreateCreature("WOLF01",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[404.340],0)  // Wolf
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -3360,11 +3360,11 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -3402,11 +3402,11 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -3444,11 +3444,11 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -3486,16 +3486,16 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -3533,16 +3533,16 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -3580,26 +3580,26 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -3645,20 +3645,20 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -3703,32 +3703,32 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -3773,32 +3773,32 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -3843,48 +3843,48 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC05",[404.340],0)  // Orog
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -3934,55 +3934,55 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC05",[404.340],0)  // Orog
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -4032,67 +4032,67 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -4149,48 +4149,48 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -4237,59 +4237,59 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -4342,69 +4342,69 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -4458,70 +4458,70 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -4580,79 +4580,79 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #5
@@ -4727,74 +4727,74 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -4857,11 +4857,11 @@ THEN
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -4903,56 +4903,56 @@ THEN
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
-  RESPONSE #2
-    SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
-  RESPONSE #2
-    SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
-  RESPONSE #2
-    SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC05",[404.340],0)  // Orog
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
+  RESPONSE #2
+    SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
+    CreateCreature("SELORC01",[404.340],0)  // Orc Elite
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
+  RESPONSE #2
+    SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
+  RESPONSE #2
+    SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -5011,71 +5011,71 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC05",[404.340],0)  // Orog
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
-  RESPONSE #2
-    SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SOROG",[404.340],0)  // Orog
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("SELORC01",[404.340],0)  // Orc Elite
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
+  RESPONSE #2
+    SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
+    CreateCreature("SELORC01",[404.340],0)  // Orc Elite
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -5149,73 +5149,73 @@ THEN
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
-    SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
-  RESPONSE #2
-    SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("SELORC01",[404.340],0)  // Orc Elite
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
+    SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
+  RESPONSE #2
+    SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
+    CreateCreature("SELORC01",[404.340],0)  // Orc Elite
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -5304,81 +5304,81 @@ THEN
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
-    SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
-  RESPONSE #2
-    SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
-    CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("SELORC01",[404.340],0)  // Orc Elite
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
+    SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
+  RESPONSE #2
+    SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
+    CreateCreature("SELORC01",[404.340],0)  // Orc Elite
+    CreateCreature("SELORC01",[404.340],0)  // Orc Elite
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -5479,61 +5479,61 @@ THEN
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC01",[404.340],0)  // Orc
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC02",[404.340],0)  // Orc Archer
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[404.340],0)  // Orc
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[404.340],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -5541,8 +5541,8 @@ THEN
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
     CreateCreature("SELORC01",[404.340],0)  // Orc Elite
-    CreateCreature("ORC03",[404.340],0)  // Orc Priest
-    CreateCreature("ORC04",[404.340],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[404.340],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[404.340],0)  // Orc Mage
     SetGlobalTimer("5301404340","%Encounter_Forest2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset404340","%Encounter_Forest2%",1)
@@ -5620,4 +5620,3 @@ THEN
     CreateCreature("IRONGU",[404.340],0)  // ~Guard~
     SetGlobalTimer("5301404340","%Encounter_Forest2%",2400)
 END
-

@@ -44,7 +44,7 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -81,7 +81,7 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -118,7 +118,7 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -155,7 +155,7 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -197,7 +197,7 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -239,7 +239,7 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -276,7 +276,7 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -313,7 +313,7 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -355,7 +355,7 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -397,7 +397,7 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -450,12 +450,12 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -504,18 +504,18 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -557,11 +557,11 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -598,11 +598,11 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -639,11 +639,11 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -680,16 +680,16 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -726,16 +726,16 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -772,26 +772,26 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -836,20 +836,20 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -893,32 +893,32 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -962,32 +962,32 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -1031,48 +1031,48 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -1121,55 +1121,55 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -1218,67 +1218,67 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -1334,48 +1334,48 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -1421,59 +1421,59 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -1525,69 +1525,69 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -1640,70 +1640,70 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -1761,79 +1761,79 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #5
@@ -1907,74 +1907,74 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -2036,11 +2036,11 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -2081,56 +2081,56 @@ THEN
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
-  RESPONSE #2
-    SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
-  RESPONSE #2
-    SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
-  RESPONSE #2
-    SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
+  RESPONSE #2
+    SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
+    CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
+  RESPONSE #2
+    SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
+  RESPONSE #2
+    SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -2188,71 +2188,71 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
-  RESPONSE #2
-    SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
+  RESPONSE #2
+    SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
+    CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -2325,73 +2325,73 @@ THEN
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
-    SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
-  RESPONSE #2
-    SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
+    SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
+  RESPONSE #2
+    SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
+    CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -2479,81 +2479,81 @@ THEN
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
-    SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
-  RESPONSE #2
-    SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
+    SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
+  RESPONSE #2
+    SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
+    CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
+    CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -2653,61 +2653,61 @@ THEN
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -2715,8 +2715,8 @@ THEN
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -2797,7 +2797,7 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -2834,7 +2834,7 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -2871,7 +2871,7 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -2908,7 +2908,7 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -2950,7 +2950,7 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -2992,7 +2992,7 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -3029,7 +3029,7 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -3066,7 +3066,7 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -3108,7 +3108,7 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -3150,7 +3150,7 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -3203,12 +3203,12 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -3257,18 +3257,18 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
-    CreateCreature("WOLF01",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[3615.3174],0)  // Wolf
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -3310,11 +3310,11 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -3351,11 +3351,11 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -3392,11 +3392,11 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -3433,16 +3433,16 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -3479,16 +3479,16 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -3525,26 +3525,26 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -3589,20 +3589,20 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -3646,32 +3646,32 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -3715,32 +3715,32 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -3784,48 +3784,48 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -3874,55 +3874,55 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -3971,67 +3971,67 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -4087,48 +4087,48 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -4174,59 +4174,59 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -4278,69 +4278,69 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -4393,70 +4393,70 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -4514,79 +4514,79 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #5
@@ -4660,74 +4660,74 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -4789,11 +4789,11 @@ THEN
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -4834,56 +4834,56 @@ THEN
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
-  RESPONSE #2
-    SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
-  RESPONSE #2
-    SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
-  RESPONSE #2
-    SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
+  RESPONSE #2
+    SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
+    CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
+  RESPONSE #2
+    SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
+  RESPONSE #2
+    SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -4941,71 +4941,71 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC05",[3615.3174],0)  // Orog
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
-  RESPONSE #2
-    SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SOROG",[3615.3174],0)  // Orog
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
+  RESPONSE #2
+    SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
+    CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -5078,73 +5078,73 @@ THEN
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
-    SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
-  RESPONSE #2
-    SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
+    SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
+  RESPONSE #2
+    SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
+    CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -5232,81 +5232,81 @@ THEN
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
-    SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
-  RESPONSE #2
-    SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
-    CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
+    SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
+  RESPONSE #2
+    SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
+    CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
+    CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -5406,61 +5406,61 @@ THEN
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC01",[3615.3174],0)  // Orc
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC02",[3615.3174],0)  // Orc Archer
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORC",[3615.3174],0)  // Orc
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCA",[3615.3174],0)  // Orc Archer
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -5468,8 +5468,8 @@ THEN
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
     CreateCreature("SELORC01",[3615.3174],0)  // Orc Elite
-    CreateCreature("ORC03",[3615.3174],0)  // Orc Priest
-    CreateCreature("ORC04",[3615.3174],0)  // Orc Mage
+    CreateCreature("ZG#SORCP",[3615.3174],0)  // Orc Priest
+    CreateCreature("ZG#SORCM",[3615.3174],0)  // Orc Mage
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset36153174","%CloakwoodWyverns%",1)
@@ -5542,4 +5542,3 @@ THEN
     CreateCreature("IRONGU",[3615.3174],0)  // ~Guard~
     SetGlobalTimer("170036153174","%CloakwoodWyverns%",2400)
 END
-

@@ -1329,16 +1329,16 @@ THEN
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELET03",[3096.1204],0)  // Skeleton
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELET02",[3096.1204],0)  // Skeleton (Archer)
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
@@ -1430,37 +1430,37 @@ THEN
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELET03",[3096.1204],0)  // Skeleton
     CreateCreature("SKELET03",[3096.1204],0)  // Skeleton
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELET02",[3096.1204],0)  // Skeleton (Archer)
     CreateCreature("SKELET02",[3096.1204],0)  // Skeleton (Archer)
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELET03",[3096.1204],0)  // Skeleton
     CreateCreature("SKELET02",[3096.1204],0)  // Skeleton (Archer)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
 END
@@ -1489,52 +1489,52 @@ THEN
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
 END
@@ -1557,24 +1557,24 @@ THEN
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
 END
@@ -1597,50 +1597,50 @@ THEN
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
@@ -1664,44 +1664,44 @@ THEN
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELDIS",[3096.1204],0)  // Skeleton Dispel
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
 
@@ -1725,70 +1725,70 @@ THEN
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     CreateCreature("SKELDIS",[3096.1204],0)  // Skeleton Dispel
@@ -1813,80 +1813,80 @@ THEN
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     CreateCreature("SKELDIS",[3096.1204],0)  // Skeleton Dispel
@@ -1911,84 +1911,84 @@ THEN
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     CreateCreature("SKELDIS",[3096.1204],0)  // Skeleton Dispel
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     CreateCreature("SKELDIS",[3096.1204],0)  // Skeleton Dispel
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     CreateCreature("SKELDIS",[3096.1204],0)  // Skeleton Dispel
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     CreateCreature("SKELDIS",[3096.1204],0)  // Skeleton Dispel
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     CreateCreature("SKELDIS",[3096.1204],0)  // Skeleton Dispel
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     CreateCreature("SKELDIS",[3096.1204],0)  // Skeleton Dispel
@@ -3305,16 +3305,16 @@ THEN
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELET03",[3096.1204],0)  // Skeleton
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELET02",[3096.1204],0)  // Skeleton (Archer)
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
@@ -3406,37 +3406,37 @@ THEN
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELET03",[3096.1204],0)  // Skeleton
     CreateCreature("SKELET03",[3096.1204],0)  // Skeleton
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELET02",[3096.1204],0)  // Skeleton (Archer)
     CreateCreature("SKELET02",[3096.1204],0)  // Skeleton (Archer)
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELET03",[3096.1204],0)  // Skeleton
     CreateCreature("SKELET02",[3096.1204],0)  // Skeleton (Archer)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
 END
@@ -3465,52 +3465,52 @@ THEN
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
 END
@@ -3533,24 +3533,24 @@ THEN
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
 END
@@ -3573,50 +3573,50 @@ THEN
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
@@ -3640,44 +3640,44 @@ THEN
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELDIS",[3096.1204],0)  // Skeleton Dispel
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
 
@@ -3701,70 +3701,70 @@ THEN
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     CreateCreature("SKELDIS",[3096.1204],0)  // Skeleton Dispel
@@ -3789,80 +3789,80 @@ THEN
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     CreateCreature("SKELDIS",[3096.1204],0)  // Skeleton Dispel
@@ -3887,84 +3887,84 @@ THEN
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     CreateCreature("SKELDIS",[3096.1204],0)  // Skeleton Dispel
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     CreateCreature("SKELDIS",[3096.1204],0)  // Skeleton Dispel
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     CreateCreature("SKELDIS",[3096.1204],0)  // Skeleton Dispel
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     CreateCreature("SKELICE",[3096.1204],0)  // Skeleton Ice
     CreateCreature("SKELDIS",[3096.1204],0)  // Skeleton Dispel
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     CreateCreature("SKELFIRE",[3096.1204],0)  // Skeleton Fire
     CreateCreature("SKELDIS",[3096.1204],0)  // Skeleton Dispel
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset30961204","%Candlekeep_Catacombs_L2%",1)
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA",[3096.1204],0)  // Skeleton Warrior
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
-    CreateCreature("SKELWA03",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW1",[3096.1204],0)  // Skeleton Warrior
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
+    CreateCreature("ZG#SSKW3",[3096.1204],0)  // Skeleton Warrior (Archer)
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     CreateCreature("SKELACI",[3096.1204],0)  // Skeleton Acid
     CreateCreature("SKELDIS",[3096.1204],0)  // Skeleton Dispel
@@ -3991,4 +3991,3 @@ THEN
     CreateCreature("SKELET_C",[3096.1204],0)  // ~Skeleton~
     SetGlobalTimer("261930961204","%Candlekeep_Catacombs_L2%",2400)
 END
-

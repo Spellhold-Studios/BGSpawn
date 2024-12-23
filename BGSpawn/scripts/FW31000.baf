@@ -38,7 +38,7 @@ IF
 THEN
   RESPONSE #15
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -57,7 +57,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
 END
 
@@ -79,7 +79,7 @@ IF
 THEN
   RESPONSE #15
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -98,7 +98,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
 END
 
@@ -120,7 +120,7 @@ IF
 THEN
   RESPONSE #15
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -139,7 +139,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
 END
 
@@ -161,7 +161,7 @@ IF
 THEN
   RESPONSE #15
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -180,7 +180,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
 END
 
@@ -202,12 +202,12 @@ IF
 THEN
   RESPONSE #15
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -226,7 +226,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
 END
 
@@ -248,12 +248,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -276,7 +276,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
 END
 
@@ -298,7 +298,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -317,7 +317,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -343,7 +343,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -367,7 +367,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -393,7 +393,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -422,7 +422,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -448,12 +448,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -491,7 +491,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -517,12 +517,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -562,7 +562,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -588,18 +588,18 @@ IF
 THEN
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -639,7 +639,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -665,7 +665,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -698,7 +698,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -724,12 +724,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -762,7 +762,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -788,12 +788,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -823,7 +823,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -849,18 +849,18 @@ IF
 THEN
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -897,7 +897,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -923,18 +923,18 @@ IF
 THEN
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -967,7 +967,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -975,7 +975,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -1001,14 +1001,14 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -1055,16 +1055,16 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     CreateCreature("OGREGR",[1168.341],0) // Ogrillon
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     CreateCreature("OGREHA3",[1168.341],0) // Half Ogre
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #17
@@ -1073,7 +1073,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -1102,12 +1102,12 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -1142,7 +1142,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -1171,18 +1171,18 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -1217,7 +1217,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     CreateCreature("OGREHA3",[1168.341],0) // Half Ogre
     CreateCreature("OGREGR",[1168.341],0) // Ogrillon
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
@@ -1231,7 +1231,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -1260,14 +1260,14 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -1291,7 +1291,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     CreateCreature("OGREHA3",[1168.341],0) // Half Ogre
     CreateCreature("OGREGR",[1168.341],0) // Ogrillon
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
@@ -1305,7 +1305,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -1334,21 +1334,21 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -1361,7 +1361,7 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
     CreateCreature("OGRE",[1168.341],0) // Ogre
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -1398,7 +1398,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -1427,29 +1427,29 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -1462,7 +1462,7 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
     CreateCreature("OGRE",[1168.341],0) // Ogre
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -1502,7 +1502,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -1531,24 +1531,24 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -1571,13 +1571,13 @@ THEN
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
     CreateCreature("OGRE",[1168.341],0) // Ogre
     CreateCreature("OGRE",[1168.341],0) // Ogre
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
     CreateCreature("OGRE",[1168.341],0) // Ogre
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -1628,12 +1628,12 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -1662,12 +1662,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -1706,7 +1706,7 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -1733,7 +1733,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -1762,14 +1762,14 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -1812,7 +1812,7 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -1839,7 +1839,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -1868,14 +1868,14 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -1895,7 +1895,7 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -1925,7 +1925,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -1954,18 +1954,18 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -1997,7 +1997,7 @@ THEN
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     CreateCreature("OGRE",[1168.341],0) // Ogre
     CreateCreature("OGREHA3",[1168.341],0) // Half Ogre
     CreateCreature("OGREGR",[1168.341],0) // Ogrillon
@@ -2033,12 +2033,12 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -2067,20 +2067,20 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -2115,7 +2115,7 @@ THEN
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     CreateCreature("OGRE",[1168.341],0) // Ogre
     CreateCreature("OGRE",[1168.341],0) // Ogre
     CreateCreature("OGREHA3",[1168.341],0) // Half Ogre
@@ -2161,12 +2161,12 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -2195,22 +2195,22 @@ IF
 THEN
   RESPONSE #6
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -2229,7 +2229,7 @@ THEN
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
     CreateCreature("OGRE",[1168.341],0) // Ogre
     CreateCreature("OGRE",[1168.341],0) // Ogre
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -2243,7 +2243,7 @@ THEN
     CreateCreature("OGREMA",[1168.341],0) // Ogre Mage
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
     CreateCreature("OGRE",[1168.341],0) // Ogre
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -2291,18 +2291,18 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -2337,7 +2337,7 @@ THEN
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
     CreateCreature("OGRE",[1168.341],0) // Ogre
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -2365,12 +2365,12 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -2378,7 +2378,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
 END
@@ -2414,7 +2414,7 @@ THEN
     CreateCreature("OGRE",[1168.341],0) // Ogre
     CreateCreature("OGRE",[1168.341],0) // Ogre
     CreateCreature("OGRE",[1168.341],0) // Ogre
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -2450,12 +2450,12 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -2463,7 +2463,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
 END
@@ -2513,37 +2513,37 @@ THEN
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
     CreateCreature("OGREMA",[1168.341],0) // Ogre Mage
     CreateCreature("OGREMA",[1168.341],0) // Ogre Mage
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("rogtro",[1168.341],0)  // Sea Troll
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
+    SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
+    CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
 END
@@ -2598,18 +2598,18 @@ THEN
     CreateCreature("OGREMA",[1168.341],0) // Ogre Mage
     CreateCreature("OGREMA",[1168.341],0) // Ogre Mage
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -2628,15 +2628,15 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
 END
@@ -2673,7 +2673,7 @@ THEN
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -2683,7 +2683,7 @@ THEN
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
     CreateCreature("OGRE",[1168.341],0) // Ogre
     CreateCreature("OGRE",[1168.341],0) // Ogre
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -2692,8 +2692,8 @@ THEN
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
     CreateCreature("OGRE",[1168.341],0) // Ogre
-    CreateCreature("ORC05",[1168.341],0) // Orog
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -2719,7 +2719,7 @@ THEN
     CreateCreature("OGREMA",[1168.341],0) // Ogre Mage
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
     CreateCreature("OGRE",[1168.341],0) // Ogre
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -2727,55 +2727,55 @@ THEN
     CreateCreature("OGREMA",[1168.341],0) // Ogre Mage
     CreateCreature("OGREMA",[1168.341],0) // Ogre Mage
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
-    CreateCreature("ORC05",[1168.341],0) // Orog
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("rogtro",[1168.341],0)  // Sea Troll
-    CreateCreature("rogtro",[1168.341],0)  // Sea Troll
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
-    CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
-    SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("rogtro",[1168.341],0)  // Sea Troll
+    SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("rogtro",[1168.341],0)  // Sea Troll
+    CreateCreature("rogtro",[1168.341],0)  // Sea Troll
+    SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
@@ -2857,29 +2857,29 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -2901,16 +2901,16 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
@@ -2935,7 +2935,7 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -2950,7 +2950,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #16
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -2976,7 +2976,7 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -2991,7 +2991,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #16
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -3017,7 +3017,7 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -3032,7 +3032,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #16
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -3058,7 +3058,7 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -3073,7 +3073,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #16
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -3099,12 +3099,12 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -3119,7 +3119,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -3150,18 +3150,18 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -3180,7 +3180,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -3211,7 +3211,7 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -3226,7 +3226,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -3256,12 +3256,12 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -3281,7 +3281,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -3315,18 +3315,18 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -3351,7 +3351,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -3389,14 +3389,14 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -3430,7 +3430,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -3468,14 +3468,14 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -3511,7 +3511,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -3546,21 +3546,21 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -3596,7 +3596,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -3638,12 +3638,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -3672,7 +3672,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -3698,8 +3698,8 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -3728,7 +3728,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -3754,14 +3754,14 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -3787,7 +3787,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -3818,21 +3818,21 @@ IF
 THEN
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -3865,7 +3865,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -3896,29 +3896,29 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -3951,11 +3951,11 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -3986,21 +3986,21 @@ IF
 THEN
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
-    CreateCreature("WOLF01",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
+    CreateCreature("ZG#SWOLF",[1168.341],0)  // Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -4047,26 +4047,26 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     CreateCreature("OGREGR",[1168.341],0) // Ogrillon
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     CreateCreature("OGREHA3",[1168.341],0) // Half Ogre
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -4106,7 +4106,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -4137,7 +4137,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -4166,7 +4166,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -4201,7 +4201,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     CreateCreature("OGREHA3",[1168.341],0) // Half Ogre
     CreateCreature("OGREGR",[1168.341],0) // Ogrillon
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
@@ -4211,7 +4211,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -4240,7 +4240,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -4264,7 +4264,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     CreateCreature("OGREHA3",[1168.341],0) // Half Ogre
     CreateCreature("OGREGR",[1168.341],0) // Ogrillon
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
@@ -4274,7 +4274,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -4308,12 +4308,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -4326,7 +4326,7 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
     CreateCreature("OGRE",[1168.341],0) // Ogre
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -4354,12 +4354,12 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #14
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #14
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -4399,18 +4399,18 @@ IF
 THEN
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -4423,7 +4423,7 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
     CreateCreature("OGRE",[1168.341],0) // Ogre
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -4458,12 +4458,12 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #14
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #14
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -4499,21 +4499,21 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -4536,13 +4536,13 @@ THEN
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
     CreateCreature("OGRE",[1168.341],0) // Ogre
     CreateCreature("OGRE",[1168.341],0) // Ogre
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
     CreateCreature("OGRE",[1168.341],0) // Ogre
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -4584,18 +4584,18 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -4638,7 +4638,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -4677,7 +4677,7 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -4700,11 +4700,11 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SHADOW01",[1168.341],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[1168.341],0)  // Shadow
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -4733,12 +4733,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -4781,7 +4781,7 @@ THEN
   RESPONSE #1
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -4804,11 +4804,11 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SHADOW01",[1168.341],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[1168.341],0)  // Shadow
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -4837,18 +4837,18 @@ IF
 THEN
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -4868,7 +4868,7 @@ THEN
   RESPONSE #1
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -4889,16 +4889,16 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SHADOW01",[1168.341],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[1168.341],0)  // Shadow
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -4927,21 +4927,21 @@ IF
 THEN
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -4973,7 +4973,7 @@ THEN
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     CreateCreature("OGRE",[1168.341],0) // Ogre
     CreateCreature("OGREHA3",[1168.341],0) // Half Ogre
     CreateCreature("OGREGR",[1168.341],0) // Ogrillon
@@ -5000,21 +5000,21 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SHADOW01",[1168.341],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[1168.341],0)  // Shadow
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SHADOW01",[1168.341],0)  // Shadow
-    CreateCreature("SHADOW01",[1168.341],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[1168.341],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[1168.341],0)  // Shadow
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -5048,29 +5048,29 @@ IF
 THEN
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -5105,7 +5105,7 @@ THEN
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     CreateCreature("OGRE",[1168.341],0) // Ogre
     CreateCreature("OGRE",[1168.341],0) // Ogre
     CreateCreature("OGREHA3",[1168.341],0) // Half Ogre
@@ -5136,33 +5136,33 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SHADOW01",[1168.341],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[1168.341],0)  // Shadow
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SHADOW01",[1168.341],0)  // Shadow
-    CreateCreature("SHADOW01",[1168.341],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[1168.341],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[1168.341],0)  // Shadow
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SHADOW01",[1168.341],0)  // Shadow
-    CreateCreature("SHADOW01",[1168.341],0)  // Shadow
-    CreateCreature("SHADOW01",[1168.341],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[1168.341],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[1168.341],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[1168.341],0)  // Shadow
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -5196,33 +5196,33 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -5241,7 +5241,7 @@ THEN
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
     CreateCreature("OGRE",[1168.341],0) // Ogre
     CreateCreature("OGRE",[1168.341],0) // Ogre
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -5255,7 +5255,7 @@ THEN
     CreateCreature("OGREMA",[1168.341],0) // Ogre Mage
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
     CreateCreature("OGRE",[1168.341],0) // Ogre
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -5288,36 +5288,36 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SHADOW01",[1168.341],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[1168.341],0)  // Shadow
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SHADOW01",[1168.341],0)  // Shadow
-    CreateCreature("SHADOW01",[1168.341],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[1168.341],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[1168.341],0)  // Shadow
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SHADOW01",[1168.341],0)  // Shadow
-    CreateCreature("SHADOW01",[1168.341],0)  // Shadow
-    CreateCreature("SHADOW01",[1168.341],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[1168.341],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[1168.341],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[1168.341],0)  // Shadow
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SHADOW01",[1168.341],0)  // Shadow
-    CreateCreature("SHADOW01",[1168.341],0)  // Shadow
-    CreateCreature("SHADOW01",[1168.341],0)  // Shadow
-    CreateCreature("SHADOW01",[1168.341],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[1168.341],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[1168.341],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[1168.341],0)  // Shadow
+    CreateCreature("ZG#SSHAD",[1168.341],0)  // Shadow
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -5345,12 +5345,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -5366,7 +5366,7 @@ THEN
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
     CreateCreature("OGRE",[1168.341],0) // Ogre
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -5394,12 +5394,12 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -5407,7 +5407,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
 END
@@ -5427,14 +5427,14 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -5454,7 +5454,7 @@ THEN
     CreateCreature("OGRE",[1168.341],0) // Ogre
     CreateCreature("OGRE",[1168.341],0) // Ogre
     CreateCreature("OGRE",[1168.341],0) // Ogre
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -5490,18 +5490,18 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -5509,7 +5509,7 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
 END
@@ -5529,16 +5529,16 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -5572,18 +5572,18 @@ THEN
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
     CreateCreature("OGREMA",[1168.341],0) // Ogre Mage
     CreateCreature("OGREMA",[1168.341],0) // Ogre Mage
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -5596,13 +5596,13 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
 END
@@ -5622,18 +5622,18 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -5672,25 +5672,25 @@ THEN
     CreateCreature("OGREMA",[1168.341],0) // Ogre Mage
     CreateCreature("OGREMA",[1168.341],0) // Ogre Mage
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -5703,20 +5703,20 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
@@ -5737,20 +5737,20 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -5771,7 +5771,7 @@ THEN
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -5781,7 +5781,7 @@ THEN
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
     CreateCreature("OGRE",[1168.341],0) // Ogre
     CreateCreature("OGRE",[1168.341],0) // Ogre
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -5790,8 +5790,8 @@ THEN
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
     CreateCreature("OGRE",[1168.341],0) // Ogre
-    CreateCreature("ORC05",[1168.341],0) // Orog
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -5817,7 +5817,7 @@ THEN
     CreateCreature("OGREMA",[1168.341],0) // Ogre Mage
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
     CreateCreature("OGRE",[1168.341],0) // Ogre
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -5825,26 +5825,26 @@ THEN
     CreateCreature("OGREMA",[1168.341],0) // Ogre Mage
     CreateCreature("OGREMA",[1168.341],0) // Ogre Mage
     CreateCreature("OGREBERZ",[1168.341],0) // Ogre Berserker
-    CreateCreature("ORC05",[1168.341],0) // Orog
-    CreateCreature("ORC05",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
+    CreateCreature("ZG#SOROG",[1168.341],0) // Orog
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -5863,21 +5863,21 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
@@ -5898,22 +5898,22 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
-    CreateCreature("WOLFDR01",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
+    CreateCreature("ZG#SWODR",[1168.341],0)  // Dread Wolf
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -5978,16 +5978,16 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
@@ -6002,23 +6002,23 @@ THEN
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1168341","%ShipwrecksCoast%",1)
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
-    CreateCreature("SIRINE01",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
+    CreateCreature("ZG#SSIRI",[1168.341],0)  // Sirine
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
     CreateCreature("rogtro",[1168.341],0)  // Sea Troll
@@ -6047,4 +6047,3 @@ THEN
     CreateCreature("%Wolf%",[1168.341],0)  // ~Wolf~
     SetGlobalTimer("31001168341","%ShipwrecksCoast%",2400)
 END
-
