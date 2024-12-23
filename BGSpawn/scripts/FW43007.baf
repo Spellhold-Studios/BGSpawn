@@ -7142,39 +7142,39 @@ THEN
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
     CreateCreature("KOBOLD_B",[2469.166],0) // Kobold
     CreateCreature("KOBOLD_B",[2469.166],0) // Kobold
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
     CreateCreature("KOBOLD_B",[2469.166],0) // Kobold
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
     CreateCreature("KOBOLD_B",[2469.166],0) // Kobold
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
     CreateCreature("KOBOLD_B",[2469.166],0) // Kobold
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
     CreateCreature("KOBOLD_B",[2469.166],0) // Kobold
     CreateCreature("KOBOLD_B",[2469.166],0) // Kobold
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2469166","%NorthNashkelRoad%",1)
     SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
@@ -7273,56 +7273,56 @@ THEN
     CreateCreature("KOBOLD_B",[2469.166],0) // Kobold
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
     CreateCreature("KOBOLD_B",[2469.166],0) // Kobold
     CreateCreature("KOBOLD_B",[2469.166],0) // Kobold
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
     CreateCreature("KOBOLD_B",[2469.166],0) // Kobold
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBOLD_B",[2469.166],0) // Kobold
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBOLD_B",[2469.166],0) // Kobold
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBOLD_B",[2469.166],0) // Kobold
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2469166","%NorthNashkelRoad%",1)
     SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
@@ -7418,42 +7418,42 @@ THEN
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
     CreateCreature("KOBOLD_B",[2469.166],0) // Kobold
     CreateCreature("KOBOLD_B",[2469.166],0) // Kobold
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
     CreateCreature("KOBOLD_B",[2469.166],0) // Kobold
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("KOBOLD_B",[2469.166],0) // Kobold
     CreateCreature("KOBOLD_B",[2469.166],0) // Kobold
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("KOBOLD_B",[2469.166],0) // Kobold
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2469166","%NorthNashkelRoad%",1)
     SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
@@ -7527,37 +7527,37 @@ THEN
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
     CreateCreature("KOBOLD_B",[2469.166],0) // Kobold
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("KOBOLD_B",[2469.166],0) // Kobold
     CreateCreature("KOBOLD_B",[2469.166],0) // Kobold
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2469166","%NorthNashkelRoad%",1)
     SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
@@ -7656,55 +7656,55 @@ THEN
     CreateCreature("KOBOLD_B",[2469.166],0) // Kobold
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
     CreateCreature("KOBOLD_B",[2469.166],0) // Kobold
     CreateCreature("KOBOLD_B",[2469.166],0) // Kobold
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBOLD_B",[2469.166],0) // Kobold
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2469166","%NorthNashkelRoad%",1)
     SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
@@ -7820,7 +7820,7 @@ THEN
     CreateCreature("KOBOLD_B",[2469.166],0) // Kobold
     CreateCreature("KOBOLD_B",[2469.166],0) // Kobold
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -7829,35 +7829,35 @@ THEN
     CreateCreature("KOBOLD_B",[2469.166],0) // Kobold
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -7865,7 +7865,7 @@ THEN
     CreateCreature("KOBOLD_B",[2469.166],0) // Kobold
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -7874,7 +7874,7 @@ THEN
     CreateCreature("KOBOLD_B",[2469.166],0) // Kobold
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2469166","%NorthNashkelRoad%",1)
     SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
@@ -7995,7 +7995,7 @@ THEN
     CreateCreature("KOBOLD_B",[2469.166],0) // Kobold
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -8005,7 +8005,7 @@ THEN
     CreateCreature("KOBOLD_B",[2469.166],0) // Kobold
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -8013,7 +8013,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -8021,7 +8021,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -8029,7 +8029,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -8037,7 +8037,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -8046,7 +8046,7 @@ THEN
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -8056,7 +8056,7 @@ THEN
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2469166","%NorthNashkelRoad%",1)
     SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
@@ -8187,7 +8187,7 @@ THEN
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -8196,7 +8196,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -8207,7 +8207,7 @@ THEN
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -8216,7 +8216,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -8224,7 +8224,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -8232,7 +8232,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -8241,7 +8241,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -8250,7 +8250,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -8258,7 +8258,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2469166","%NorthNashkelRoad%",1)
     SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
@@ -8427,32 +8427,32 @@ THEN
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2469166","%NorthNashkelRoad%",1)
     SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
@@ -8546,14 +8546,14 @@ THEN
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -8561,7 +8561,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -8570,7 +8570,7 @@ THEN
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2469166","%NorthNashkelRoad%",1)
     SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
@@ -8686,7 +8686,7 @@ THEN
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -8694,7 +8694,7 @@ THEN
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -8703,7 +8703,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -8713,7 +8713,7 @@ THEN
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2469166","%NorthNashkelRoad%",1)
     SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
@@ -8869,7 +8869,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -8879,7 +8879,7 @@ THEN
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -8887,7 +8887,7 @@ THEN
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -8895,7 +8895,7 @@ THEN
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -8903,14 +8903,14 @@ THEN
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("ZG#SKOSC",[2469.166],0) // Kobold Scribe
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2469166","%NorthNashkelRoad%",1)
     SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
@@ -9084,7 +9084,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -9094,7 +9094,7 @@ THEN
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -9102,7 +9102,7 @@ THEN
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -9110,7 +9110,7 @@ THEN
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -9118,14 +9118,14 @@ THEN
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("ZG#SKOSC",[2469.166],0) // Kobold Scribe
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2469166","%NorthNashkelRoad%",1)
     SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
@@ -9333,7 +9333,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("ZG#SKOKA",[2469.166],0) // Kobold Kamikaze
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -9345,7 +9345,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -9357,7 +9357,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -9369,7 +9369,7 @@ THEN
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -9381,7 +9381,7 @@ THEN
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -9391,7 +9391,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -9401,7 +9401,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -9411,7 +9411,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("ZG#SKOSC",[2469.166],0) // Kobold Scribe
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -9420,7 +9420,7 @@ THEN
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -9428,7 +9428,7 @@ THEN
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2469166","%NorthNashkelRoad%",1)
     SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
@@ -9643,7 +9643,7 @@ THEN
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("ZG#SKOKA",[2469.166],0) // Kobold Kamikaze
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -9653,7 +9653,7 @@ THEN
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -9661,7 +9661,7 @@ THEN
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -9670,7 +9670,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -9678,7 +9678,7 @@ THEN
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -9686,7 +9686,7 @@ THEN
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -9694,7 +9694,7 @@ THEN
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("ZG#SKOSC",[2469.166],0) // Kobold Scribe
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2469166","%NorthNashkelRoad%",1)
     SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
@@ -9836,7 +9836,7 @@ THEN
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("ZG#SKOKA",[2469.166],0) // Kobold Kamikaze
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -9847,7 +9847,7 @@ THEN
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -9856,7 +9856,7 @@ THEN
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -9866,7 +9866,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -9875,7 +9875,7 @@ THEN
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -9884,7 +9884,7 @@ THEN
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -9893,7 +9893,7 @@ THEN
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("ZG#SKOSC",[2469.166],0) // Kobold Scribe
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2469166","%NorthNashkelRoad%",1)
     SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
@@ -10076,7 +10076,7 @@ THEN
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("ZG#SKOKA",[2469.166],0) // Kobold Kamikaze
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -10088,7 +10088,7 @@ THEN
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBOLA_D",[2469.166],0) // Kobold Archer
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -10098,7 +10098,7 @@ THEN
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -10109,7 +10109,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -10119,7 +10119,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -10129,7 +10129,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -10139,7 +10139,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("ZG#SKOSC",[2469.166],0) // Kobold Scribe
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2469166","%NorthNashkelRoad%",1)
     SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
@@ -10310,7 +10310,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -10323,7 +10323,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -10333,7 +10333,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -10343,7 +10343,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -10353,7 +10353,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("ZG#SKOSC",[2469.166],0) // Kobold Scribe
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -10363,7 +10363,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("ZG#SKOKA",[2469.166],0) // Kobold Kamikaze
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -10374,7 +10374,7 @@ THEN
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2469166","%NorthNashkelRoad%",1)
     SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
@@ -10613,7 +10613,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -10627,7 +10627,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -10638,7 +10638,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -10649,7 +10649,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -10660,7 +10660,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("ZG#SKOSC",[2469.166],0) // Kobold Scribe
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -10671,7 +10671,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("ZG#SKOKA",[2469.166],0) // Kobold Kamikaze
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -10683,7 +10683,7 @@ THEN
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("ZG#SKOKA",[2469.166],0) // Kobold Kamikaze
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2469166","%NorthNashkelRoad%",1)
     SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
@@ -10925,7 +10925,7 @@ THEN
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -10940,7 +10940,7 @@ THEN
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -10954,7 +10954,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOSC",[2469.166],0) // Kobold Scribe
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -10968,7 +10968,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -10978,7 +10978,7 @@ THEN
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOKA",[2469.166],0) // Kobold Kamikaze
     CreateCreature("ZG#SKOKA",[2469.166],0) // Kobold Kamikaze
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -10988,7 +10988,7 @@ THEN
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
     CreateCreature("ZG#SKOKA",[2469.166],0) // Kobold Kamikaze
     CreateCreature("ZG#SKOKA",[2469.166],0) // Kobold Kamikaze
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -11001,7 +11001,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("ZG#SKOSC",[2469.166],0) // Kobold Scribe
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -11013,7 +11013,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -11027,7 +11027,7 @@ THEN
     CreateCreature("KOBLDGD",[2469.166],0) // Kobold Guard
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -11042,7 +11042,7 @@ THEN
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2469166","%NorthNashkelRoad%",1)
     SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
@@ -11322,7 +11322,7 @@ THEN
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -11330,7 +11330,7 @@ THEN
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("ZG#SKOKA",[2469.166],0) // Kobold Kamikaze
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -11338,7 +11338,7 @@ THEN
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
     CreateCreature("ZG#SKOSC",[2469.166],0) // Kobold Scribe
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -11347,7 +11347,7 @@ THEN
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -11356,7 +11356,7 @@ THEN
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -11365,7 +11365,7 @@ THEN
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOSC",[2469.166],0) // Kobold Scribe
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2469166","%NorthNashkelRoad%",1)
     SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
@@ -11487,7 +11487,7 @@ THEN
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -11499,7 +11499,7 @@ THEN
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -11508,7 +11508,7 @@ THEN
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("ZG#SKOKA",[2469.166],0) // Kobold Kamikaze
     CreateCreature("ZG#SKOKA",[2469.166],0) // Kobold Kamikaze
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -11517,7 +11517,7 @@ THEN
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -11526,7 +11526,7 @@ THEN
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOSC",[2469.166],0) // Kobold Scribe
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -11535,7 +11535,7 @@ THEN
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -11544,7 +11544,7 @@ THEN
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOSC",[2469.166],0) // Kobold Scribe
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2469166","%NorthNashkelRoad%",1)
     SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
@@ -11692,7 +11692,7 @@ THEN
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -11706,7 +11706,7 @@ THEN
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -11717,7 +11717,7 @@ THEN
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("ZG#SKOKA",[2469.166],0) // Kobold Kamikaze
     CreateCreature("ZG#SKOKA",[2469.166],0) // Kobold Kamikaze
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -11728,7 +11728,7 @@ THEN
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -11739,7 +11739,7 @@ THEN
     CreateCreature("SKOBCHIE",[2469.166],0) // Kobold Chieftain
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOSC",[2469.166],0) // Kobold Scribe
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -11750,7 +11750,7 @@ THEN
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -11761,7 +11761,7 @@ THEN
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOSC",[2469.166],0) // Kobold Scribe
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2469166","%NorthNashkelRoad%",1)
     SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
@@ -11873,7 +11873,7 @@ THEN
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -11886,7 +11886,7 @@ THEN
     CreateCreature("ZG#SKOKA",[2469.166],0) // Kobold Kamikaze
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -11899,7 +11899,7 @@ THEN
     CreateCreature("ZG#SKOKA",[2469.166],0) // Kobold Kamikaze
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -11912,7 +11912,7 @@ THEN
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -11925,7 +11925,7 @@ THEN
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -11938,7 +11938,7 @@ THEN
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOSC",[2469.166],0) // Kobold Scribe
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -11951,7 +11951,7 @@ THEN
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOSC",[2469.166],0) // Kobold Scribe
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -11964,7 +11964,7 @@ THEN
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -11977,7 +11977,7 @@ THEN
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOSC",[2469.166],0) // Kobold Scribe
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -11990,7 +11990,7 @@ THEN
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2469166","%NorthNashkelRoad%",1)
     SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
@@ -12174,7 +12174,7 @@ THEN
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -12188,7 +12188,7 @@ THEN
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -12202,7 +12202,7 @@ THEN
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -12216,7 +12216,7 @@ THEN
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -12230,7 +12230,7 @@ THEN
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -12244,7 +12244,7 @@ THEN
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOSC",[2469.166],0) // Kobold Scribe
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -12258,7 +12258,7 @@ THEN
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOSC",[2469.166],0) // Kobold Scribe
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -12272,7 +12272,7 @@ THEN
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -12286,7 +12286,7 @@ THEN
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOSC",[2469.166],0) // Kobold Scribe
     CreateCreature("ZG#SKOSC",[2469.166],0) // Kobold Scribe
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -12300,7 +12300,7 @@ THEN
     CreateCreature("ZG#SKOSH",[2469.166],0) // Kobold Shaman
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2469166","%NorthNashkelRoad%",1)
     SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
@@ -12529,7 +12529,7 @@ THEN
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("ZG#SKOKA",[2469.166],0) // Kobold Kamikaze
     CreateCreature("ZG#SKOKA",[2469.166],0) // Kobold Kamikaze
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -12545,7 +12545,7 @@ THEN
     CreateCreature("KOBCOMM",[2469.166],0) // Kobold Commando
     CreateCreature("ZG#SKOKA",[2469.166],0) // Kobold Kamikaze
     CreateCreature("ZG#SKOKA",[2469.166],0) // Kobold Kamikaze
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -12564,7 +12564,7 @@ THEN
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
     CreateCreature("ZG#SKOSC",[2469.166],0) // Kobold Scribe
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -12583,7 +12583,7 @@ THEN
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
     CreateCreature("ZG#SKOSC",[2469.166],0) // Kobold Scribe
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -12601,7 +12601,7 @@ THEN
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
     CreateCreature("ZG#SKOSC",[2469.166],0) // Kobold Scribe
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -12619,7 +12619,7 @@ THEN
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
     CreateCreature("ZG#SKOSC",[2469.166],0) // Kobold Scribe
     CreateCreature("ZG#SKOSC",[2469.166],0) // Kobold Scribe
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -12637,7 +12637,7 @@ THEN
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
     CreateCreature("ZG#SKOSC",[2469.166],0) // Kobold Scribe
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -12655,7 +12655,7 @@ THEN
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
     CreateCreature("ZG#SKOSC",[2469.166],0) // Kobold Scribe
     CreateCreature("ZG#SKOSC",[2469.166],0) // Kobold Scribe
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -12673,7 +12673,7 @@ THEN
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
     CreateCreature("ZG#SKOSC",[2469.166],0) // Kobold Scribe
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2469166","AR6600",1)
     CreateCreature("ZG#SKOCA",[2469.166],0) // Kobold Captain
@@ -12691,7 +12691,7 @@ THEN
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
     CreateCreature("ZG#SKOWI",[2469.166],0) // Kobold Witch Doctor
     CreateCreature("ZG#SKOSC",[2469.166],0) // Kobold Scribe
-    SetGlobalTimer("43002469166","AR6600",2400)
+    SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2469166","%NorthNashkelRoad%",1)
     SetGlobalTimer("43002469166","%NorthNashkelRoad%",EIGHT_HOURS)
