@@ -563,8 +563,10 @@ BEGIN @1101 DESIGNATED 1000 LABEL "BGSpawn-Main"
     //                but SCS sees it as level 1(!) and voids the whole spellbook
     //                it's unused in oBG2, which is why this doesn't affect the base game
     //                it's only used in high-level BGSpawn encounters
+    //                also change class from kobold to mage
     COPY_EXISTING ~zg#skosc.cre~ ~override~
         WRITE_BYTE 0x234 7
+        WRITE_BYTE 0x273 IDS_OF_SYMBOL (~CLASS~ ~MAGE~)
     // mummy: delete BG2 dialog file
     //        (still uses BG2 scripts/monsters to interact with Resurrection though)
     COPY_EXISTING ~zg#smumm.cre~ ~override~
