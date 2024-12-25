@@ -65,7 +65,7 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #18
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
@@ -122,7 +122,7 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #28
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
@@ -179,7 +179,7 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #28
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
@@ -246,7 +246,7 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #18
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
@@ -319,12 +319,12 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
@@ -416,12 +416,12 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
@@ -491,7 +491,7 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
@@ -559,12 +559,12 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
@@ -662,12 +662,12 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
@@ -766,18 +766,18 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
@@ -890,14 +890,14 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
@@ -1034,14 +1034,14 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
@@ -1139,12 +1139,12 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
@@ -1232,12 +1232,12 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
@@ -1344,14 +1344,14 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
@@ -1466,21 +1466,21 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
@@ -1608,16 +1608,16 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
@@ -1761,24 +1761,24 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
@@ -1873,7 +1873,7 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #8
@@ -1960,13 +1960,13 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #8
@@ -2057,13 +2057,13 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #8
@@ -2175,27 +2175,27 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
@@ -2318,27 +2318,27 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
@@ -2519,32 +2519,32 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
-    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
-    SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
+    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
+    SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset9453498","%NashkelMines%",1)
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #4
@@ -2677,15 +2677,15 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
@@ -2818,16 +2818,16 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
@@ -2963,18 +2963,18 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
@@ -3118,34 +3118,34 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
@@ -3306,34 +3306,34 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
@@ -3550,30 +3550,19 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
-    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
-    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
-    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
-    SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
@@ -3581,11 +3570,22 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
+    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
+    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
+    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
+    SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset9453498","%NashkelMines%",1)
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
@@ -3726,18 +3726,18 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
@@ -3873,18 +3873,18 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
@@ -4039,19 +4039,19 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
@@ -4254,35 +4254,22 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
-    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
-    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
-    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
-    SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
@@ -4290,9 +4277,22 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
+    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
+    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
+    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
+    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
+    SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset9453498","%NashkelMines%",1)
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
@@ -4508,35 +4508,22 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
-    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
-    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
-    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
-    SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
@@ -4544,9 +4531,22 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
+    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
+    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
+    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
+    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
+    SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset9453498","%NashkelMines%",1)
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
@@ -4807,37 +4807,24 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
-    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
-    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
-    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
-    SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
@@ -4845,10 +4832,23 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
+    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
+    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
+    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
+    CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
+    SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset9453498","%NashkelMines%",1)
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
@@ -4931,7 +4931,7 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
@@ -4969,7 +4969,7 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
@@ -5007,7 +5007,7 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
@@ -5055,12 +5055,12 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
@@ -5114,12 +5114,12 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
@@ -5199,18 +5199,18 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
@@ -5274,7 +5274,7 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
@@ -5329,12 +5329,12 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
@@ -5415,18 +5415,18 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
@@ -5508,14 +5508,14 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
@@ -5599,21 +5599,21 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
@@ -5702,29 +5702,29 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
@@ -7090,13 +7090,13 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
 END
@@ -7207,25 +7207,25 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
@@ -7344,18 +7344,18 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
@@ -7480,17 +7480,17 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
@@ -7629,18 +7629,18 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
@@ -7840,30 +7840,30 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
@@ -7941,15 +7941,15 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWE",[945.3498],0) // Wolwere
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWE",[945.3498],0) // Wolwere
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
@@ -7965,15 +7965,15 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
@@ -8066,21 +8066,21 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWE",[945.3498],0) // Wolwere
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWE",[945.3498],0) // Wolwere
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWE",[945.3498],0) // Wolwere
     CreateCreature("WOLFWE",[945.3498],0) // Wolwere
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
@@ -8099,16 +8099,16 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
@@ -8215,16 +8215,16 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWE",[945.3498],0) // Wolwere
     CreateCreature("WOLFWE",[945.3498],0) // Wolwere
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWE",[945.3498],0) // Wolwere
     CreateCreature("WOLFWE",[945.3498],0) // Wolwere
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
@@ -8243,23 +8243,23 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
@@ -8414,20 +8414,20 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWE",[945.3498],0) // Wolwere
     CreateCreature("WOLFWE",[945.3498],0) // Wolwere
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWE",[945.3498],0) // Wolwere
     CreateCreature("WOLFWE",[945.3498],0) // Wolwere
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
@@ -8448,18 +8448,18 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
@@ -8625,21 +8625,21 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWE",[945.3498],0) // Wolwere
     CreateCreature("WOLFWE",[945.3498],0) // Wolwere
     CreateCreature("WOLFWE",[945.3498],0) // Wolwere
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWE",[945.3498],0) // Wolwere
     CreateCreature("WOLFWE",[945.3498],0) // Wolwere
     CreateCreature("WOLFWE",[945.3498],0) // Wolwere
@@ -8670,28 +8670,28 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
@@ -8895,19 +8895,19 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWE",[945.3498],0) // Wolwere
     CreateCreature("WOLFWE",[945.3498],0) // Wolwere
     CreateCreature("WOLFWE",[945.3498],0) // Wolwere
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWE",[945.3498],0) // Wolwere
     CreateCreature("WOLFWE",[945.3498],0) // Wolwere
     CreateCreature("WOLFWE",[945.3498],0) // Wolwere
@@ -8933,10 +8933,10 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
@@ -8944,11 +8944,11 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
@@ -8956,10 +8956,10 @@ THEN
     SetGlobalTimer("54009453498","%NashkelMines%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset9453498","%NashkelMines%",1)
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
-    CreateCreature("ZG#SWOLF",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
+    CreateCreature("%Wolf%",[945.3498],0) // Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf
     CreateCreature("WOLFWI",[945.3498],0) // Winter Wolf

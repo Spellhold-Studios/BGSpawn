@@ -288,7 +288,7 @@ THEN
     CreateCreature("GNOLL",[4065.805],0)  // Gnoll
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #6
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -336,7 +336,7 @@ THEN
     CreateCreature("GNOLL",[4065.805],0)  // Gnoll
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #10
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -397,7 +397,7 @@ THEN
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -466,11 +466,11 @@ THEN
   RESPONSE #4
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("GNOLL",[4065.805],0)  // Gnoll
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -539,16 +539,16 @@ THEN
   RESPONSE #6
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("GNOLL",[4065.805],0)  // Gnoll
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -631,16 +631,16 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("GNOLL",[4065.805],0)  // Gnoll
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -653,12 +653,12 @@ THEN
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("GNOLL",[4065.805],0)  // Gnoll
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -713,7 +713,7 @@ THEN
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -721,7 +721,7 @@ THEN
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -769,12 +769,12 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("GNOLL",[4065.805],0)  // Gnoll
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("GNOLL",[4065.805],0)  // Gnoll
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -783,26 +783,26 @@ THEN
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
     CreateCreature("FLIND",[4065.805],0)  // Flind
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -858,13 +858,13 @@ THEN
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("GNOLL",[4065.805],0)  // Gnoll
     CreateCreature("GNOLL",[4065.805],0)  // Gnoll
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("GNOLL",[4065.805],0)  // Gnoll
     CreateCreature("GNOLL",[4065.805],0)  // Gnoll
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -875,30 +875,30 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("GNOLL",[4065.805],0)  // Gnoll
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("GNOLL",[4065.805],0)  // Gnoll
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("GNOLL",[4065.805],0)  // Gnoll
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
     CreateCreature("FLIND",[4065.805],0)  // Flind
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("GNOLL",[4065.805],0)  // Gnoll
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("GNOLL",[4065.805],0)  // Gnoll
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -953,57 +953,57 @@ THEN
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("GNOLL",[4065.805],0)  // Gnoll
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("GNOLL",[4065.805],0)  // Gnoll
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     CreateCreature("FLIND",[4065.805],0)  // Flind
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("GNOLL",[4065.805],0)  // Gnoll
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     CreateCreature("FLIND",[4065.805],0)  // Flind
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("GNOLL",[4065.805],0)  // Gnoll
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #3
@@ -1063,70 +1063,70 @@ THEN
     CreateCreature("GNOLL",[4065.805],0)  // Gnoll
     CreateCreature("GNOLL",[4065.805],0)  // Gnoll
     CreateCreature("GNOLL",[4065.805],0)  // Gnoll
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
-  RESPONSE #2
-    SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("GNOLL",[4065.805],0)  // Gnoll
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
-  RESPONSE #2
-    SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("GNOLL",[4065.805],0)  // Gnoll
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
+  RESPONSE #2
+    SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
+    CreateCreature("GNOLL",[4065.805],0)  // Gnoll
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
+  RESPONSE #2
+    SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     CreateCreature("FLIND",[4065.805],0)  // Flind
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("GNOLL",[4065.805],0)  // Gnoll
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     CreateCreature("FLIND",[4065.805],0)  // Flind
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     CreateCreature("FLIND",[4065.805],0)  // Flind
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("GNOLL",[4065.805],0)  // Gnoll
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #5
@@ -1185,30 +1185,30 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("GNOLL",[4065.805],0)  // Gnoll
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("GNOLL",[4065.805],0)  // Gnoll
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -1220,29 +1220,29 @@ THEN
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -1302,12 +1302,12 @@ THEN
   RESPONSE #5
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -1357,17 +1357,17 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -1428,29 +1428,29 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     CreateCreature("FLIND",[4065.805],0)  // Flind
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #5
@@ -1509,83 +1509,83 @@ THEN
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
-  RESPONSE #1
-    SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
+  RESPONSE #1
+    SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
+    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
+    CreateCreature("FLIND",[4065.805],0)  // Flind
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -1645,93 +1645,93 @@ THEN
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
-  RESPONSE #1
-    SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
+  RESPONSE #1
+    SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
+    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
+    CreateCreature("FLIND",[4065.805],0)  // Flind
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -1790,103 +1790,103 @@ THEN
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOS",[4065.805],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
-  RESPONSE #1
-    SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_D",[4065.805],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
+  RESPONSE #1
+    SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
+    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
+    CreateCreature("FLIND",[4065.805],0)  // Flind
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -1956,12 +1956,12 @@ THEN
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #4
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -1974,7 +1974,7 @@ THEN
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SBGRT",[4065.805],0)  // Greater Basilisk
+    CreateCreature("BASILG",[4065.805],0)  // Greater Basilisk
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -2011,19 +2011,19 @@ THEN
   RESPONSE #3
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     CreateCreature("FLIND",[4065.805],0)  // Flind
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #10
@@ -2032,7 +2032,7 @@ THEN
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SBGRT",[4065.805],0)  // Greater Basilisk
+    CreateCreature("BASILG",[4065.805],0)  // Greater Basilisk
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -2069,16 +2069,16 @@ THEN
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -2090,42 +2090,42 @@ THEN
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     CreateCreature("FLIND",[4065.805],0)  // Flind
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
@@ -2135,7 +2135,7 @@ THEN
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SBGRT",[4065.805],0)  // Greater Basilisk
+    CreateCreature("BASILG",[4065.805],0)  // Greater Basilisk
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -2173,17 +2173,17 @@ THEN
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -2197,31 +2197,31 @@ THEN
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     CreateCreature("FLIND",[4065.805],0)  // Flind
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
@@ -2229,15 +2229,15 @@ THEN
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
@@ -2252,7 +2252,7 @@ THEN
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SBGRT",[4065.805],0)  // Greater Basilisk
+    CreateCreature("BASILG",[4065.805],0)  // Greater Basilisk
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -2290,21 +2290,21 @@ THEN
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -2320,39 +2320,29 @@ THEN
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("FLIND",[4065.805],0)  // Flind
-    SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
-  RESPONSE #1
-    SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("FLIND",[4065.805],0)  // Flind
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
@@ -2360,9 +2350,9 @@ THEN
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
@@ -2370,8 +2360,18 @@ THEN
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("FLIND",[4065.805],0)  // Flind
+    CreateCreature("FLIND",[4065.805],0)  // Flind
+    SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
+  RESPONSE #1
+    SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
+    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
+    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
@@ -2393,7 +2393,7 @@ THEN
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SBGRT",[4065.805],0)  // Greater Basilisk
+    CreateCreature("BASILG",[4065.805],0)  // Greater Basilisk
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -2431,111 +2431,111 @@ THEN
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
-  RESPONSE #1
-    SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("FLIND",[4065.805],0)  // Flind
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
+  RESPONSE #1
+    SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
+    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
+    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
+    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -2550,7 +2550,7 @@ THEN
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SBGRT",[4065.805],0)  // Greater Basilisk
+    CreateCreature("BASILG",[4065.805],0)  // Greater Basilisk
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -2586,41 +2586,41 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SBGRT",[4065.805],0)  // Greater Basilisk
+    CreateCreature("BASILG",[4065.805],0)  // Greater Basilisk
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -2651,46 +2651,46 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SBGRT",[4065.805],0)  // Greater Basilisk
+    CreateCreature("BASILG",[4065.805],0)  // Greater Basilisk
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -2722,115 +2722,115 @@ THEN
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
-  RESPONSE #1
-    SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("FLIND",[4065.805],0)  // Flind
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
+  RESPONSE #1
+    SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
+    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
+    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
+    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SBGRT",[4065.805],0)  // Greater Basilisk
+    CreateCreature("BASILG",[4065.805],0)  // Greater Basilisk
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -2867,115 +2867,115 @@ THEN
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
-  RESPONSE #1
-    SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("FLIND",[4065.805],0)  // Flind
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
+  RESPONSE #1
+    SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
+    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
+    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
+    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SBGRT",[4065.805],0)  // Greater Basilisk
+    CreateCreature("BASILG",[4065.805],0)  // Greater Basilisk
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -3012,115 +3012,115 @@ THEN
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
-  RESPONSE #1
-    SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("FLIND",[4065.805],0)  // Flind
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
+  RESPONSE #1
+    SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
+    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
+    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
+    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SBGRT",[4065.805],0)  // Greater Basilisk
+    CreateCreature("BASILG",[4065.805],0)  // Greater Basilisk
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -3163,120 +3163,120 @@ THEN
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
-  RESPONSE #1
-    SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("FLIND",[4065.805],0)  // Flind
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
+    SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
+  RESPONSE #1
+    SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
+    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
+    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
+    CreateCreature("ZG#SGNOC",[4065.805],0)  // Gnoll Captain
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[4065.805],0)  // Gnoll Veteran
     CreateCreature("FLIND",[4065.805],0)  // Flind
     CreateCreature("FLIND",[4065.805],0)  // Flind
-    CreateCreature("ZG#SGNOE",[4065.805],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[4065.805],0)  // Gnoll Elite
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SBGRT",[4065.805],0)  // Greater Basilisk
+    CreateCreature("BASILG",[4065.805],0)  // Greater Basilisk
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SBGRT",[4065.805],0)  // Greater Basilisk
-    CreateCreature("ZG#SBGRT",[4065.805],0)  // Greater Basilisk
+    CreateCreature("BASILG",[4065.805],0)  // Greater Basilisk
+    CreateCreature("BASILG",[4065.805],0)  // Greater Basilisk
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -3314,7 +3314,7 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -3359,7 +3359,7 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -3404,7 +3404,7 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -3449,12 +3449,12 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -3499,12 +3499,12 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -3549,12 +3549,12 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -3599,7 +3599,7 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -3644,7 +3644,7 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -3689,12 +3689,12 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -3744,12 +3744,12 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -3804,12 +3804,12 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -3864,18 +3864,18 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -3941,7 +3941,7 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -3996,12 +3996,12 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -4062,12 +4062,12 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -4133,18 +4133,18 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -4225,18 +4225,18 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -4323,14 +4323,14 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
+    CreateCreature("%Wolf%",[4065.805],0)  // Wolf
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -5065,7 +5065,7 @@ THEN
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SBGRT",[4065.805],0)  // Greater Basilisk
+    CreateCreature("BASILG",[4065.805],0)  // Greater Basilisk
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
 END
 
@@ -5171,7 +5171,7 @@ THEN
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SBGRT",[4065.805],0)  // Greater Basilisk
+    CreateCreature("BASILG",[4065.805],0)  // Greater Basilisk
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
 END
 
@@ -5289,7 +5289,7 @@ THEN
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SBGRT",[4065.805],0)  // Greater Basilisk
+    CreateCreature("BASILG",[4065.805],0)  // Greater Basilisk
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
 END
 
@@ -5442,7 +5442,7 @@ THEN
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SBGRT",[4065.805],0)  // Greater Basilisk
+    CreateCreature("BASILG",[4065.805],0)  // Greater Basilisk
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
 END
 
@@ -5560,7 +5560,7 @@ THEN
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SBGRT",[4065.805],0)  // Greater Basilisk
+    CreateCreature("BASILG",[4065.805],0)  // Greater Basilisk
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
 END
 
@@ -5720,7 +5720,7 @@ THEN
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SBGRT",[4065.805],0)  // Greater Basilisk
+    CreateCreature("BASILG",[4065.805],0)  // Greater Basilisk
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
 END
 
@@ -5781,7 +5781,7 @@ THEN
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGHGR",[4065.805],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[4065.805],0)  // Greater Ghoul
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -5791,7 +5791,7 @@ THEN
   RESPONSE #5
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGHLR",[4065.805],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[4065.805],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[4065.805],0)  // Greater Ghoul
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -5799,7 +5799,7 @@ THEN
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SBGRT",[4065.805],0)  // Greater Basilisk
+    CreateCreature("BASILG",[4065.805],0)  // Greater Basilisk
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
 END
 
@@ -5894,7 +5894,7 @@ THEN
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGHGR",[4065.805],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[4065.805],0)  // Greater Ghoul
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -5910,7 +5910,7 @@ THEN
   RESPONSE #4
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGHLR",[4065.805],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[4065.805],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[4065.805],0)  // Greater Ghoul
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -5918,7 +5918,7 @@ THEN
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SBGRT",[4065.805],0)  // Greater Basilisk
+    CreateCreature("BASILG",[4065.805],0)  // Greater Basilisk
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
 END
 
@@ -6024,7 +6024,7 @@ THEN
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGHGR",[4065.805],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[4065.805],0)  // Greater Ghoul
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -6042,7 +6042,7 @@ THEN
   RESPONSE #4
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGHLR",[4065.805],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[4065.805],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[4065.805],0)  // Greater Ghoul
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -6055,7 +6055,7 @@ THEN
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SBGRT",[4065.805],0)  // Greater Basilisk
+    CreateCreature("BASILG",[4065.805],0)  // Greater Basilisk
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
 END
 
@@ -6193,12 +6193,12 @@ THEN
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGHGR",[4065.805],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[4065.805],0)  // Greater Ghoul
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGHGR",[4065.805],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[4065.805],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[4065.805],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[4065.805],0)  // Greater Ghoul
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -6218,13 +6218,13 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGHLR",[4065.805],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[4065.805],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[4065.805],0)  // Greater Ghoul
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGHLR",[4065.805],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[4065.805],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[4065.805],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[4065.805],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[4065.805],0)  // Greater Ghoul
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -6237,7 +6237,7 @@ THEN
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SBGRT",[4065.805],0)  // Greater Basilisk
+    CreateCreature("BASILG",[4065.805],0)  // Greater Basilisk
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
 END
 
@@ -6402,12 +6402,12 @@ THEN
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGHGR",[4065.805],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[4065.805],0)  // Greater Ghoul
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGHGR",[4065.805],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[4065.805],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[4065.805],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[4065.805],0)  // Greater Ghoul
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -6429,20 +6429,20 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGHLR",[4065.805],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[4065.805],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[4065.805],0)  // Greater Ghoul
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGHLR",[4065.805],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[4065.805],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[4065.805],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[4065.805],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[4065.805],0)  // Greater Ghoul
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGHLR",[4065.805],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[4065.805],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[4065.805],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[4065.805],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[4065.805],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[4065.805],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[4065.805],0)  // Greater Ghoul
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -6461,7 +6461,7 @@ THEN
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #11
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SBGRT",[4065.805],0)  // Greater Basilisk
+    CreateCreature("BASILG",[4065.805],0)  // Greater Basilisk
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
 END
 
@@ -6615,18 +6615,18 @@ THEN
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGHGR",[4065.805],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[4065.805],0)  // Greater Ghoul
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGHGR",[4065.805],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[4065.805],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[4065.805],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[4065.805],0)  // Greater Ghoul
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SGHGR",[4065.805],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[4065.805],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[4065.805],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[4065.805],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[4065.805],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[4065.805],0)  // Greater Ghoul
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -6650,15 +6650,15 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGHLR",[4065.805],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[4065.805],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[4065.805],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[4065.805],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[4065.805],0)  // Greater Ghoul
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
     CreateCreature("ZG#SGHLR",[4065.805],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[4065.805],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[4065.805],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[4065.805],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[4065.805],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[4065.805],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[4065.805],0)  // Greater Ghoul
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
@@ -6684,12 +6684,12 @@ THEN
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SBGRT",[4065.805],0)  // Greater Basilisk
+    CreateCreature("BASILG",[4065.805],0)  // Greater Basilisk
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset4065805","%MutaminsGarden%",1)
-    CreateCreature("ZG#SBGRT",[4065.805],0)  // Greater Basilisk
-    CreateCreature("ZG#SBGRT",[4065.805],0)  // Greater Basilisk
+    CreateCreature("BASILG",[4065.805],0)  // Greater Basilisk
+    CreateCreature("BASILG",[4065.805],0)  // Greater Basilisk
     SetGlobalTimer("35004065805","%MutaminsGarden%",EIGHT_HOURS)
 END
 

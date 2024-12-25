@@ -2508,7 +2508,7 @@ THEN
   RESPONSE #10
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
     CreateCreature("WORG",[953.691],0)  // Worg
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -2661,13 +2661,13 @@ THEN
   RESPONSE #5
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
     CreateCreature("WORG",[953.691],0)  // Worg
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
     CreateCreature("WORG",[953.691],0)  // Worg
     CreateCreature("WORG",[953.691],0)  // Worg
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -2784,14 +2784,14 @@ THEN
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
     CreateCreature("WORG",[953.691],0)  // Worg
     CreateCreature("WORG",[953.691],0)  // Worg
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
     CreateCreature("WORG",[953.691],0)  // Worg
     CreateCreature("WORG",[953.691],0)  // Worg
     CreateCreature("WORG",[953.691],0)  // Worg
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -2965,7 +2965,7 @@ THEN
     CreateCreature("WORG",[953.691],0)  // Worg
     CreateCreature("WORG",[953.691],0)  // Worg
     CreateCreature("WORG",[953.691],0)  // Worg
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -2973,7 +2973,7 @@ THEN
     CreateCreature("WORG",[953.691],0)  // Worg
     CreateCreature("WORG",[953.691],0)  // Worg
     CreateCreature("WORG",[953.691],0)  // Worg
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -3169,8 +3169,8 @@ THEN
     CreateCreature("WORG",[953.691],0)  // Worg
     CreateCreature("WORG",[953.691],0)  // Worg
     CreateCreature("WORG",[953.691],0)  // Worg
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -3178,8 +3178,8 @@ THEN
     CreateCreature("WORG",[953.691],0)  // Worg
     CreateCreature("WORG",[953.691],0)  // Worg
     CreateCreature("WORG",[953.691],0)  // Worg
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -3382,8 +3382,8 @@ THEN
     CreateCreature("WORG",[953.691],0)  // Worg
     CreateCreature("WORG",[953.691],0)  // Worg
     CreateCreature("WORG",[953.691],0)  // Worg
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -3391,16 +3391,16 @@ THEN
     CreateCreature("WORG",[953.691],0)  // Worg
     CreateCreature("WORG",[953.691],0)  // Worg
     CreateCreature("WORG",[953.691],0)  // Worg
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
     CreateCreature("WORG",[953.691],0)  // Worg
     CreateCreature("WORG",[953.691],0)  // Worg
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -4330,7 +4330,7 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -4375,7 +4375,7 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -4420,7 +4420,7 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -4480,7 +4480,7 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -4540,7 +4540,7 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -4606,7 +4606,7 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -4656,7 +4656,7 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #25
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -4716,7 +4716,7 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -4776,7 +4776,7 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -4844,7 +4844,7 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -4917,12 +4917,12 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -5017,12 +5017,12 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -5101,7 +5101,7 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -5191,7 +5191,7 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -5300,12 +5300,12 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -5419,12 +5419,12 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -5545,12 +5545,12 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -5702,18 +5702,18 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -5823,12 +5823,12 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -5923,18 +5923,18 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -6054,18 +6054,18 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -6191,14 +6191,14 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -6350,21 +6350,21 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -6533,29 +6533,29 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -6686,7 +6686,7 @@ THEN
   RESPONSE #10
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
     CreateCreature("WOLFDI",[953.691],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -6717,7 +6717,7 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #14
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     CreateCreature("WOLFWE",[953.691],0)  // Wolfwere
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
 END
@@ -6835,13 +6835,13 @@ THEN
   RESPONSE #5
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
     CreateCreature("WOLFDI",[953.691],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
     CreateCreature("WOLFDI",[953.691],0)  // Dire Wolf
     CreateCreature("WOLFDI",[953.691],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -6872,7 +6872,7 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #14
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     CreateCreature("WOLFWE",[953.691],0)  // Wolfwere
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
 END
@@ -6954,14 +6954,14 @@ THEN
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
     CreateCreature("WOLFDI",[953.691],0)  // Dire Wolf
     CreateCreature("WOLFDI",[953.691],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
     CreateCreature("WOLFDI",[953.691],0)  // Dire Wolf
     CreateCreature("WOLFDI",[953.691],0)  // Dire Wolf
     CreateCreature("WOLFDI",[953.691],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -6997,13 +6997,13 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     CreateCreature("WOLFWE",[953.691],0)  // Wolfwere
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     CreateCreature("WOLFWE",[953.691],0)  // Wolfwere
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
 END
@@ -7131,7 +7131,7 @@ THEN
     CreateCreature("WOLFDI",[953.691],0)  // Dire Wolf
     CreateCreature("WOLFDI",[953.691],0)  // Dire Wolf
     CreateCreature("WOLFDI",[953.691],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -7139,7 +7139,7 @@ THEN
     CreateCreature("WOLFDI",[953.691],0)  // Dire Wolf
     CreateCreature("WOLFDI",[953.691],0)  // Dire Wolf
     CreateCreature("WOLFDI",[953.691],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -7193,15 +7193,15 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     CreateCreature("WOLFWE",[953.691],0)  // Wolfwere
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     CreateCreature("WOLFWE",[953.691],0)  // Wolfwere
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
 END
@@ -7331,8 +7331,8 @@ THEN
     CreateCreature("WOLFDI",[953.691],0)  // Dire Wolf
     CreateCreature("WOLFDI",[953.691],0)  // Dire Wolf
     CreateCreature("WOLFDI",[953.691],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -7340,8 +7340,8 @@ THEN
     CreateCreature("WOLFDI",[953.691],0)  // Dire Wolf
     CreateCreature("WOLFDI",[953.691],0)  // Dire Wolf
     CreateCreature("WOLFDI",[953.691],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -7392,15 +7392,15 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     CreateCreature("WOLFWE",[953.691],0)  // Wolfwere
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     CreateCreature("WOLFWE",[953.691],0)  // Wolfwere
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
 END
@@ -7540,8 +7540,8 @@ THEN
     CreateCreature("WOLFDI",[953.691],0)  // Dire Wolf
     CreateCreature("WOLFDI",[953.691],0)  // Dire Wolf
     CreateCreature("WOLFDI",[953.691],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -7549,16 +7549,16 @@ THEN
     CreateCreature("WOLFDI",[953.691],0)  // Dire Wolf
     CreateCreature("WOLFDI",[953.691],0)  // Dire Wolf
     CreateCreature("WOLFDI",[953.691],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
     CreateCreature("WOLFDI",[953.691],0)  // Dire Wolf
     CreateCreature("WOLFDI",[953.691],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
@@ -7618,21 +7618,21 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     CreateCreature("WOLFWE",[953.691],0)  // Wolfwere
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     CreateCreature("WOLFWE",[953.691],0)  // Wolfwere
     CreateCreature("WOLFWE",[953.691],0)  // Wolfwere
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     CreateCreature("WOLFWE",[953.691],0)  // Wolfwere
     CreateCreature("WOLFWE",[953.691],0)  // Wolfwere
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
@@ -7731,7 +7731,7 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     CreateCreature("WOLFWE",[953.691],0)  // Wolfwere
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #10
@@ -7851,7 +7851,7 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     CreateCreature("WOLFWE",[953.691],0)  // Wolfwere
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #20
@@ -7938,14 +7938,14 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     CreateCreature("WOLFWE",[953.691],0)  // Wolfwere
     CreateCreature("WOLFWE",[953.691],0)  // Wolfwere
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     CreateCreature("WOLFWE",[953.691],0)  // Wolfwere
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #10
@@ -8058,14 +8058,14 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     CreateCreature("WOLFWE",[953.691],0)  // Wolfwere
     CreateCreature("WOLFWE",[953.691],0)  // Wolfwere
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     CreateCreature("WOLFWE",[953.691],0)  // Wolfwere
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #20
@@ -8224,15 +8224,15 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     CreateCreature("WOLFWE",[953.691],0)  // Wolfwere
     CreateCreature("WOLFWE",[953.691],0)  // Wolfwere
     CreateCreature("WOLFWE",[953.691],0)  // Wolfwere
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     CreateCreature("WOLFWE",[953.691],0)  // Wolfwere
     CreateCreature("WOLFWE",[953.691],0)  // Wolfwere
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
@@ -8412,15 +8412,15 @@ THEN
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     CreateCreature("WOLFWE",[953.691],0)  // Wolfwere
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset953691","%ArchaeologicalSite%",1)
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[953.691],0)  // Dread Wolf
     CreateCreature("WOLFWE",[953.691],0)  // Wolfwere
     CreateCreature("WOLFWE",[953.691],0)  // Wolfwere
     SetGlobalTimer("4100953691","%ArchaeologicalSite%",EIGHT_HOURS)

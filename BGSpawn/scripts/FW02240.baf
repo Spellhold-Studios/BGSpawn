@@ -44,7 +44,7 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -72,7 +72,7 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -100,7 +100,7 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -128,7 +128,7 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -156,7 +156,7 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -184,7 +184,7 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 
@@ -213,11 +213,11 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -245,11 +245,11 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -277,11 +277,11 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -314,11 +314,11 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -351,11 +351,11 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -388,16 +388,16 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 
@@ -426,11 +426,11 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -463,11 +463,11 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -506,11 +506,11 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -545,16 +545,16 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -589,27 +589,27 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -651,23 +651,23 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 
@@ -700,21 +700,21 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -759,23 +759,23 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -815,23 +815,23 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -879,23 +879,23 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -943,28 +943,28 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -1015,36 +1015,36 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 
@@ -1083,16 +1083,16 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -1132,16 +1132,16 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -1183,21 +1183,21 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -1241,23 +1241,23 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -1303,34 +1303,34 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -1378,43 +1378,43 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 
@@ -1451,16 +1451,16 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -1498,17 +1498,17 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -1548,24 +1548,24 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -1607,37 +1607,37 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -1681,40 +1681,40 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -1760,54 +1760,54 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 
@@ -1838,7 +1838,7 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -1866,7 +1866,7 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -1894,7 +1894,7 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -1922,7 +1922,7 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -1950,7 +1950,7 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -1978,7 +1978,7 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 
@@ -2007,11 +2007,11 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -2039,11 +2039,11 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -2071,11 +2071,11 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -2108,11 +2108,11 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -2145,11 +2145,11 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -2182,16 +2182,16 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 
@@ -2220,11 +2220,11 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -2257,11 +2257,11 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -2300,11 +2300,11 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -2339,16 +2339,16 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -2383,27 +2383,27 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -2445,23 +2445,23 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
-    CreateCreature("ZG#SJLGE",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
+    CreateCreature("JELLYGR",[524.336],0)  // Green Slime
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 
@@ -2494,21 +2494,21 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -2553,23 +2553,23 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -2609,23 +2609,23 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -2673,23 +2673,23 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -2737,28 +2737,28 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -2809,36 +2809,36 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLGA",[524.336],0)  // Gray Ooze
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLGR",[524.336],0)  // Gray Ooze
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 
@@ -2877,16 +2877,16 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -2926,16 +2926,16 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -2977,21 +2977,21 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -3035,23 +3035,23 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -3097,34 +3097,34 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -3172,43 +3172,43 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 
@@ -3245,16 +3245,16 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -3292,17 +3292,17 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -3342,24 +3342,24 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -3401,37 +3401,37 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -3475,40 +3475,40 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 IF
@@ -3554,54 +3554,54 @@ THEN
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset524336","%WSewers%",1)
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLOC",[524.336],0)  // Ochre Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
-    CreateCreature("ZG#SJLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLOC",[524.336],0)  // Ochre Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
+    CreateCreature("JELLMU",[524.336],0)  // Mustard Jelly
     SetGlobalTimer("0224524336","%WSewers%",EIGHT_HOURS)
 END
 

@@ -38,7 +38,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -75,7 +75,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -112,7 +112,7 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -149,7 +149,7 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -186,7 +186,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -224,12 +224,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -267,7 +267,7 @@ IF
 THEN
   RESPONSE #30
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -310,7 +310,7 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -353,12 +353,12 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -413,12 +413,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -477,12 +477,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -541,12 +541,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -624,7 +624,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -665,12 +665,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -711,12 +711,12 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -757,12 +757,12 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -818,18 +818,18 @@ IF
 THEN
   RESPONSE #6
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -885,18 +885,18 @@ IF
 THEN
   RESPONSE #4
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -965,7 +965,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -993,7 +993,7 @@ THEN
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
@@ -1023,12 +1023,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -1068,7 +1068,7 @@ THEN
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
@@ -1103,18 +1103,18 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -1159,7 +1159,7 @@ THEN
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
@@ -1194,25 +1194,25 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -1273,13 +1273,13 @@ THEN
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #3
@@ -1320,21 +1320,21 @@ IF
 THEN
   RESPONSE #4
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -1408,13 +1408,13 @@ THEN
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #2
@@ -1455,21 +1455,21 @@ IF
 THEN
   RESPONSE #4
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -1555,15 +1555,15 @@ THEN
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #6
@@ -1593,7 +1593,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -1654,7 +1654,7 @@ THEN
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
@@ -1684,12 +1684,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -1761,13 +1761,13 @@ THEN
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
@@ -1797,18 +1797,18 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -1896,15 +1896,15 @@ THEN
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
@@ -1934,25 +1934,25 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -2037,17 +2037,17 @@ THEN
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #4
@@ -2082,21 +2082,21 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -2206,23 +2206,23 @@ THEN
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
@@ -2258,29 +2258,29 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -2389,23 +2389,23 @@ THEN
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
@@ -2442,12 +2442,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -2467,7 +2467,7 @@ THEN
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -2490,14 +2490,14 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -2559,13 +2559,13 @@ THEN
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -2593,21 +2593,21 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -2685,14 +2685,14 @@ THEN
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -2726,24 +2726,24 @@ IF
 THEN
   RESPONSE #4
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -2829,15 +2829,15 @@ THEN
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -2878,27 +2878,27 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -2996,16 +2996,16 @@ THEN
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -3042,30 +3042,30 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -3160,9 +3160,9 @@ THEN
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -3170,19 +3170,19 @@ THEN
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -3217,7 +3217,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -3262,7 +3262,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -3307,7 +3307,7 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -3352,7 +3352,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -3402,7 +3402,7 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -3452,12 +3452,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -3513,7 +3513,7 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -3563,12 +3563,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -3624,12 +3624,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -3686,12 +3686,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -3763,18 +3763,18 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -3853,14 +3853,14 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
+    CreateCreature("%Wolf%",[1047.598],0)  // Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -3945,7 +3945,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -4001,7 +4001,7 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -4069,7 +4069,7 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -4138,12 +4138,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -4234,12 +4234,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -4344,12 +4344,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -4463,7 +4463,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -4536,12 +4536,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -4621,12 +4621,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -4720,18 +4720,18 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -4838,14 +4838,14 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -4966,14 +4966,14 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -5100,7 +5100,7 @@ THEN
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -5140,7 +5140,7 @@ THEN
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOVA",[1047.598],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1047.598],0)  // Vampiric Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -5171,13 +5171,13 @@ THEN
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -5240,7 +5240,7 @@ THEN
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOVA",[1047.598],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1047.598],0)  // Vampiric Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -5272,14 +5272,14 @@ THEN
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -5353,7 +5353,7 @@ THEN
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOVA",[1047.598],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1047.598],0)  // Vampiric Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -5386,7 +5386,7 @@ THEN
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -5394,7 +5394,7 @@ THEN
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -5496,7 +5496,7 @@ THEN
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOVA",[1047.598],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1047.598],0)  // Vampiric Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -5536,13 +5536,13 @@ THEN
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -5602,7 +5602,7 @@ THEN
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOVA",[1047.598],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1047.598],0)  // Vampiric Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -5640,24 +5640,24 @@ THEN
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1047.598],0)  // Dire Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -5744,12 +5744,12 @@ THEN
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOVA",[1047.598],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1047.598],0)  // Vampiric Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOVA",[1047.598],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[1047.598],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1047.598],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1047.598],0)  // Vampiric Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -5781,8 +5781,8 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOVA",[1047.598],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[1047.598],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -5825,7 +5825,7 @@ THEN
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SGHGR",[1047.598],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1047.598],0)  // Greater Ghoul
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -5848,8 +5848,8 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOVA",[1047.598],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[1047.598],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -5919,7 +5919,7 @@ THEN
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SGHGR",[1047.598],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1047.598],0)  // Greater Ghoul
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -5942,14 +5942,14 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOVA",[1047.598],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[1047.598],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOVA",[1047.598],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[1047.598],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -6012,7 +6012,7 @@ THEN
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SGHGR",[1047.598],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1047.598],0)  // Greater Ghoul
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -6035,16 +6035,16 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOVA",[1047.598],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[1047.598],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOVA",[1047.598],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[1047.598],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -6154,12 +6154,12 @@ THEN
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SGHGR",[1047.598],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1047.598],0)  // Greater Ghoul
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SGHGR",[1047.598],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1047.598],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1047.598],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1047.598],0)  // Greater Ghoul
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -6187,18 +6187,18 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOVA",[1047.598],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[1047.598],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOVA",[1047.598],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[1047.598],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -6322,18 +6322,18 @@ THEN
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SGHGR",[1047.598],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1047.598],0)  // Greater Ghoul
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SGHGR",[1047.598],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1047.598],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1047.598],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1047.598],0)  // Greater Ghoul
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SGHGR",[1047.598],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1047.598],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1047.598],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1047.598],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1047.598],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1047.598],0)  // Greater Ghoul
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -6367,26 +6367,26 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOVA",[1047.598],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[1047.598],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOVA",[1047.598],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[1047.598],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[1047.598],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1047.598],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SWOVA",[1047.598],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[1047.598],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[1047.598],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1047.598],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1047.598],0)  // Dread Wolf
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
@@ -6524,14 +6524,14 @@ THEN
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SGHGR",[1047.598],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1047.598],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1047.598],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1047.598],0)  // Greater Ghoul
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)
-    CreateCreature("ZG#SGHGR",[1047.598],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1047.598],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1047.598],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1047.598],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1047.598],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1047.598],0)  // Greater Ghoul
     SetGlobalTimer("37001047598","%RedCanyons%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1047598","%RedCanyons%",1)

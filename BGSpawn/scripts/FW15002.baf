@@ -38,7 +38,7 @@ IF
 THEN
   RESPONSE #30
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -66,7 +66,7 @@ IF
 THEN
   RESPONSE #30
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -94,7 +94,7 @@ IF
 THEN
   RESPONSE #30
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -122,7 +122,7 @@ IF
 THEN
   RESPONSE #30
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -150,7 +150,7 @@ IF
 THEN
   RESPONSE #30
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -178,7 +178,7 @@ IF
 THEN
   RESPONSE #30
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -207,7 +207,7 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -239,7 +239,7 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -271,7 +271,7 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -303,12 +303,12 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -340,12 +340,12 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -377,12 +377,12 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -415,7 +415,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -430,7 +430,7 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
 END
@@ -452,12 +452,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -472,7 +472,7 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
 END
@@ -494,12 +494,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -514,7 +514,7 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
 END
@@ -536,12 +536,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -561,7 +561,7 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
 END
@@ -583,12 +583,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -608,7 +608,7 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
 END
@@ -630,18 +630,18 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -661,13 +661,13 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
 END
@@ -693,7 +693,7 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -708,12 +708,12 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -741,12 +741,12 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -761,12 +761,12 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -794,18 +794,18 @@ IF
 THEN
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -820,12 +820,12 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -853,14 +853,14 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -880,18 +880,18 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -919,14 +919,14 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -946,18 +946,18 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -985,21 +985,21 @@ IF
 THEN
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -1021,23 +1021,23 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -1066,7 +1066,7 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #40
@@ -1078,21 +1078,21 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
-    SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("WEREWO",[2499.961],0)  // Werewolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
+    CreateCreature("WEREWO",[2499.961],0)  // Werewolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -1121,7 +1121,7 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #40
@@ -1133,21 +1133,21 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
-    SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("WEREWO",[2499.961],0)  // Werewolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
+    CreateCreature("WEREWO",[2499.961],0)  // Werewolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -1176,13 +1176,13 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #40
@@ -1194,17 +1194,17 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -1213,7 +1213,7 @@ THEN
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -1242,27 +1242,27 @@ IF
 THEN
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
@@ -1275,23 +1275,23 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -1300,13 +1300,13 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -1335,27 +1335,27 @@ IF
 THEN
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
@@ -1368,29 +1368,29 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -1399,13 +1399,13 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -1440,32 +1440,32 @@ IF
 THEN
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFDI",[2499.961],0)  // Dire Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #40
@@ -1477,41 +1477,41 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -1525,28 +1525,28 @@ THEN
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -1600,7 +1600,7 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
@@ -1616,7 +1616,7 @@ THEN
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
 END
 IF
@@ -1650,13 +1650,13 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
@@ -1684,7 +1684,7 @@ THEN
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
 END
 IF
@@ -1724,13 +1724,13 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
@@ -1758,13 +1758,13 @@ THEN
   RESPONSE #3
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
 END
 IF
@@ -1800,27 +1800,27 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
@@ -1879,28 +1879,28 @@ THEN
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
 END
 IF
@@ -1936,27 +1936,27 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
@@ -2015,28 +2015,28 @@ THEN
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
 END
 IF
@@ -2074,30 +2074,30 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
@@ -2166,31 +2166,31 @@ THEN
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
     CreateCreature("WEREWO",[2499.961],0)  // Werewolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
 END
 
@@ -2390,7 +2390,7 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -2422,7 +2422,7 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -2454,7 +2454,7 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -2486,7 +2486,7 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -2518,7 +2518,7 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -2550,7 +2550,7 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -2583,7 +2583,7 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -2619,7 +2619,7 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -2655,7 +2655,7 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -2696,7 +2696,7 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -2737,7 +2737,7 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -2784,7 +2784,7 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWODR",[2499.961],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[2499.961],0)  // Dread Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -2818,14 +2818,14 @@ THEN
   RESPONSE #25
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOVA",[2499.961],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[2499.961],0)  // Vampiric Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -2867,20 +2867,20 @@ THEN
   RESPONSE #12
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #13
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOVA",[2499.961],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[2499.961],0)  // Vampiric Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -2922,27 +2922,27 @@ THEN
   RESPONSE #7
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOVA",[2499.961],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[2499.961],0)  // Vampiric Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -2984,35 +2984,35 @@ THEN
   RESPONSE #7
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOVA",[2499.961],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[2499.961],0)  // Vampiric Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -3054,30 +3054,30 @@ THEN
   RESPONSE #7
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOVA",[2499.961],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[2499.961],0)  // Vampiric Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -3119,36 +3119,36 @@ THEN
   RESPONSE #7
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOVA",[2499.961],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[2499.961],0)  // Vampiric Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -3196,14 +3196,14 @@ THEN
   RESPONSE #25
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOVA",[2499.961],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[2499.961],0)  // Vampiric Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -3249,22 +3249,22 @@ THEN
   RESPONSE #13
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #12
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOVA",[2499.961],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[2499.961],0)  // Vampiric Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -3311,21 +3311,21 @@ THEN
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #12
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOVA",[2499.961],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[2499.961],0)  // Vampiric Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -3382,36 +3382,36 @@ THEN
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOVA",[2499.961],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[2499.961],0)  // Vampiric Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -3478,36 +3478,36 @@ THEN
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOVA",[2499.961],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[2499.961],0)  // Vampiric Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -3575,23 +3575,23 @@ THEN
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #13
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
     CreateCreature("ZG#SWOZO",[2499.961],0)  // Zombie Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
+    CreateCreature("%Wolf%",[2499.961],0)  // Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOVA",[2499.961],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[2499.961],0)  // Vampiric Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -3681,7 +3681,7 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOVA",[2499.961],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[2499.961],0)  // Vampiric Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -3698,7 +3698,7 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOVA",[2499.961],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[2499.961],0)  // Vampiric Wolf
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
 END
@@ -3725,7 +3725,7 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOVA",[2499.961],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[2499.961],0)  // Vampiric Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -3748,7 +3748,7 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOVA",[2499.961],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[2499.961],0)  // Vampiric Wolf
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
 END
@@ -3775,7 +3775,7 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOVA",[2499.961],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[2499.961],0)  // Vampiric Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -3805,7 +3805,7 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOVA",[2499.961],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[2499.961],0)  // Vampiric Wolf
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
 END
@@ -3838,7 +3838,7 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOVA",[2499.961],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[2499.961],0)  // Vampiric Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -3864,12 +3864,12 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOVA",[2499.961],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[2499.961],0)  // Vampiric Wolf
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOVA",[2499.961],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[2499.961],0)  // Vampiric Wolf
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
@@ -3910,7 +3910,7 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOVA",[2499.961],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[2499.961],0)  // Vampiric Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -3943,12 +3943,12 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOVA",[2499.961],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[2499.961],0)  // Vampiric Wolf
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOVA",[2499.961],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[2499.961],0)  // Vampiric Wolf
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
@@ -3984,12 +3984,12 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOVA",[2499.961],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[2499.961],0)  // Vampiric Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOVA",[2499.961],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[2499.961],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[2499.961],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[2499.961],0)  // Vampiric Wolf
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
@@ -4024,13 +4024,13 @@ THEN
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOVA",[2499.961],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[2499.961],0)  // Vampiric Wolf
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     SetGlobalTimer("15002499961","%IsleofBalduranN%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2499961","%IsleofBalduranN%",1)
-    CreateCreature("ZG#SWOVA",[2499.961],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[2499.961],0)  // Vampiric Wolf
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere
     CreateCreature("WOLFWE",[2499.961],0)  // Wolfwere

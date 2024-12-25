@@ -58,7 +58,7 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -128,7 +128,7 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -204,7 +204,7 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #13
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -281,7 +281,7 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -375,12 +375,12 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -482,12 +482,12 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -570,7 +570,7 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -641,12 +641,12 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -745,12 +745,12 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -863,12 +863,12 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #11
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -986,12 +986,12 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #12
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -1099,18 +1099,18 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -1223,7 +1223,7 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -1311,12 +1311,12 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -1429,18 +1429,18 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -1587,14 +1587,14 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -1756,9 +1756,9 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -1943,16 +1943,16 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -2121,12 +2121,12 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -2247,14 +2247,14 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -2385,9 +2385,9 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -2551,16 +2551,16 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -2746,24 +2746,24 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -2978,27 +2978,27 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -3207,21 +3207,21 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -3386,16 +3386,16 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -3591,18 +3591,18 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -3771,27 +3771,27 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -3991,30 +3991,30 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -4221,33 +4221,33 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -4422,18 +4422,18 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
@@ -4465,24 +4465,24 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -4624,9 +4624,9 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
@@ -4634,10 +4634,10 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
@@ -4645,10 +4645,10 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
@@ -4657,10 +4657,10 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
@@ -4694,27 +4694,27 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -4871,10 +4871,10 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
@@ -4882,10 +4882,10 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
@@ -4918,30 +4918,30 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -5047,10 +5047,10 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
@@ -5058,10 +5058,10 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
@@ -5070,11 +5070,11 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
@@ -5082,11 +5082,11 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
@@ -5115,33 +5115,33 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -5301,11 +5301,11 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
@@ -5313,11 +5313,11 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
@@ -5346,36 +5346,36 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -5573,12 +5573,12 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
@@ -5588,12 +5588,12 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
@@ -5604,12 +5604,12 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
@@ -5641,39 +5641,39 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -5903,7 +5903,7 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -5973,7 +5973,7 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -6049,7 +6049,7 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #13
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -6126,7 +6126,7 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -6220,12 +6220,12 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -6327,12 +6327,12 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -6415,7 +6415,7 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -6486,12 +6486,12 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -6590,12 +6590,12 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -6708,12 +6708,12 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #11
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -6831,12 +6831,12 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #12
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -6944,18 +6944,18 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -7068,7 +7068,7 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -7156,12 +7156,12 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -7274,18 +7274,18 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -7432,14 +7432,14 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -7601,9 +7601,9 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -7788,16 +7788,16 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -7966,12 +7966,12 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -8092,14 +8092,14 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -8230,9 +8230,9 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -8396,16 +8396,16 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -8591,24 +8591,24 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -8823,27 +8823,27 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -9052,21 +9052,21 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -9231,16 +9231,16 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -9436,18 +9436,18 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -9616,27 +9616,27 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -9836,30 +9836,30 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -10066,33 +10066,33 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -10267,18 +10267,18 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
@@ -10310,24 +10310,24 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -10469,9 +10469,9 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
@@ -10479,10 +10479,10 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
@@ -10490,10 +10490,10 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
@@ -10502,10 +10502,10 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
@@ -10539,27 +10539,27 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -10716,10 +10716,10 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
@@ -10727,10 +10727,10 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
@@ -10763,30 +10763,30 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -10892,10 +10892,10 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
@@ -10903,10 +10903,10 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
@@ -10915,11 +10915,11 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
@@ -10927,11 +10927,11 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
@@ -10960,33 +10960,33 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -11146,11 +11146,11 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
@@ -11158,11 +11158,11 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
@@ -11191,36 +11191,36 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
@@ -11418,12 +11418,12 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
@@ -11433,12 +11433,12 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
@@ -11449,12 +11449,12 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
     CreateCreature("DOGWI",[379.504],0) // Wild Dog
@@ -11486,39 +11486,39 @@ THEN
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
-    CreateCreature("ZG#SWOLF",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
+    CreateCreature("%Wolf%",[379.504],0) // Wolf
     SetGlobalTimer("5400379504","%Encounter_Road%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset379504","%Encounter_Road%",1)

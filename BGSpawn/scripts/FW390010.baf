@@ -2199,7 +2199,7 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWOLF",[3412.2568],0)  // Wolf
+    CreateCreature("%Wolf%",[3412.2568],0)  // Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -2244,7 +2244,7 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWOLF",[3412.2568],0)  // Wolf
+    CreateCreature("%Wolf%",[3412.2568],0)  // Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -2289,7 +2289,7 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWOLF",[3412.2568],0)  // Wolf
+    CreateCreature("%Wolf%",[3412.2568],0)  // Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -2334,7 +2334,7 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWOLF",[3412.2568],0)  // Wolf
+    CreateCreature("%Wolf%",[3412.2568],0)  // Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -2384,7 +2384,7 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWOLF",[3412.2568],0)  // Wolf
+    CreateCreature("%Wolf%",[3412.2568],0)  // Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -2434,7 +2434,7 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWOLF",[3412.2568],0)  // Wolf
+    CreateCreature("%Wolf%",[3412.2568],0)  // Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -2490,7 +2490,7 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWOLF",[3412.2568],0)  // Wolf
+    CreateCreature("%Wolf%",[3412.2568],0)  // Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -2535,7 +2535,7 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWOLF",[3412.2568],0)  // Wolf
+    CreateCreature("%Wolf%",[3412.2568],0)  // Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -2580,7 +2580,7 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWOLF",[3412.2568],0)  // Wolf
+    CreateCreature("%Wolf%",[3412.2568],0)  // Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -2635,12 +2635,12 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWOLF",[3412.2568],0)  // Wolf
+    CreateCreature("%Wolf%",[3412.2568],0)  // Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWOLF",[3412.2568],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3412.2568],0)  // Wolf
+    CreateCreature("%Wolf%",[3412.2568],0)  // Wolf
+    CreateCreature("%Wolf%",[3412.2568],0)  // Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -2700,12 +2700,12 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWOLF",[3412.2568],0)  // Wolf
+    CreateCreature("%Wolf%",[3412.2568],0)  // Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWOLF",[3412.2568],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3412.2568],0)  // Wolf
+    CreateCreature("%Wolf%",[3412.2568],0)  // Wolf
+    CreateCreature("%Wolf%",[3412.2568],0)  // Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -2771,12 +2771,12 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWOLF",[3412.2568],0)  // Wolf
+    CreateCreature("%Wolf%",[3412.2568],0)  // Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWOLF",[3412.2568],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3412.2568],0)  // Wolf
+    CreateCreature("%Wolf%",[3412.2568],0)  // Wolf
+    CreateCreature("%Wolf%",[3412.2568],0)  // Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -2849,7 +2849,7 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -2905,7 +2905,7 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -2973,7 +2973,7 @@ IF
 THEN
   RESPONSE #4
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -3042,12 +3042,12 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -3143,12 +3143,12 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -3253,18 +3253,18 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -3384,7 +3384,7 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -3452,7 +3452,7 @@ IF
 THEN
   RESPONSE #4
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -3527,12 +3527,12 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -3621,12 +3621,12 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -3738,18 +3738,18 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -3863,14 +3863,14 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -3992,7 +3992,7 @@ THEN
   RESPONSE #5
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
     CreateCreature("ZG#SWOZO",[3412.2568],0)  // Zombie Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -4032,7 +4032,7 @@ THEN
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWOVA",[3412.2568],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[3412.2568],0)  // Vampiric Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -4063,7 +4063,7 @@ THEN
   RESPONSE #5
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
     CreateCreature("ZG#SWOZO",[3412.2568],0)  // Zombie Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -4126,7 +4126,7 @@ THEN
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWOVA",[3412.2568],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[3412.2568],0)  // Vampiric Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -4157,13 +4157,13 @@ THEN
   RESPONSE #3
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
     CreateCreature("ZG#SWOZO",[3412.2568],0)  // Zombie Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
     CreateCreature("ZG#SWOZO",[3412.2568],0)  // Zombie Wolf
     CreateCreature("ZG#SWOZO",[3412.2568],0)  // Zombie Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -4232,7 +4232,7 @@ THEN
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWOVA",[3412.2568],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[3412.2568],0)  // Vampiric Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -4264,13 +4264,13 @@ THEN
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
     CreateCreature("ZG#SWOZO",[3412.2568],0)  // Zombie Wolf
     CreateCreature("ZG#SWOZO",[3412.2568],0)  // Zombie Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
     CreateCreature("ZG#SWOZO",[3412.2568],0)  // Zombie Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -4372,7 +4372,7 @@ THEN
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWOVA",[3412.2568],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[3412.2568],0)  // Vampiric Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -4411,20 +4411,20 @@ THEN
     CreateCreature("ZG#SWOZO",[3412.2568],0)  // Zombie Wolf
     CreateCreature("ZG#SWOZO",[3412.2568],0)  // Zombie Wolf
     CreateCreature("ZG#SWOZO",[3412.2568],0)  // Zombie Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
     CreateCreature("ZG#SWOZO",[3412.2568],0)  // Zombie Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
     CreateCreature("ZG#SWOZO",[3412.2568],0)  // Zombie Wolf
     CreateCreature("ZG#SWOZO",[3412.2568],0)  // Zombie Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -4484,7 +4484,7 @@ THEN
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWOVA",[3412.2568],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[3412.2568],0)  // Vampiric Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -4531,30 +4531,30 @@ THEN
     CreateCreature("ZG#SWOZO",[3412.2568],0)  // Zombie Wolf
     CreateCreature("ZG#SWOZO",[3412.2568],0)  // Zombie Wolf
     CreateCreature("ZG#SWOZO",[3412.2568],0)  // Zombie Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
     CreateCreature("ZG#SWOZO",[3412.2568],0)  // Zombie Wolf
     CreateCreature("ZG#SWOZO",[3412.2568],0)  // Zombie Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
     CreateCreature("ZG#SWOZO",[3412.2568],0)  // Zombie Wolf
     CreateCreature("ZG#SWOZO",[3412.2568],0)  // Zombie Wolf
     CreateCreature("ZG#SWOZO",[3412.2568],0)  // Zombie Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
     CreateCreature("ZG#SWOZO",[3412.2568],0)  // Zombie Wolf
     CreateCreature("ZG#SWOZO",[3412.2568],0)  // Zombie Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -4641,7 +4641,7 @@ THEN
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWOVA",[3412.2568],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[3412.2568],0)  // Vampiric Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -4686,8 +4686,8 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWOVA",[3412.2568],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[3412.2568],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -4730,7 +4730,7 @@ THEN
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SGHGR",[3412.2568],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3412.2568],0)  // Greater Ghoul
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -4753,8 +4753,8 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWOVA",[3412.2568],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[3412.2568],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -4830,7 +4830,7 @@ THEN
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SGHGR",[3412.2568],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3412.2568],0)  // Greater Ghoul
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -4853,14 +4853,14 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWOVA",[3412.2568],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[3412.2568],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWOVA",[3412.2568],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[3412.2568],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -4937,12 +4937,12 @@ THEN
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SGHGR",[3412.2568],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3412.2568],0)  // Greater Ghoul
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SGHGR",[3412.2568],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[3412.2568],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3412.2568],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3412.2568],0)  // Greater Ghoul
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -4970,16 +4970,16 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWOVA",[3412.2568],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[3412.2568],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWOVA",[3412.2568],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[3412.2568],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -5088,12 +5088,12 @@ THEN
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SGHGR",[3412.2568],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3412.2568],0)  // Greater Ghoul
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SGHGR",[3412.2568],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[3412.2568],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3412.2568],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3412.2568],0)  // Greater Ghoul
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -5121,18 +5121,18 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWOVA",[3412.2568],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[3412.2568],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWOVA",[3412.2568],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[3412.2568],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -5255,18 +5255,18 @@ THEN
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SGHGR",[3412.2568],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3412.2568],0)  // Greater Ghoul
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SGHGR",[3412.2568],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[3412.2568],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3412.2568],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3412.2568],0)  // Greater Ghoul
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SGHGR",[3412.2568],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[3412.2568],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[3412.2568],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3412.2568],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3412.2568],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3412.2568],0)  // Greater Ghoul
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -5300,20 +5300,20 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWOVA",[3412.2568],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[3412.2568],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SWOVA",[3412.2568],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[3412.2568],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[3412.2568],0)  // Dread Wolf
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
@@ -5456,14 +5456,14 @@ THEN
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SGHGR",[3412.2568],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[3412.2568],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3412.2568],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3412.2568],0)  // Greater Ghoul
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
-    CreateCreature("ZG#SGHGR",[3412.2568],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[3412.2568],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[3412.2568],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3412.2568],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3412.2568],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3412.2568],0)  // Greater Ghoul
     SetGlobalTimer("390034122568","%Ulcaster%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset34122568","%Ulcaster%",1)
