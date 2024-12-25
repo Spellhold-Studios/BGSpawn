@@ -567,6 +567,15 @@ BEGIN @1101 DESIGNATED 1000 LABEL "BGSpawn-Main"
     COPY_EXISTING ~zg#skosc.cre~ ~override~
         WRITE_BYTE 0x234 7
         WRITE_BYTE 0x273 IDS_OF_SYMBOL (~CLASS~ ~MAGE~)
+    // kobold group - this uses paladin class for detecting their own, which SCS overrides
+    // the group encounters also break somewhat because of mixed BG1-BG2 creature groups
+    // apply conformation to SCS triggers to fix scripting instead
+    // kobold shaman: change class from paladin to cleric
+    COPY_EXISTING ~zg#skosh.cre~ ~override~
+        WRITE_BYTE 0x273 IDS_OF_SYMBOL (~CLASS~ ~CLERIC~)
+    // kobold witch doctor: change class from paladin to mage
+    COPY_EXISTING ~zg#skowi.cre~ ~override~
+        WRITE_BYTE 0x273 IDS_OF_SYMBOL (~CLASS~ ~MAGE~)
     // mummy: delete BG2 dialog file
     //        (still uses BG2 scripts/monsters to interact with Resurrection though)
     COPY_EXISTING ~zg#smumm.cre~ ~override~
