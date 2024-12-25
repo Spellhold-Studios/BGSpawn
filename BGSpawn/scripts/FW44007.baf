@@ -45,7 +45,7 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #35
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -94,7 +94,7 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #35
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -148,7 +148,7 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #35
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -202,7 +202,7 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -261,12 +261,12 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -331,12 +331,12 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -399,7 +399,7 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -460,12 +460,12 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -533,12 +533,12 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -618,12 +618,12 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -719,18 +719,18 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -828,18 +828,18 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -923,14 +923,14 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -1014,14 +1014,14 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -1112,21 +1112,21 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -1226,21 +1226,21 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -1355,16 +1355,16 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -1490,24 +1490,24 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -1673,13 +1673,13 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
@@ -1722,13 +1722,13 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
@@ -1784,20 +1784,20 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
@@ -1860,13 +1860,13 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
@@ -1930,20 +1930,20 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
@@ -1991,20 +1991,20 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
@@ -2068,28 +2068,28 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("WORG",[2388.3324],0) // Worg
-    CreateCreature("WORG",[2388.3324],0) // Worg
-    SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
-  RESPONSE #3
-    SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WORG",[2388.3324],0) // Worg
+    CreateCreature("WORG",[2388.3324],0) // Worg
+    SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
+  RESPONSE #3
+    SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
@@ -2151,27 +2151,27 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
@@ -2251,29 +2251,29 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
@@ -2334,29 +2334,29 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
@@ -2436,25 +2436,25 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
@@ -2550,23 +2550,23 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
@@ -2625,21 +2625,21 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
@@ -2748,23 +2748,23 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
@@ -2881,26 +2881,26 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
@@ -3004,9 +3004,9 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
@@ -3014,9 +3014,9 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
@@ -3024,7 +3024,7 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
@@ -3164,9 +3164,9 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
@@ -3175,9 +3175,9 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
@@ -3186,8 +3186,8 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
@@ -3322,10 +3322,10 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
@@ -3333,9 +3333,9 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
@@ -3344,9 +3344,9 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
     CreateCreature("WOLFDI",[2388.3324],0) // Dire Wolf
@@ -3493,14 +3493,14 @@ THEN
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -3577,8 +3577,8 @@ THEN
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -3586,17 +3586,17 @@ THEN
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -3604,9 +3604,9 @@ THEN
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -3700,19 +3700,19 @@ THEN
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -3791,10 +3791,10 @@ THEN
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -3802,11 +3802,11 @@ THEN
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -3815,11 +3815,11 @@ THEN
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -3922,10 +3922,10 @@ THEN
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -3933,11 +3933,11 @@ THEN
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -3946,11 +3946,11 @@ THEN
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -4074,10 +4074,10 @@ THEN
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -4087,11 +4087,11 @@ THEN
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -4100,12 +4100,12 @@ THEN
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -4114,11 +4114,11 @@ THEN
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
     CreateCreature("WORG",[2388.3324],0) // Worg
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -4257,11 +4257,11 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #21
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -4306,11 +4306,11 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #18
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -4360,11 +4360,11 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #14
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -4414,16 +4414,16 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -4473,16 +4473,16 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -4538,21 +4538,21 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -4606,16 +4606,16 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -4667,16 +4667,16 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -4733,27 +4733,27 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -4827,23 +4827,23 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -4926,29 +4926,29 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -5033,36 +5033,36 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -5137,24 +5137,24 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -5206,35 +5206,35 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -5291,56 +5291,56 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -5400,62 +5400,62 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -5518,59 +5518,59 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -5637,64 +5637,64 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -5795,38 +5795,38 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -5883,56 +5883,56 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -6003,52 +6003,52 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -6108,69 +6108,69 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -6237,95 +6237,95 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -6395,106 +6395,106 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -6591,36 +6591,36 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -6718,40 +6718,40 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -6855,40 +6855,40 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -6975,73 +6975,73 @@ IF
 THEN
   RESPONSE #7
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #4
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -7149,66 +7149,66 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -7331,91 +7331,91 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Dire Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Dire Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
@@ -7541,20 +7541,20 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
@@ -7636,36 +7636,36 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
     CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
     CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
     CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
@@ -7780,31 +7780,31 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
     CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
     CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
@@ -7908,71 +7908,71 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
-    CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
-    SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
-  RESPONSE #2
-    SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
     CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
     CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
+    CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
+    SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
+  RESPONSE #2
+    SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
     CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
@@ -8117,63 +8117,63 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
-    CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
-    SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
     CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
+    CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
+    SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
     CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
@@ -8350,81 +8350,81 @@ THEN
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[2388.3324],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFDR",[2388.3324],0) // Dread Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[2388.3324],0) // Vampiric Wolf
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
-    CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
-    SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
-  RESPONSE #2
-    SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
     CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
     CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
-    CreateCreature("ZG#SWOLF",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
+    CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
+    SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)
+  RESPONSE #2
+    SetGlobal("SpawnReset23883324","%LonelyPeaks%",1)
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
+    CreateCreature("%Wolf%",[2388.3324],0) // Wolf
     CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
     CreateCreature("WOLFWE",[2388.3324],0) // Wolfwere
     SetGlobalTimer("440023883324","%LonelyPeaks%",EIGHT_HOURS)

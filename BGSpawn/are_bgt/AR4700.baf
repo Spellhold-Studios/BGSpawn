@@ -2072,7 +2072,7 @@ THEN
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -2177,7 +2177,7 @@ THEN
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -2262,7 +2262,7 @@ THEN
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -2376,7 +2376,7 @@ THEN
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -2497,7 +2497,7 @@ THEN
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -2614,7 +2614,7 @@ THEN
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -2703,7 +2703,7 @@ THEN
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SBGRT",[566.234],0)  // Greater Basilisk
+    CreateCreature("BASILG",[566.234],0)  // Greater Basilisk
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
 END
 
@@ -2789,7 +2789,7 @@ THEN
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SBGRT",[566.234],0)  // Greater Basilisk
+    CreateCreature("BASILG",[566.234],0)  // Greater Basilisk
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
 END
 
@@ -2868,7 +2868,7 @@ THEN
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SBGRT",[566.234],0)  // Greater Basilisk
+    CreateCreature("BASILG",[566.234],0)  // Greater Basilisk
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
 END
 
@@ -2960,7 +2960,7 @@ THEN
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SBGRT",[566.234],0)  // Greater Basilisk
+    CreateCreature("BASILG",[566.234],0)  // Greater Basilisk
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
 END
 
@@ -3096,12 +3096,12 @@ THEN
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SBGRT",[566.234],0)  // Greater Basilisk
+    CreateCreature("BASILG",[566.234],0)  // Greater Basilisk
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SBGRT",[566.234],0)  // Greater Basilisk
-    CreateCreature("ZG#SBGRT",[566.234],0)  // Greater Basilisk
+    CreateCreature("BASILG",[566.234],0)  // Greater Basilisk
+    CreateCreature("BASILG",[566.234],0)  // Greater Basilisk
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
 END
 
@@ -3213,12 +3213,12 @@ THEN
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SBGRT",[566.234],0)  // Greater Basilisk
+    CreateCreature("BASILG",[566.234],0)  // Greater Basilisk
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SBGRT",[566.234],0)  // Greater Basilisk
-    CreateCreature("ZG#SBGRT",[566.234],0)  // Greater Basilisk
+    CreateCreature("BASILG",[566.234],0)  // Greater Basilisk
+    CreateCreature("BASILG",[566.234],0)  // Greater Basilisk
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
 END
 
@@ -4860,7 +4860,7 @@ IF
 THEN
   RESPONSE #4
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
    SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -4952,7 +4952,7 @@ IF
 THEN
   RESPONSE #6
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
    SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -5057,7 +5057,7 @@ IF
 THEN
   RESPONSE #4
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
    SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -5181,12 +5181,12 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
    SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -5257,7 +5257,7 @@ THEN
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -5327,12 +5327,12 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
    SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -5403,7 +5403,7 @@ THEN
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -5499,18 +5499,18 @@ IF
 THEN
   RESPONSE #1
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
    SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -5640,7 +5640,7 @@ THEN
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -5763,7 +5763,7 @@ IF
 THEN
   RESPONSE #6
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
    SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -5837,7 +5837,7 @@ THEN
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -5847,11 +5847,11 @@ THEN
   RESPONSE #10
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
     CreateCreature("GHOUL",[566.234],0)  // Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -5885,12 +5885,12 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
    SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -5970,7 +5970,7 @@ THEN
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -5986,11 +5986,11 @@ THEN
   RESPONSE #10
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
     CreateCreature("GHOUL",[566.234],0)  // Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -6032,18 +6032,18 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
    SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -6132,7 +6132,7 @@ THEN
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -6149,11 +6149,11 @@ THEN
   RESPONSE #10
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
     CreateCreature("GHOUL",[566.234],0)  // Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -6197,21 +6197,21 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
    SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -6309,7 +6309,7 @@ THEN
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -6334,11 +6334,11 @@ THEN
   RESPONSE #10
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
     CreateCreature("GHOUL",[566.234],0)  // Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -6391,29 +6391,29 @@ IF
 THEN
   RESPONSE #1
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
    SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -6518,7 +6518,7 @@ THEN
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -6538,17 +6538,17 @@ THEN
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
     CreateCreature("GHOUL",[566.234],0)  // Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
     CreateCreature("GHOUL",[566.234],0)  // Ghoul
     CreateCreature("GHOUL",[566.234],0)  // Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -6592,33 +6592,33 @@ IF
 THEN
   RESPONSE #1
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
    SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -6773,7 +6773,7 @@ THEN
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -6810,37 +6810,37 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
     CreateCreature("GHOUL",[566.234],0)  // Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
     CreateCreature("GHOUL",[566.234],0)  // Ghoul
     CreateCreature("GHOUL",[566.234],0)  // Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
-  RESPONSE #2
-    SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("GHOUL",[566.234],0)  // Ghoul
-    CreateCreature("GHOUL",[566.234],0)  // Ghoul
-    CreateCreature("GHOUL",[566.234],0)  // Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
     CreateCreature("GHOUL",[566.234],0)  // Ghoul
     CreateCreature("GHOUL",[566.234],0)  // Ghoul
     CreateCreature("GHOUL",[566.234],0)  // Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
+  RESPONSE #2
+    SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
     CreateCreature("GHOUL",[566.234],0)  // Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOUL",[566.234],0)  // Ghoul
+    CreateCreature("GHOUL",[566.234],0)  // Ghoul
+    CreateCreature("GHOUL",[566.234],0)  // Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -6901,8 +6901,8 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
    SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -6968,17 +6968,17 @@ THEN
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
     CreateCreature("SZOMBL01",[566.234],0)  // Zombie Lord
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
     CreateCreature("ZG#SGHLR",[566.234],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -6992,7 +6992,7 @@ THEN
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SBGRT",[566.234],0)  // Greater Basilisk
+    CreateCreature("BASILG",[566.234],0)  // Greater Basilisk
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
 END
 
@@ -7011,14 +7011,14 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
    SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -7105,23 +7105,23 @@ THEN
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
     CreateCreature("SZOMBL01",[566.234],0)  // Zombie Lord
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
     CreateCreature("SZOMBL01",[566.234],0)  // Zombie Lord
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
     CreateCreature("ZG#SGHLR",[566.234],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -7135,7 +7135,7 @@ THEN
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SBGRT",[566.234],0)  // Greater Basilisk
+    CreateCreature("BASILG",[566.234],0)  // Greater Basilisk
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
 END
 
@@ -7154,18 +7154,18 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
    SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -7273,30 +7273,30 @@ THEN
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
     CreateCreature("SZOMBL01",[566.234],0)  // Zombie Lord
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
     CreateCreature("SZOMBL01",[566.234],0)  // Zombie Lord
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
     CreateCreature("SZOMBL01",[566.234],0)  // Zombie Lord
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
     CreateCreature("ZG#SGHLR",[566.234],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -7318,7 +7318,7 @@ THEN
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SBGRT",[566.234],0)  // Greater Basilisk
+    CreateCreature("BASILG",[566.234],0)  // Greater Basilisk
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
 END
 
@@ -7337,17 +7337,17 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
    SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -7505,44 +7505,44 @@ THEN
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
-    SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("SZOMBL01",[566.234],0)  // Zombie Lord
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
     CreateCreature("SZOMBL01",[566.234],0)  // Zombie Lord
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
     CreateCreature("SZOMBL01",[566.234],0)  // Zombie Lord
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
+    CreateCreature("SZOMBL01",[566.234],0)  // Zombie Lord
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
     CreateCreature("ZG#SGHLR",[566.234],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
     CreateCreature("ZG#SGHLR",[566.234],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -7565,7 +7565,7 @@ THEN
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SBGRT",[566.234],0)  // Greater Basilisk
+    CreateCreature("BASILG",[566.234],0)  // Greater Basilisk
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
 END
 
@@ -7584,16 +7584,16 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
    SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -7771,49 +7771,49 @@ THEN
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
     CreateCreature("SZOMBL01",[566.234],0)  // Zombie Lord
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
     CreateCreature("SZOMBL01",[566.234],0)  // Zombie Lord
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
     CreateCreature("SZOMBL01",[566.234],0)  // Zombie Lord
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SGHLR",[566.234],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
     CreateCreature("ZG#SGHLR",[566.234],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
+    CreateCreature("ZG#SGHLR",[566.234],0)  // Ghoul Lord
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -7839,7 +7839,7 @@ THEN
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SBGRT",[566.234],0)  // Greater Basilisk
+    CreateCreature("BASILG",[566.234],0)  // Greater Basilisk
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
 END
 
@@ -7858,18 +7858,18 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[566.234],0)  // Dread Wolf
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[566.234],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #10
    SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -8088,63 +8088,63 @@ THEN
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[566.234],0)  // Vampiric Wolf
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
     CreateCreature("SZOMBL01",[566.234],0)  // Zombie Lord
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
     CreateCreature("SZOMBL01",[566.234],0)  // Zombie Lord
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
     CreateCreature("SZOMBL01",[566.234],0)  // Zombie Lord
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
     CreateCreature("ZG#SGHLR",[566.234],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
     CreateCreature("ZG#SGHLR",[566.234],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
     CreateCreature("ZG#SGHLR",[566.234],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[566.234],0)  // Greater Ghoul
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
@@ -8188,7 +8188,7 @@ THEN
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset566234","%Encounter_Plains1%",1)
-    CreateCreature("ZG#SBGRT",[566.234],0)  // Greater Basilisk
+    CreateCreature("BASILG",[566.234],0)  // Greater Basilisk
     SetGlobalTimer("4700566234","%Encounter_Plains1%",EIGHT_HOURS)
 END
 

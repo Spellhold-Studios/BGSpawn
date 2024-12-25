@@ -3433,17 +3433,17 @@ THEN
     CreateCreature("WORG",[241.1608],0) // Worg
     CreateCreature("WORG",[241.1608],0) // Worg
     CreateCreature("WORG",[241.1608],0) // Worg
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
     CreateCreature("WORG",[241.1608],0) // Worg
     CreateCreature("WORG",[241.1608],0) // Worg
     CreateCreature("WORG",[241.1608],0) // Worg
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -3613,17 +3613,17 @@ THEN
     CreateCreature("WORG",[241.1608],0) // Worg
     CreateCreature("WORG",[241.1608],0) // Worg
     CreateCreature("WORG",[241.1608],0) // Worg
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
     CreateCreature("WORG",[241.1608],0) // Worg
     CreateCreature("WORG",[241.1608],0) // Worg
     CreateCreature("WORG",[241.1608],0) // Worg
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -3833,9 +3833,9 @@ THEN
     CreateCreature("WORG",[241.1608],0) // Worg
     CreateCreature("WORG",[241.1608],0) // Worg
     CreateCreature("WORG",[241.1608],0) // Worg
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -3843,9 +3843,9 @@ THEN
     CreateCreature("WORG",[241.1608],0) // Worg
     CreateCreature("WORG",[241.1608],0) // Worg
     CreateCreature("WORG",[241.1608],0) // Worg
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -4030,9 +4030,9 @@ THEN
     CreateCreature("WORG",[241.1608],0) // Worg
     CreateCreature("WORG",[241.1608],0) // Worg
     CreateCreature("WORG",[241.1608],0) // Worg
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -4040,9 +4040,9 @@ THEN
     CreateCreature("WORG",[241.1608],0) // Worg
     CreateCreature("WORG",[241.1608],0) // Worg
     CreateCreature("WORG",[241.1608],0) // Worg
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -4051,9 +4051,9 @@ THEN
     CreateCreature("WORG",[241.1608],0) // Worg
     CreateCreature("WORG",[241.1608],0) // Worg
     CreateCreature("WORG",[241.1608],0) // Worg
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -4303,9 +4303,9 @@ THEN
     CreateCreature("WORG",[241.1608],0) // Worg
     CreateCreature("WORG",[241.1608],0) // Worg
     CreateCreature("WORG",[241.1608],0) // Worg
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -4314,9 +4314,9 @@ THEN
     CreateCreature("WORG",[241.1608],0) // Worg
     CreateCreature("WORG",[241.1608],0) // Worg
     CreateCreature("WORG",[241.1608],0) // Worg
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -4616,9 +4616,9 @@ THEN
     CreateCreature("WORG",[241.1608],0) // Worg
     CreateCreature("WORG",[241.1608],0) // Worg
     CreateCreature("WORG",[241.1608],0) // Worg
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -4627,19 +4627,19 @@ THEN
     CreateCreature("WORG",[241.1608],0) // Worg
     CreateCreature("WORG",[241.1608],0) // Worg
     CreateCreature("WORG",[241.1608],0) // Worg
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
     CreateCreature("WORG",[241.1608],0) // Worg
     CreateCreature("WORG",[241.1608],0) // Worg
     CreateCreature("WORG",[241.1608],0) // Worg
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -4647,10 +4647,10 @@ THEN
     CreateCreature("WORG",[241.1608],0) // Worg
     CreateCreature("WORG",[241.1608],0) // Worg
     CreateCreature("WORG",[241.1608],0) // Worg
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -6375,7 +6375,7 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -6383,7 +6383,7 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #35
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -6425,7 +6425,7 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -6433,7 +6433,7 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -6475,12 +6475,12 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -6488,7 +6488,7 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -6540,12 +6540,12 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -6553,7 +6553,7 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -6605,18 +6605,18 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -6624,12 +6624,12 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -6706,18 +6706,18 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -6725,12 +6725,12 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -6791,14 +6791,14 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -6806,7 +6806,7 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -6855,14 +6855,14 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -6870,12 +6870,12 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -6954,14 +6954,14 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -6974,12 +6974,12 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -7062,40 +7062,40 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
+    SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
+    CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -7191,16 +7191,16 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -7219,18 +7219,18 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -7339,24 +7339,24 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
+    CreateCreature("GIBBER",[241.1608],0) // Gibberling
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -7375,14 +7375,14 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -7490,17 +7490,17 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -7612,23 +7612,23 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -7766,31 +7766,31 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -7940,31 +7940,31 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -8123,39 +8123,39 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -8358,47 +8358,47 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
-    CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
-    SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
+    CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
+    SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -8505,17 +8505,17 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -8630,31 +8630,31 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -8797,45 +8797,45 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -8997,55 +8997,55 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -9246,57 +9246,57 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
-    CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
-    SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -9547,63 +9547,63 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -9702,13 +9702,13 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
@@ -9762,47 +9762,47 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -9901,14 +9901,14 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
@@ -9991,57 +9991,57 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -10147,14 +10147,14 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
@@ -10198,71 +10198,71 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -10382,23 +10382,23 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
@@ -10474,101 +10474,101 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
-    CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
-    SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
-  RESPONSE #3
-    SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
+    CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
+    CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
+    CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
+    SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
+  RESPONSE #3
+    SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -10691,23 +10691,23 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
@@ -10785,101 +10785,101 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
-    CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
-    SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
-  RESPONSE #3
-    SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
+    CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
+    CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
+    CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
+    SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
+  RESPONSE #3
+    SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -11050,34 +11050,34 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
@@ -11179,49 +11179,38 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
-    CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
-    CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
-    SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
-  RESPONSE #3
-    SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
@@ -11229,58 +11218,69 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
+    CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
+    CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
+    CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
+    SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
+  RESPONSE #3
+    SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     CreateCreature("WOLFDI",[241.1608],0) // Dire Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWOLF",[241.1608],0) // Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("%Wolf%",[241.1608],0) // Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -11447,21 +11447,21 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
 END
 
@@ -11648,23 +11648,23 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
 END
 
@@ -11824,29 +11824,29 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
 END
 
@@ -12098,54 +12098,54 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
-    CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
+    CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
 END
 
@@ -12452,54 +12452,54 @@ THEN
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
-    CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
+    CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
 END
 
@@ -12860,68 +12860,52 @@ THEN
 
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWODR",[241.1608],0) // Dread Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
-    CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
-    CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFDR",[241.1608],0) // Dread Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
-    CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
-    CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
-    CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
-    CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
@@ -12929,8 +12913,24 @@ THEN
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
     CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
+    CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
+    CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
+    CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset2411608","%NorthNashkelRoad%",1)
+    CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
+    CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
+    CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
+    CreateCreature("WOLFWE",[241.1608],0) // Wolfwere
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
+    CreateCreature("WOLFVA",[241.1608],0) // Vampiric Wolf
     SetGlobalTimer("43002411608","%NorthNashkelRoad%",EIGHT_HOURS)
 END
 

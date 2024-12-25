@@ -6858,7 +6858,7 @@ THEN
     SetGlobalTimer("500039101601","%ValleyoftheTombs%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset39101601","%ValleyoftheTombs%",1)
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
     CreateCreature("GHAST",[3910.1601],0)  // Ghast
     SetGlobalTimer("500039101601","%ValleyoftheTombs%",EIGHT_HOURS)
   RESPONSE #4
@@ -6981,12 +6981,12 @@ THEN
     SetGlobalTimer("500039101601","%ValleyoftheTombs%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset39101601","%ValleyoftheTombs%",1)
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
     CreateCreature("GHAST",[3910.1601],0)  // Ghast
     SetGlobalTimer("500039101601","%ValleyoftheTombs%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset39101601","%ValleyoftheTombs%",1)
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
     CreateCreature("GHAST",[3910.1601],0)  // Ghast
     CreateCreature("GHAST",[3910.1601],0)  // Ghast
     SetGlobalTimer("500039101601","%ValleyoftheTombs%",EIGHT_HOURS)
@@ -7128,13 +7128,13 @@ THEN
     SetGlobalTimer("500039101601","%ValleyoftheTombs%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset39101601","%ValleyoftheTombs%",1)
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
     CreateCreature("GHAST",[3910.1601],0)  // Ghast
     SetGlobalTimer("500039101601","%ValleyoftheTombs%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset39101601","%ValleyoftheTombs%",1)
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
     CreateCreature("GHAST",[3910.1601],0)  // Ghast
     SetGlobalTimer("500039101601","%ValleyoftheTombs%",EIGHT_HOURS)
   RESPONSE #5
@@ -7319,7 +7319,7 @@ THEN
   RESPONSE #5
     SetGlobal("SpawnReset39101601","%ValleyoftheTombs%",1)
     CreateCreature("ZG#SGHLR",[3910.1601],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
     SetGlobalTimer("500039101601","%ValleyoftheTombs%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset39101601","%ValleyoftheTombs%",1)
@@ -7467,7 +7467,7 @@ THEN
   RESPONSE #5
     SetGlobal("SpawnReset39101601","%ValleyoftheTombs%",1)
     CreateCreature("ZG#SGHLR",[3910.1601],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
     SetGlobalTimer("500039101601","%ValleyoftheTombs%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset39101601","%ValleyoftheTombs%",1)
@@ -7639,13 +7639,13 @@ THEN
   RESPONSE #5
     SetGlobal("SpawnReset39101601","%ValleyoftheTombs%",1)
     CreateCreature("ZG#SGHLR",[3910.1601],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
     SetGlobalTimer("500039101601","%ValleyoftheTombs%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset39101601","%ValleyoftheTombs%",1)
     CreateCreature("ZG#SGHLR",[3910.1601],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
     SetGlobalTimer("500039101601","%ValleyoftheTombs%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset39101601","%ValleyoftheTombs%",1)
@@ -7771,7 +7771,7 @@ THEN
     SetGlobalTimer("500039101601","%ValleyoftheTombs%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset39101601","%ValleyoftheTombs%",1)
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
     CreateCreature("GHAST",[3910.1601],0)  // Ghast
     SetGlobalTimer("500039101601","%ValleyoftheTombs%",EIGHT_HOURS)
   RESPONSE #10
@@ -7904,12 +7904,12 @@ THEN
     SetGlobalTimer("500039101601","%ValleyoftheTombs%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset39101601","%ValleyoftheTombs%",1)
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
     CreateCreature("GHAST",[3910.1601],0)  // Ghast
     SetGlobalTimer("500039101601","%ValleyoftheTombs%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset39101601","%ValleyoftheTombs%",1)
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
     CreateCreature("GHAST",[3910.1601],0)  // Ghast
     CreateCreature("GHAST",[3910.1601],0)  // Ghast
     SetGlobalTimer("500039101601","%ValleyoftheTombs%",EIGHT_HOURS)
@@ -8058,27 +8058,27 @@ THEN
     SetGlobalTimer("500039101601","%ValleyoftheTombs%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset39101601","%ValleyoftheTombs%",1)
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
     CreateCreature("GHAST",[3910.1601],0)  // Ghast
     CreateCreature("GHAST",[3910.1601],0)  // Ghast
     SetGlobalTimer("500039101601","%ValleyoftheTombs%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset39101601","%ValleyoftheTombs%",1)
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
     CreateCreature("GHAST",[3910.1601],0)  // Ghast
     CreateCreature("GHAST",[3910.1601],0)  // Ghast
     CreateCreature("GHAST",[3910.1601],0)  // Ghast
     SetGlobalTimer("500039101601","%ValleyoftheTombs%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset39101601","%ValleyoftheTombs%",1)
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
     CreateCreature("GHAST",[3910.1601],0)  // Ghast
     SetGlobalTimer("500039101601","%ValleyoftheTombs%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset39101601","%ValleyoftheTombs%",1)
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
     CreateCreature("GHAST",[3910.1601],0)  // Ghast
     CreateCreature("GHAST",[3910.1601],0)  // Ghast
     SetGlobalTimer("500039101601","%ValleyoftheTombs%",EIGHT_HOURS)
@@ -8288,20 +8288,20 @@ THEN
   RESPONSE #4
     SetGlobal("SpawnReset39101601","%ValleyoftheTombs%",1)
     CreateCreature("ZG#SGHLR",[3910.1601],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
     SetGlobalTimer("500039101601","%ValleyoftheTombs%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset39101601","%ValleyoftheTombs%",1)
     CreateCreature("ZG#SGHLR",[3910.1601],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
     SetGlobalTimer("500039101601","%ValleyoftheTombs%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset39101601","%ValleyoftheTombs%",1)
     CreateCreature("ZG#SGHLR",[3910.1601],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
     SetGlobalTimer("500039101601","%ValleyoftheTombs%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset39101601","%ValleyoftheTombs%",1)
@@ -8522,23 +8522,23 @@ THEN
   RESPONSE #4
     SetGlobal("SpawnReset39101601","%ValleyoftheTombs%",1)
     CreateCreature("ZG#SGHLR",[3910.1601],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
     SetGlobalTimer("500039101601","%ValleyoftheTombs%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset39101601","%ValleyoftheTombs%",1)
     CreateCreature("ZG#SGHLR",[3910.1601],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
     SetGlobalTimer("500039101601","%ValleyoftheTombs%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset39101601","%ValleyoftheTombs%",1)
     CreateCreature("ZG#SGHLR",[3910.1601],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
     SetGlobalTimer("500039101601","%ValleyoftheTombs%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset39101601","%ValleyoftheTombs%",1)
@@ -8791,36 +8791,36 @@ THEN
   RESPONSE #3
     SetGlobal("SpawnReset39101601","%ValleyoftheTombs%",1)
     CreateCreature("ZG#SGHLR",[3910.1601],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
     SetGlobalTimer("500039101601","%ValleyoftheTombs%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset39101601","%ValleyoftheTombs%",1)
     CreateCreature("ZG#SGHLR",[3910.1601],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
     SetGlobalTimer("500039101601","%ValleyoftheTombs%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset39101601","%ValleyoftheTombs%",1)
     CreateCreature("ZG#SGHLR",[3910.1601],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
     SetGlobalTimer("500039101601","%ValleyoftheTombs%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset39101601","%ValleyoftheTombs%",1)
     CreateCreature("ZG#SGHLR",[3910.1601],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[3910.1601],0)  // Greater Ghoul
     SetGlobalTimer("500039101601","%ValleyoftheTombs%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset39101601","%ValleyoftheTombs%",1)

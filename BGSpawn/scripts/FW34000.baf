@@ -57,7 +57,7 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
 END
 
@@ -98,7 +98,7 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
 END
 
@@ -139,7 +139,7 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
 END
 
@@ -190,7 +190,7 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
 END
 
@@ -241,7 +241,7 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
 END
 
@@ -292,7 +292,7 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
 END
 
@@ -333,7 +333,7 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
 END
 
@@ -384,7 +384,7 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
 END
 
@@ -440,7 +440,7 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
 END
 
@@ -493,12 +493,12 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
 END
 
@@ -562,12 +562,12 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
 END
 
@@ -650,12 +650,12 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
 END
 
@@ -709,7 +709,7 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -785,7 +785,7 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -874,7 +874,7 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #18
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -967,12 +967,12 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -1062,12 +1062,12 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #18
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -1183,12 +1183,12 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -1270,7 +1270,7 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -1358,7 +1358,7 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #22
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #12
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -1461,12 +1461,12 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -1577,12 +1577,12 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -1713,18 +1713,18 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -1859,14 +1859,14 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -1962,7 +1962,7 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -2075,12 +2075,12 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -2154,18 +2154,18 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -2276,14 +2276,14 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -2402,21 +2402,21 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -2554,29 +2554,29 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -2681,7 +2681,7 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -2791,12 +2791,12 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -2864,18 +2864,18 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -2972,14 +2972,14 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -3126,21 +3126,21 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -3295,29 +3295,29 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -3376,7 +3376,7 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
 END
 
@@ -3417,7 +3417,7 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
 END
 
@@ -3458,7 +3458,7 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
 END
 
@@ -3509,7 +3509,7 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
 END
 
@@ -3560,7 +3560,7 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
 END
 
@@ -3611,7 +3611,7 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
 END
 
@@ -3652,7 +3652,7 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
 END
 
@@ -3703,7 +3703,7 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
 END
 
@@ -3759,7 +3759,7 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
 END
 
@@ -3812,12 +3812,12 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
 END
 
@@ -3881,12 +3881,12 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
 END
 
@@ -3969,12 +3969,12 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
 END
 
@@ -4028,7 +4028,7 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -4104,7 +4104,7 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -4193,7 +4193,7 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #18
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -4286,12 +4286,12 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -4381,12 +4381,12 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #18
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -4502,12 +4502,12 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -4589,7 +4589,7 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -4677,7 +4677,7 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #22
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #12
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -4780,12 +4780,12 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -4896,12 +4896,12 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -5032,18 +5032,18 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -5178,14 +5178,14 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -5281,7 +5281,7 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -5394,12 +5394,12 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -5473,18 +5473,18 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -5595,14 +5595,14 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -5721,21 +5721,21 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -5873,29 +5873,29 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -6000,7 +6000,7 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -6110,12 +6110,12 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -6183,18 +6183,18 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -6291,14 +6291,14 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -6445,21 +6445,21 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
@@ -6614,29 +6614,29 @@ THEN
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3562158","%Temple%",1)
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
+    CreateCreature("%Wolf%",[3562.158],0)  // Wolf
     SetGlobalTimer("34003562158","%Temple%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3562158","%Temple%",1)

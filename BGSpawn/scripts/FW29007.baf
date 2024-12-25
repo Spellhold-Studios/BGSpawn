@@ -58,7 +58,7 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -128,7 +128,7 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -204,7 +204,7 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #13
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -281,7 +281,7 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -375,12 +375,12 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -482,12 +482,12 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -570,7 +570,7 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -641,12 +641,12 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -745,12 +745,12 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -863,12 +863,12 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #11
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -986,12 +986,12 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #12
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -1099,18 +1099,18 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -1223,7 +1223,7 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -1311,12 +1311,12 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -1429,18 +1429,18 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -1587,14 +1587,14 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -1756,9 +1756,9 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -1943,16 +1943,16 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -2121,12 +2121,12 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -2247,14 +2247,14 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -2385,9 +2385,9 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -2551,16 +2551,16 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -2746,24 +2746,24 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -2978,27 +2978,27 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -3207,21 +3207,21 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -3386,16 +3386,16 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -3591,18 +3591,18 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -3771,27 +3771,27 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -3991,30 +3991,30 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -4221,33 +4221,33 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -4422,18 +4422,18 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
@@ -4465,24 +4465,24 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -4624,9 +4624,9 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
@@ -4634,10 +4634,10 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
@@ -4645,10 +4645,10 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
@@ -4657,10 +4657,10 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
@@ -4694,27 +4694,27 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -4871,10 +4871,10 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
@@ -4882,10 +4882,10 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
@@ -4918,30 +4918,30 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -5047,10 +5047,10 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
@@ -5058,10 +5058,10 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
@@ -5070,11 +5070,11 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
@@ -5082,11 +5082,11 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
@@ -5115,33 +5115,33 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -5301,11 +5301,11 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
@@ -5313,11 +5313,11 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
@@ -5346,36 +5346,36 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -5573,12 +5573,12 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
@@ -5588,12 +5588,12 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
@@ -5604,12 +5604,12 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
     CreateCreature("DOGWI",[1552.3078],0) // Wild Dog
@@ -5641,39 +5641,39 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -5885,11 +5885,11 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #40
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #2
@@ -5942,11 +5942,11 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #35
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #1
@@ -5999,11 +5999,11 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #2
@@ -6061,16 +6061,16 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #2
@@ -6128,16 +6128,16 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #2
@@ -6207,16 +6207,16 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #4
@@ -6292,11 +6292,11 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
@@ -6354,16 +6354,16 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
@@ -6429,16 +6429,16 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #3
@@ -6506,16 +6506,16 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
@@ -6602,22 +6602,22 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #11
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #8
@@ -6705,24 +6705,24 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
@@ -6801,16 +6801,16 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #6
@@ -6887,12 +6887,12 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #8
@@ -6985,24 +6985,24 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #6
@@ -7100,31 +7100,31 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #4
@@ -7222,36 +7222,36 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
@@ -7363,27 +7363,27 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
@@ -7498,31 +7498,31 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
@@ -7642,27 +7642,27 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
@@ -7798,37 +7798,37 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #13
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
@@ -7978,31 +7978,31 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
@@ -8173,33 +8173,33 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("WORG",[1552.3078],0) // Worg
-    CreateCreature("WORG",[1552.3078],0) // Worg
-    SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("WORG",[1552.3078],0) // Worg
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("WORG",[1552.3078],0) // Worg
+    CreateCreature("WORG",[1552.3078],0) // Worg
+    CreateCreature("WORG",[1552.3078],0) // Worg
+    SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset15523078","%Larswood%",1)
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
@@ -8417,52 +8417,52 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("WORG",[1552.3078],0) // Worg
-    CreateCreature("WORG",[1552.3078],0) // Worg
-    SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("WORG",[1552.3078],0) // Worg
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("WORG",[1552.3078],0) // Worg
+    CreateCreature("WORG",[1552.3078],0) // Worg
+    CreateCreature("WORG",[1552.3078],0) // Worg
+    SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset15523078","%Larswood%",1)
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
@@ -8679,54 +8679,54 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
-    CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
-    SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
-  RESPONSE #6
-    SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
+    CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
+    SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
+  RESPONSE #6
+    SetGlobal("SpawnReset15523078","%Larswood%",1)
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
@@ -8871,59 +8871,59 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
@@ -9112,50 +9112,50 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #11
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #11
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
@@ -9306,41 +9306,41 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
@@ -9348,10 +9348,10 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
@@ -9359,11 +9359,11 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
@@ -9567,9 +9567,9 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
@@ -9577,10 +9577,10 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
@@ -9588,22 +9588,22 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
@@ -9611,10 +9611,10 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
@@ -9623,11 +9623,11 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
@@ -9823,22 +9823,22 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
@@ -9846,10 +9846,10 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
@@ -9858,11 +9858,11 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
@@ -9870,11 +9870,11 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
@@ -10089,11 +10089,11 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
@@ -10101,12 +10101,12 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
@@ -10114,11 +10114,11 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
@@ -10127,11 +10127,11 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
@@ -10140,12 +10140,12 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
@@ -10154,11 +10154,11 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
@@ -10203,13 +10203,13 @@ THEN
   RESPONSE #4
     SetGlobal("SpawnReset15523078","%Larswood%",1)
     CreateCreature("WOLFWE",[1552.3078],0) // Wolfwere
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset15523078","%Larswood%",1)
     CreateCreature("WOLFWE",[1552.3078],0) // Wolfwere
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -10322,11 +10322,11 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
@@ -10334,12 +10334,12 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
@@ -10347,11 +10347,11 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
@@ -10360,12 +10360,12 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
@@ -10374,12 +10374,12 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
@@ -10435,13 +10435,13 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset15523078","%Larswood%",1)
     CreateCreature("WOLFWE",[1552.3078],0) // Wolfwere
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset15523078","%Larswood%",1)
     CreateCreature("WOLFWE",[1552.3078],0) // Wolfwere
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -10608,12 +10608,12 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
@@ -10621,12 +10621,12 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
@@ -10635,12 +10635,12 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
@@ -10649,11 +10649,11 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
@@ -10708,20 +10708,20 @@ THEN
   RESPONSE #4
     SetGlobal("SpawnReset15523078","%Larswood%",1)
     CreateCreature("WOLFWE",[1552.3078],0) // Wolfwere
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset15523078","%Larswood%",1)
     CreateCreature("WOLFWE",[1552.3078],0) // Wolfwere
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset15523078","%Larswood%",1)
     CreateCreature("WOLFWE",[1552.3078],0) // Wolfwere
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -10818,12 +10818,12 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
@@ -10831,27 +10831,12 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
-    CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
-    CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
-    CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
-    CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
-    SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
@@ -10860,13 +10845,14 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
+    CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
@@ -10874,28 +10860,26 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("WORG",[1552.3078],0) // Worg
-    CreateCreature("WORG",[1552.3078],0) // Worg
-    CreateCreature("WORG",[1552.3078],0) // Worg
-    CreateCreature("WORG",[1552.3078],0) // Worg
-    CreateCreature("WORG",[1552.3078],0) // Worg
-    CreateCreature("WORG",[1552.3078],0) // Worg
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
+    CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
+    CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
+    CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
@@ -10905,12 +10889,28 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("WORG",[1552.3078],0) // Worg
+    CreateCreature("WORG",[1552.3078],0) // Worg
+    CreateCreature("WORG",[1552.3078],0) // Worg
+    CreateCreature("WORG",[1552.3078],0) // Worg
+    CreateCreature("WORG",[1552.3078],0) // Worg
+    CreateCreature("WORG",[1552.3078],0) // Worg
+    SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset15523078","%Larswood%",1)
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
@@ -10921,14 +10921,14 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
@@ -10977,28 +10977,28 @@ THEN
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
     CreateCreature("WOLFWE",[1552.3078],0) // Wolfwere
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
     CreateCreature("WOLFWE",[1552.3078],0) // Wolfwere
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("WOLFWE",[1552.3078],0) // Wolfwere
-    CreateCreature("WOLFWE",[1552.3078],0) // Wolfwere
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
     CreateCreature("WOLFWE",[1552.3078],0) // Wolfwere
     CreateCreature("WOLFWE",[1552.3078],0) // Wolfwere
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset15523078","%Larswood%",1)
+    CreateCreature("WOLFWE",[1552.3078],0) // Wolfwere
+    CreateCreature("WOLFWE",[1552.3078],0) // Wolfwere
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -11129,13 +11129,13 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #12
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
@@ -11143,13 +11143,13 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #12
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
@@ -11158,30 +11158,13 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("WORG",[1552.3078],0) // Worg
-    CreateCreature("WORG",[1552.3078],0) // Worg
-    CreateCreature("WORG",[1552.3078],0) // Worg
-    CreateCreature("WORG",[1552.3078],0) // Worg
-    CreateCreature("WORG",[1552.3078],0) // Worg
-    CreateCreature("WORG",[1552.3078],0) // Worg
-    SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
@@ -11191,14 +11174,31 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("WORG",[1552.3078],0) // Worg
+    CreateCreature("WORG",[1552.3078],0) // Worg
+    CreateCreature("WORG",[1552.3078],0) // Worg
+    CreateCreature("WORG",[1552.3078],0) // Worg
+    CreateCreature("WORG",[1552.3078],0) // Worg
+    CreateCreature("WORG",[1552.3078],0) // Worg
+    SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset15523078","%Larswood%",1)
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
@@ -11248,22 +11248,22 @@ THEN
   RESPONSE #3
     SetGlobal("SpawnReset15523078","%Larswood%",1)
     CreateCreature("WOLFWE",[1552.3078],0) // Wolfwere
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset15523078","%Larswood%",1)
     CreateCreature("WOLFWE",[1552.3078],0) // Wolfwere
     CreateCreature("WOLFWE",[1552.3078],0) // Wolfwere
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset15523078","%Larswood%",1)
     CreateCreature("WOLFWE",[1552.3078],0) // Wolfwere
     CreateCreature("WOLFWE",[1552.3078],0) // Wolfwere
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset15523078","%Larswood%",1)
@@ -11459,13 +11459,13 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
@@ -11473,29 +11473,13 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
-    CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
-    CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
-    CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
-    CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
-    SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
@@ -11504,14 +11488,30 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
+    CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
+    CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
+    CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
+    CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
+    CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
+    SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset15523078","%Larswood%",1)
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
     CreateCreature("WOLFDI",[1552.3078],0) // Dire Wolf
@@ -11519,14 +11519,14 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
@@ -11536,14 +11536,14 @@ THEN
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset15523078","%Larswood%",1)
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
     CreateCreature("WORG",[1552.3078],0) // Worg
@@ -11596,31 +11596,31 @@ THEN
     SetGlobal("SpawnReset15523078","%Larswood%",1)
     CreateCreature("WOLFWE",[1552.3078],0) // Wolfwere
     CreateCreature("WOLFWE",[1552.3078],0) // Wolfwere
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
     CreateCreature("WOLFWE",[1552.3078],0) // Wolfwere
     CreateCreature("WOLFWE",[1552.3078],0) // Wolfwere
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
     CreateCreature("WOLFWE",[1552.3078],0) // Wolfwere
     CreateCreature("WOLFWE",[1552.3078],0) // Wolfwere
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset15523078","%Larswood%",1)
     CreateCreature("WOLFWE",[1552.3078],0) // Wolfwere
     CreateCreature("WOLFWE",[1552.3078],0) // Wolfwere
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
-    CreateCreature("ZG#SWOLF",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
+    CreateCreature("%Wolf%",[1552.3078],0) // Wolf
     SetGlobalTimer("290015523078","%Larswood%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset15523078","%Larswood%",1)

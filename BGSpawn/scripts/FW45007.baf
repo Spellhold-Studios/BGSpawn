@@ -2025,7 +2025,7 @@ THEN
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -2124,7 +2124,7 @@ THEN
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -2203,7 +2203,7 @@ THEN
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -2311,7 +2311,7 @@ THEN
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -2426,7 +2426,7 @@ THEN
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -2537,7 +2537,7 @@ THEN
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -2624,7 +2624,7 @@ THEN
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SBGRT",[1280.2432],0)  // Greater Basilisk
+    CreateCreature("BASILG",[1280.2432],0)  // Greater Basilisk
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
 END
 
@@ -2708,7 +2708,7 @@ THEN
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SBGRT",[1280.2432],0)  // Greater Basilisk
+    CreateCreature("BASILG",[1280.2432],0)  // Greater Basilisk
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
 END
 
@@ -2785,7 +2785,7 @@ THEN
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SBGRT",[1280.2432],0)  // Greater Basilisk
+    CreateCreature("BASILG",[1280.2432],0)  // Greater Basilisk
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
 END
 
@@ -2869,7 +2869,7 @@ THEN
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SBGRT",[1280.2432],0)  // Greater Basilisk
+    CreateCreature("BASILG",[1280.2432],0)  // Greater Basilisk
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
 END
 
@@ -2997,12 +2997,12 @@ THEN
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SBGRT",[1280.2432],0)  // Greater Basilisk
+    CreateCreature("BASILG",[1280.2432],0)  // Greater Basilisk
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SBGRT",[1280.2432],0)  // Greater Basilisk
-    CreateCreature("ZG#SBGRT",[1280.2432],0)  // Greater Basilisk
+    CreateCreature("BASILG",[1280.2432],0)  // Greater Basilisk
+    CreateCreature("BASILG",[1280.2432],0)  // Greater Basilisk
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
 END
 
@@ -3106,12 +3106,12 @@ THEN
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SBGRT",[1280.2432],0)  // Greater Basilisk
+    CreateCreature("BASILG",[1280.2432],0)  // Greater Basilisk
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SBGRT",[1280.2432],0)  // Greater Basilisk
-    CreateCreature("ZG#SBGRT",[1280.2432],0)  // Greater Basilisk
+    CreateCreature("BASILG",[1280.2432],0)  // Greater Basilisk
+    CreateCreature("BASILG",[1280.2432],0)  // Greater Basilisk
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
 END
 
@@ -4735,7 +4735,7 @@ IF
 THEN
   RESPONSE #4
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -4825,7 +4825,7 @@ IF
 THEN
   RESPONSE #6
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -4928,7 +4928,7 @@ IF
 THEN
   RESPONSE #4
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -5050,12 +5050,12 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -5124,7 +5124,7 @@ THEN
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -5194,12 +5194,12 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -5268,7 +5268,7 @@ THEN
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -5364,18 +5364,18 @@ IF
 THEN
   RESPONSE #1
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -5503,7 +5503,7 @@ THEN
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -5626,7 +5626,7 @@ IF
 THEN
   RESPONSE #6
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -5698,7 +5698,7 @@ THEN
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -5708,11 +5708,11 @@ THEN
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
     CreateCreature("GHOUL",[1280.2432],0)  // Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -5746,12 +5746,12 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -5829,7 +5829,7 @@ THEN
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -5845,11 +5845,11 @@ THEN
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
     CreateCreature("GHOUL",[1280.2432],0)  // Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -5891,18 +5891,18 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -5989,7 +5989,7 @@ THEN
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -6006,11 +6006,11 @@ THEN
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
     CreateCreature("GHOUL",[1280.2432],0)  // Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -6054,21 +6054,21 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -6163,7 +6163,7 @@ THEN
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -6188,11 +6188,11 @@ THEN
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
     CreateCreature("GHOUL",[1280.2432],0)  // Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -6245,29 +6245,29 @@ IF
 THEN
   RESPONSE #1
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -6369,7 +6369,7 @@ THEN
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -6389,17 +6389,17 @@ THEN
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
     CreateCreature("GHOUL",[1280.2432],0)  // Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
     CreateCreature("GHOUL",[1280.2432],0)  // Ghoul
     CreateCreature("GHOUL",[1280.2432],0)  // Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -6443,33 +6443,33 @@ IF
 THEN
   RESPONSE #1
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -6621,7 +6621,7 @@ THEN
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -6658,37 +6658,37 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
     CreateCreature("GHOUL",[1280.2432],0)  // Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
     CreateCreature("GHOUL",[1280.2432],0)  // Ghoul
     CreateCreature("GHOUL",[1280.2432],0)  // Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
-  RESPONSE #2
-    SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("GHOUL",[1280.2432],0)  // Ghoul
-    CreateCreature("GHOUL",[1280.2432],0)  // Ghoul
-    CreateCreature("GHOUL",[1280.2432],0)  // Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
     CreateCreature("GHOUL",[1280.2432],0)  // Ghoul
     CreateCreature("GHOUL",[1280.2432],0)  // Ghoul
     CreateCreature("GHOUL",[1280.2432],0)  // Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
+  RESPONSE #2
+    SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
     CreateCreature("GHOUL",[1280.2432],0)  // Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOUL",[1280.2432],0)  // Ghoul
+    CreateCreature("GHOUL",[1280.2432],0)  // Ghoul
+    CreateCreature("GHOUL",[1280.2432],0)  // Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -6749,8 +6749,8 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -6814,17 +6814,17 @@ THEN
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
     CreateCreature("SZOMBL01",[1280.2432],0)  // Zombie Lord
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
     CreateCreature("ZG#SGHLR",[1280.2432],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -6838,7 +6838,7 @@ THEN
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SBGRT",[1280.2432],0)  // Greater Basilisk
+    CreateCreature("BASILG",[1280.2432],0)  // Greater Basilisk
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
 END
 
@@ -6857,14 +6857,14 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -6949,23 +6949,23 @@ THEN
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
     CreateCreature("SZOMBL01",[1280.2432],0)  // Zombie Lord
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
     CreateCreature("SZOMBL01",[1280.2432],0)  // Zombie Lord
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
     CreateCreature("ZG#SGHLR",[1280.2432],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -6979,7 +6979,7 @@ THEN
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SBGRT",[1280.2432],0)  // Greater Basilisk
+    CreateCreature("BASILG",[1280.2432],0)  // Greater Basilisk
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
 END
 
@@ -6998,18 +6998,18 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -7114,30 +7114,30 @@ THEN
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
     CreateCreature("SZOMBL01",[1280.2432],0)  // Zombie Lord
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
     CreateCreature("SZOMBL01",[1280.2432],0)  // Zombie Lord
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
     CreateCreature("SZOMBL01",[1280.2432],0)  // Zombie Lord
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
     CreateCreature("ZG#SGHLR",[1280.2432],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -7159,7 +7159,7 @@ THEN
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SBGRT",[1280.2432],0)  // Greater Basilisk
+    CreateCreature("BASILG",[1280.2432],0)  // Greater Basilisk
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
 END
 
@@ -7178,17 +7178,17 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -7343,44 +7343,44 @@ THEN
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
-    SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("SZOMBL01",[1280.2432],0)  // Zombie Lord
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
     CreateCreature("SZOMBL01",[1280.2432],0)  // Zombie Lord
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
     CreateCreature("SZOMBL01",[1280.2432],0)  // Zombie Lord
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
+    CreateCreature("SZOMBL01",[1280.2432],0)  // Zombie Lord
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
     CreateCreature("ZG#SGHLR",[1280.2432],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
     CreateCreature("ZG#SGHLR",[1280.2432],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -7403,7 +7403,7 @@ THEN
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SBGRT",[1280.2432],0)  // Greater Basilisk
+    CreateCreature("BASILG",[1280.2432],0)  // Greater Basilisk
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
 END
 
@@ -7422,16 +7422,16 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -7605,49 +7605,49 @@ THEN
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
     CreateCreature("SZOMBL01",[1280.2432],0)  // Zombie Lord
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
     CreateCreature("SZOMBL01",[1280.2432],0)  // Zombie Lord
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
     CreateCreature("SZOMBL01",[1280.2432],0)  // Zombie Lord
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SGHLR",[1280.2432],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
     CreateCreature("ZG#SGHLR",[1280.2432],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
+    CreateCreature("ZG#SGHLR",[1280.2432],0)  // Ghoul Lord
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -7673,7 +7673,7 @@ THEN
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SBGRT",[1280.2432],0)  // Greater Basilisk
+    CreateCreature("BASILG",[1280.2432],0)  // Greater Basilisk
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
 END
 
@@ -7692,18 +7692,18 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1280.2432],0)  // Dread Wolf
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1280.2432],0)  // Dread Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -7918,63 +7918,63 @@ THEN
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
-    CreateCreature("ZG#SWOVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
+    CreateCreature("WOLFVA",[1280.2432],0)  // Vampiric Wolf
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
     CreateCreature("SZOMBL01",[1280.2432],0)  // Zombie Lord
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
     CreateCreature("SZOMBL01",[1280.2432],0)  // Zombie Lord
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
     CreateCreature("SZOMBL01",[1280.2432],0)  // Zombie Lord
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
     CreateCreature("ZG#SGHLR",[1280.2432],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
     CreateCreature("ZG#SGHLR",[1280.2432],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
     CreateCreature("ZG#SGHLR",[1280.2432],0)  // Ghoul Lord
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
+    CreateCreature("GHOULLOR",[1280.2432],0)  // Greater Ghoul
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
@@ -8018,7 +8018,7 @@ THEN
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset12802432","%FirewineBridge%",1)
-    CreateCreature("ZG#SBGRT",[1280.2432],0)  // Greater Basilisk
+    CreateCreature("BASILG",[1280.2432],0)  // Greater Basilisk
     SetGlobalTimer("450012802432","%FirewineBridge%",EIGHT_HOURS)
 END
 

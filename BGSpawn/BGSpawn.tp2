@@ -451,23 +451,15 @@ BEGIN @1101 DESIGNATED 1000 LABEL "BGSpawn-Main"
     // This uses a 4-character dedicated-for-cloning prefix within my namespace to prevent accidental overlaps within the S namespace
     // Graion Dilach, 2024-12-23
     ACTION_DEFINE_ASSOCIATIVE_ARRAY backport_bg2_cres BEGIN
-        basgrt01  =>   zg#sbgrt    // Greater Basilisk
         catleo01  =>   zg#scleo    // Leopard
         catlim01  =>   zg#sclim    // Mountain Lion
         catlyn01  =>   zg#sclyn    // Giant Lynx
         catpan01  =>   zg#scpan    // Panther
         cattig01  =>   zg#sctig    // Wild Tiger
         deer01    =>   zg#sdeer    // Deer
-        dopgre01  =>   zg#sdopg    // Greater Doppelganger
-        dopple01  =>   zg#sdopp    // Doppelganger
         elehob01  =>   zg#sgoco    // Goblin Commando
-        ghogr01   =>   zg#sghgr    // Greater Ghoul
         gholor01  =>   zg#sghlr    // Ghoul Lord
-        gibber01  =>   zg#sgibb    // Gibberling
         gnlcap01  =>   zg#sgnoc    // Gnoll Captain
-        gnleli01  =>   zg#sgnoe    // Gnoll Elite
-        gnlsla01  =>   zg#sgnos    // Gnoll Slasher
-        gnlvet01  =>   zg#sgnov    // Gnoll Veteran
         hellho01  =>   zg#sheho    // Hell Hound
         hgnymph   =>   zg#snymp    // Nymph
         hobarc01  =>   zg#shoba    // Hobgoblin Archer
@@ -477,10 +469,6 @@ BEGIN @1101 DESIGNATED 1000 LABEL "BGSpawn-Main"
         hobwiz01  =>   zg#shobm    // Hobgoblin Wizard
         icgob03   =>   zg#sgob3    // Goblin
         icgob04   =>   zg#sgob4    // Goblin Captain
-        jelgra01  =>   zg#sjlga    // Gray Ooze
-        jelgre01  =>   zg#sjlge    // Green Slime
-        jelmus01  =>   zg#sjlmu    // Mustard Jelly
-        jeloch01  =>   zg#sjloc    // Ochre Jelly
         kobcap01  =>   zg#skoca    // Kobold Captain
         kobkam01  =>   zg#skoka    // Kamikaze Kobold
         kobscr01  =>   zg#skosc    // Kobold Scribe
@@ -510,17 +498,14 @@ BEGIN @1101 DESIGNATED 1000 LABEL "BGSpawn-Main"
         shawol01  =>   zg#sshwo    // Shade Wolf
         shawol02  =>   zg#sshgw    // Greater Shade Wolf
         sickrat   =>   zg#sdrat    // Diseased Rat
-        sirine01  =>   zg#ssiri    // Sirine
+        sirine    =>   zg#ssiri    // Sirine (BG1 monster, cloned to prevent interfering with mods expanding Sil)
         skelwa    =>   zg#sskw1    // Skeleton Warrior (explicitly BG2 variant!)
         skelwa03  =>   zg#sskw3    // Skeleton Warrior (explicitly BG2 variant!)
         trolde01  =>   zg#strde    // Desert Troll
         troll01   =>   zg#strol    // Troll
         vampif01  =>   zg#svamf    // Vampire (Female)
         vampim01  =>   zg#svamm    // Vampire (Male)
-        wolf01    =>   zg#swolf    // Wolf
-        wolfdr01  =>   zg#swodr    // Dread Wolf
-        wolfgr01  =>   zg#swogr    // Greater Wolfwere
-        wolfva01  =>   zg#swova    // Vampiric Wolf
+        wolfgr01  =>   zg#swogr    // Greater Wolfwere (BG2 monster, BG1 counterpart is the Werewolf Isle spell results)
         wolfzo01  =>   zg#swozo    // Zombie Wolf
         wraith01  =>   zg#swrai    // Wraith
     END

@@ -46,7 +46,7 @@ THEN
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
@@ -84,7 +84,7 @@ THEN
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
@@ -122,7 +122,7 @@ THEN
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
@@ -160,7 +160,7 @@ THEN
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
@@ -203,7 +203,7 @@ THEN
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
@@ -246,7 +246,7 @@ THEN
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
@@ -284,7 +284,7 @@ THEN
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
@@ -322,7 +322,7 @@ THEN
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
@@ -365,7 +365,7 @@ THEN
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
@@ -408,7 +408,7 @@ THEN
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
@@ -462,12 +462,12 @@ THEN
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
@@ -517,18 +517,18 @@ THEN
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
@@ -2835,7 +2835,7 @@ THEN
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
@@ -2873,7 +2873,7 @@ THEN
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
@@ -2911,7 +2911,7 @@ THEN
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
@@ -2949,7 +2949,7 @@ THEN
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
@@ -2992,7 +2992,7 @@ THEN
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
@@ -3035,7 +3035,7 @@ THEN
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
@@ -3073,7 +3073,7 @@ THEN
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
@@ -3111,7 +3111,7 @@ THEN
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
@@ -3154,7 +3154,7 @@ THEN
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
@@ -3197,7 +3197,7 @@ THEN
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
@@ -3251,12 +3251,12 @@ THEN
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
@@ -3306,18 +3306,18 @@ THEN
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
+    CreateCreature("%Wolf%",[710.478],0)  // Wolf
     SetGlobalTimer("5300710478","%Encounter_Forest1%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset710478","%Encounter_Forest1%",1)

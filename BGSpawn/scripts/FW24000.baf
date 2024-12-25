@@ -38,7 +38,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -80,7 +80,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -122,7 +122,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -164,7 +164,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -211,7 +211,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -258,7 +258,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -316,7 +316,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -325,7 +325,7 @@ THEN
     CreateCreature("GNOLL",[1297.529],0)  // Gnoll
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #3
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -360,7 +360,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -369,7 +369,7 @@ THEN
     CreateCreature("GNOLL",[1297.529],0)  // Gnoll
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #5
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -409,7 +409,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -425,7 +425,7 @@ THEN
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -465,12 +465,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -487,11 +487,11 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("GNOLL",[1297.529],0)  // Gnoll
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -547,12 +547,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -569,16 +569,16 @@ THEN
   RESPONSE #3
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("GNOLL",[1297.529],0)  // Gnoll
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -640,18 +640,18 @@ IF
 THEN
   RESPONSE #4
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -674,16 +674,16 @@ THEN
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("GNOLL",[1297.529],0)  // Gnoll
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -696,12 +696,12 @@ THEN
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("GNOLL",[1297.529],0)  // Gnoll
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -762,7 +762,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -778,7 +778,7 @@ THEN
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -786,7 +786,7 @@ THEN
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -830,12 +830,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -848,12 +848,12 @@ THEN
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("GNOLL",[1297.529],0)  // Gnoll
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("GNOLL",[1297.529],0)  // Gnoll
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -862,26 +862,26 @@ THEN
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
     CreateCreature("FLIND",[1297.529],0)  // Flind
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -937,12 +937,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -957,13 +957,13 @@ THEN
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("GNOLL",[1297.529],0)  // Gnoll
     CreateCreature("GNOLL",[1297.529],0)  // Gnoll
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("GNOLL",[1297.529],0)  // Gnoll
     CreateCreature("GNOLL",[1297.529],0)  // Gnoll
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -974,30 +974,30 @@ THEN
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("GNOLL",[1297.529],0)  // Gnoll
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("GNOLL",[1297.529],0)  // Gnoll
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("GNOLL",[1297.529],0)  // Gnoll
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
     CreateCreature("FLIND",[1297.529],0)  // Flind
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("GNOLL",[1297.529],0)  // Gnoll
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("GNOLL",[1297.529],0)  // Gnoll
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -1054,18 +1054,18 @@ IF
 THEN
   RESPONSE #4
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -1079,57 +1079,57 @@ THEN
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("GNOLL",[1297.529],0)  // Gnoll
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("GNOLL",[1297.529],0)  // Gnoll
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     CreateCreature("FLIND",[1297.529],0)  // Flind
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("GNOLL",[1297.529],0)  // Gnoll
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     CreateCreature("FLIND",[1297.529],0)  // Flind
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("GNOLL",[1297.529],0)  // Gnoll
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
@@ -1206,14 +1206,14 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -1224,70 +1224,70 @@ THEN
     CreateCreature("GNOLL",[1297.529],0)  // Gnoll
     CreateCreature("GNOLL",[1297.529],0)  // Gnoll
     CreateCreature("GNOLL",[1297.529],0)  // Gnoll
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
-  RESPONSE #1
-    SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("GNOLL",[1297.529],0)  // Gnoll
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
-  RESPONSE #1
-    SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("GNOLL",[1297.529],0)  // Gnoll
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
+  RESPONSE #1
+    SetGlobal("SpawnReset1297529","%Peldvale%",1)
+    CreateCreature("GNOLL",[1297.529],0)  // Gnoll
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
+  RESPONSE #1
+    SetGlobal("SpawnReset1297529","%Peldvale%",1)
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     CreateCreature("FLIND",[1297.529],0)  // Flind
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("GNOLL",[1297.529],0)  // Gnoll
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     CreateCreature("FLIND",[1297.529],0)  // Flind
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     CreateCreature("FLIND",[1297.529],0)  // Flind
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("GNOLL",[1297.529],0)  // Gnoll
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
@@ -1371,14 +1371,14 @@ IF
 THEN
   RESPONSE #4
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -1393,30 +1393,30 @@ THEN
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("GNOLL",[1297.529],0)  // Gnoll
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("GNOLL",[1297.529],0)  // Gnoll
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -1428,29 +1428,29 @@ THEN
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -1542,12 +1542,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -1559,12 +1559,12 @@ THEN
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -1615,18 +1615,18 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -1634,17 +1634,17 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -1709,14 +1709,14 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -1724,29 +1724,29 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     CreateCreature("FLIND",[1297.529],0)  // Flind
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
@@ -1833,14 +1833,14 @@ IF
 THEN
   RESPONSE #4
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -1848,83 +1848,83 @@ THEN
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
-  RESPONSE #1
-    SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
+  RESPONSE #1
+    SetGlobal("SpawnReset1297529","%Peldvale%",1)
+    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
+    CreateCreature("FLIND",[1297.529],0)  // Flind
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -2016,21 +2016,21 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -2038,93 +2038,93 @@ THEN
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
-  RESPONSE #1
-    SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
+  RESPONSE #1
+    SetGlobal("SpawnReset1297529","%Peldvale%",1)
+    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
+    CreateCreature("FLIND",[1297.529],0)  // Flind
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -2230,24 +2230,24 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -2255,103 +2255,103 @@ THEN
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOS",[1297.529],0)  // Gnoll Slasher
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
-  RESPONSE #1
-    SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_D",[1297.529],0)  // Gnoll Slasher
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
+  RESPONSE #1
+    SetGlobal("SpawnReset1297529","%Peldvale%",1)
+    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
+    CreateCreature("FLIND",[1297.529],0)  // Flind
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -2481,7 +2481,7 @@ IF
 THEN
   RESPONSE #6
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #50
@@ -2489,12 +2489,12 @@ THEN
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #4
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -2563,13 +2563,13 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
@@ -2579,19 +2579,19 @@ THEN
   RESPONSE #3
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     CreateCreature("FLIND",[1297.529],0)  // Flind
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
@@ -2678,16 +2678,16 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
@@ -2697,16 +2697,16 @@ THEN
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -2718,42 +2718,42 @@ THEN
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     CreateCreature("FLIND",[1297.529],0)  // Flind
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
@@ -2862,18 +2862,18 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
@@ -2884,17 +2884,17 @@ THEN
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -2908,31 +2908,31 @@ THEN
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     CreateCreature("FLIND",[1297.529],0)  // Flind
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
@@ -2940,15 +2940,15 @@ THEN
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
@@ -3068,19 +3068,19 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
@@ -3092,21 +3092,21 @@ THEN
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -3122,39 +3122,29 @@ THEN
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("FLIND",[1297.529],0)  // Flind
-    SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
-  RESPONSE #1
-    SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("FLIND",[1297.529],0)  // Flind
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
@@ -3162,9 +3152,9 @@ THEN
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
@@ -3172,8 +3162,18 @@ THEN
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("FLIND",[1297.529],0)  // Flind
+    CreateCreature("FLIND",[1297.529],0)  // Flind
+    SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
+  RESPONSE #1
+    SetGlobal("SpawnReset1297529","%Peldvale%",1)
+    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
+    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
@@ -3306,19 +3306,19 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
@@ -3331,111 +3331,111 @@ THEN
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
-  RESPONSE #1
-    SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("FLIND",[1297.529],0)  // Flind
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
+  RESPONSE #1
+    SetGlobal("SpawnReset1297529","%Peldvale%",1)
+    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
+    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
+    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -3596,7 +3596,7 @@ IF
 THEN
   RESPONSE #6
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #50
@@ -3605,46 +3605,46 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -3693,13 +3693,13 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
@@ -3709,53 +3709,53 @@ THEN
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -3824,16 +3824,16 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
@@ -3844,129 +3844,129 @@ THEN
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
-  RESPONSE #1
-    SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("FLIND",[1297.529],0)  // Flind
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
+  RESPONSE #1
+    SetGlobal("SpawnReset1297529","%Peldvale%",1)
+    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
+    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
+    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -4049,18 +4049,18 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
@@ -4071,132 +4071,132 @@ THEN
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
-  RESPONSE #1
-    SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("FLIND",[1297.529],0)  // Flind
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
+  RESPONSE #1
+    SetGlobal("SpawnReset1297529","%Peldvale%",1)
+    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
+    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
+    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -4287,19 +4287,19 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
@@ -4311,126 +4311,126 @@ THEN
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
-  RESPONSE #1
-    SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("FLIND",[1297.529],0)  // Flind
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
+  RESPONSE #1
+    SetGlobal("SpawnReset1297529","%Peldvale%",1)
+    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
+    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
+    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -4538,19 +4538,19 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
     CreateCreature("WOLFDI",[1297.529],0)  // Dire Wolf
@@ -4563,128 +4563,128 @@ THEN
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
-  RESPONSE #1
-    SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
     CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
-    CreateCreature("ZG#SGNOV",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("FLIND",[1297.529],0)  // Flind
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
+    SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
+  RESPONSE #1
+    SetGlobal("SpawnReset1297529","%Peldvale%",1)
+    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
+    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
+    CreateCreature("ZG#SGNOC",[1297.529],0)  // Gnoll Captain
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
+    CreateCreature("GNOLL_E",[1297.529],0)  // Gnoll Veteran
     CreateCreature("FLIND",[1297.529],0)  // Flind
     CreateCreature("FLIND",[1297.529],0)  // Flind
-    CreateCreature("ZG#SGNOE",[1297.529],0)  // Gnoll Elite
+    CreateCreature("GNOLL_A",[1297.529],0)  // Gnoll Elite
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -4831,7 +4831,7 @@ IF
 THEN
   RESPONSE #17
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -4869,7 +4869,7 @@ IF
 THEN
   RESPONSE #17
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -4907,7 +4907,7 @@ IF
 THEN
   RESPONSE #17
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -4945,12 +4945,12 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -4988,12 +4988,12 @@ IF
 THEN
   RESPONSE #7
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -5037,18 +5037,18 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -5098,7 +5098,7 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -5136,12 +5136,12 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -5185,18 +5185,18 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -5241,14 +5241,14 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -5305,14 +5305,14 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -5369,21 +5369,21 @@ IF
 THEN
   RESPONSE #7
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -5450,7 +5450,7 @@ IF
 THEN
   RESPONSE #15
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -5492,12 +5492,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -5546,14 +5546,14 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -5610,21 +5610,21 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -5702,16 +5702,16 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -5780,24 +5780,24 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
+    CreateCreature("%Wolf%",[1297.529],0)  // Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -6283,7 +6283,7 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -6331,12 +6331,12 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -6387,18 +6387,18 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -6450,14 +6450,14 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -6520,21 +6520,21 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
@@ -6599,24 +6599,24 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset1297529","%Peldvale%",1)
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[1297.529],0)  // Dread Wolf
     SetGlobalTimer("24001297529","%Peldvale%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset1297529","%Peldvale%",1)

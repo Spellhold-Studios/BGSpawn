@@ -38,7 +38,7 @@ IF
 THEN
   RESPONSE #15
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -80,7 +80,7 @@ IF
 THEN
   RESPONSE #15
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -122,7 +122,7 @@ IF
 THEN
   RESPONSE #15
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -164,7 +164,7 @@ IF
 THEN
   RESPONSE #15
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -206,12 +206,12 @@ IF
 THEN
   RESPONSE #15
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -253,12 +253,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -304,7 +304,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -350,7 +350,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -401,7 +401,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -457,12 +457,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -527,12 +527,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -599,18 +599,18 @@ IF
 THEN
   RESPONSE #4
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -677,7 +677,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -737,12 +737,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -802,12 +802,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -864,18 +864,18 @@ IF
 THEN
   RESPONSE #4
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -939,18 +939,18 @@ IF
 THEN
   RESPONSE #4
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -1018,14 +1018,14 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -1120,12 +1120,12 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -1190,18 +1190,18 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -1280,14 +1280,14 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -1355,21 +1355,21 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -1449,29 +1449,29 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -1554,24 +1554,24 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -1686,12 +1686,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -1787,14 +1787,14 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -1894,14 +1894,14 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -1981,18 +1981,18 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -2095,20 +2095,20 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -2224,22 +2224,22 @@ IF
 THEN
   RESPONSE #6
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #50
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -2971,11 +2971,11 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #21
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -3013,11 +3013,11 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #18
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -3055,11 +3055,11 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -3097,11 +3097,11 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -3139,16 +3139,16 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #12
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -3191,22 +3191,22 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -3253,11 +3253,11 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -3299,16 +3299,16 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -3359,22 +3359,22 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -3434,18 +3434,18 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -3514,18 +3514,18 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -3593,25 +3593,25 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -3686,16 +3686,16 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -3747,12 +3747,12 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -3804,18 +3804,18 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -3869,25 +3869,25 @@ IF
 THEN
   RESPONSE #4
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -3948,33 +3948,33 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -4039,25 +4039,25 @@ IF
 THEN
   RESPONSE #4
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
+    CreateCreature("%Wolf%",[990.105],0)  // Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -4160,11 +4160,11 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -4221,11 +4221,11 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -4296,11 +4296,11 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -4365,16 +4365,16 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -4457,22 +4457,22 @@ IF
 THEN
   RESPONSE #4
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -4558,25 +4558,25 @@ IF
 THEN
   RESPONSE #2
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -4698,11 +4698,11 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -4794,16 +4794,16 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -4899,22 +4899,22 @@ IF
 THEN
   RESPONSE #4
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -4990,25 +4990,25 @@ IF
 THEN
   RESPONSE #4
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -5112,33 +5112,33 @@ IF
 THEN
   RESPONSE #4
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -5261,37 +5261,37 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -5411,16 +5411,16 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -5494,18 +5494,18 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -5597,20 +5597,20 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -5691,22 +5691,22 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -5807,24 +5807,24 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
@@ -5969,26 +5969,26 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
-    CreateCreature("ZG#SWODR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
+    CreateCreature("WOLFDR",[990.105],0)  // Dread Wolf
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #30
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)
-    CreateCreature("ZG#SWOVA",[990.105],0)  // Vampiric Wolf Lord
+    CreateCreature("WOLFVA",[990.105],0)  // Vampiric Wolf Lord
     SetGlobalTimer("4901990105","%Encounter_Cliff2%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset990105","%Encounter_Cliff2%",1)

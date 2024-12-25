@@ -57,7 +57,7 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
@@ -106,7 +106,7 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
@@ -155,7 +155,7 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
@@ -219,7 +219,7 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
@@ -283,12 +283,12 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
@@ -358,12 +358,12 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
@@ -422,7 +422,7 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
@@ -486,7 +486,7 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
@@ -556,12 +556,12 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #11
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
@@ -624,12 +624,12 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
@@ -709,8 +709,8 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
@@ -804,14 +804,14 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
@@ -889,14 +889,14 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
@@ -987,14 +987,14 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
@@ -1092,21 +1092,21 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
@@ -1208,16 +1208,16 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
@@ -1323,24 +1323,24 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
@@ -1476,24 +1476,24 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
@@ -1585,24 +1585,24 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
@@ -1686,24 +1686,24 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
@@ -1806,36 +1806,36 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
@@ -1947,42 +1947,42 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
@@ -2115,56 +2115,56 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("WORG",[3535.3158],0)  // Worg
-    CreateCreature("WORG",[3535.3158],0)  // Worg
-    SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("WORG",[3535.3158],0)  // Worg
+    CreateCreature("WORG",[3535.3158],0)  // Worg
+    SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #3
@@ -2306,40 +2306,40 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
    CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
    CreateCreature("WORG",[3535.3158],0)  // Worg
@@ -2455,15 +2455,15 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #3
@@ -2592,33 +2592,33 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
-    CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
-    SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
+    CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
+    CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
+    SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
@@ -2704,33 +2704,33 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
-    CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
-    SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
+    CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
+    CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
+    SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #3
@@ -2853,25 +2853,25 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
@@ -3005,25 +3005,25 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
@@ -3181,36 +3181,36 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
-    CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
-    CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
-    SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
+    CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
+    CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
+    SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
@@ -3337,14 +3337,14 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
@@ -3463,17 +3463,17 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
@@ -3552,9 +3552,9 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
@@ -3562,8 +3562,8 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
@@ -3669,9 +3669,9 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
@@ -3680,9 +3680,9 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
@@ -3835,10 +3835,10 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
@@ -3847,10 +3847,10 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
@@ -4016,9 +4016,9 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
@@ -4029,9 +4029,9 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
@@ -4091,7 +4091,7 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
@@ -4136,7 +4136,7 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
@@ -4181,7 +4181,7 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
@@ -4236,12 +4236,12 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
@@ -4296,12 +4296,12 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
@@ -4375,12 +4375,12 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
@@ -4437,7 +4437,7 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
@@ -4489,12 +4489,12 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
@@ -4570,12 +4570,12 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
@@ -4655,14 +4655,14 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
@@ -4757,13 +4757,13 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
@@ -4867,13 +4867,13 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #3
@@ -4963,13 +4963,13 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
@@ -5052,15 +5052,15 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
@@ -5169,27 +5169,27 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
@@ -5307,27 +5307,27 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
@@ -5461,21 +5461,21 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
@@ -5626,31 +5626,31 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
@@ -5758,24 +5758,24 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
@@ -5858,34 +5858,34 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
@@ -5984,32 +5984,32 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #3
@@ -6130,33 +6130,33 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
@@ -6276,35 +6276,35 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
@@ -6474,37 +6474,37 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("WORG",[3535.3158],0)  // Worg
-    CreateCreature("WORG",[3535.3158],0)  // Worg
-    CreateCreature("WORG",[3535.3158],0)  // Worg
-    SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("WORG",[3535.3158],0)  // Worg
+    CreateCreature("WORG",[3535.3158],0)  // Worg
+    CreateCreature("WORG",[3535.3158],0)  // Worg
+    SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
     CreateCreature("WORG",[3535.3158],0)  // Worg
@@ -6512,25 +6512,25 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
@@ -6650,24 +6650,24 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
@@ -6767,26 +6767,26 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
@@ -6900,56 +6900,56 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
-    CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
-    SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
+    CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
+    SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
@@ -7075,58 +7075,58 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
-    CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
-    SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
+    CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
+    SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
@@ -7263,46 +7263,46 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
@@ -7489,68 +7489,68 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
-    CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
-    SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
+    CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
+    SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
-    CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
-    CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
-    SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
+    CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
+    CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
+    CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
+    SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFDI",[3535.3158],0)  // Dire Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
@@ -7657,14 +7657,14 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
@@ -7788,18 +7788,18 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
@@ -7939,25 +7939,25 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
@@ -8157,18 +8157,18 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
@@ -8176,21 +8176,21 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
@@ -8401,18 +8401,18 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
@@ -8420,21 +8420,21 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
@@ -8698,33 +8698,22 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
-    CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
-    CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
-    CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
-    SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
@@ -8732,9 +8721,20 @@ THEN
     SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
-    CreateCreature("ZG#SWOLF",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
+    CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
+    CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
+    CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
+    SetGlobalTimer("530035353158","%FireLeafForest%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset35353158","%FireLeafForest%",1)
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
+    CreateCreature("%Wolf%",[3535.3158],0)  // Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf
     CreateCreature("WOLFWI",[3535.3158],0)  // Winter Wolf

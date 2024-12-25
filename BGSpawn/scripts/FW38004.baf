@@ -3767,7 +3767,7 @@ IF
 THEN
   RESPONSE #15
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -3786,7 +3786,7 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #25
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -3798,7 +3798,7 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
 END
@@ -3821,7 +3821,7 @@ IF
 THEN
   RESPONSE #15
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -3840,7 +3840,7 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #25
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -3852,7 +3852,7 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
 END
@@ -3875,7 +3875,7 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -3894,7 +3894,7 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #25
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -3906,7 +3906,7 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
 END
@@ -3929,7 +3929,7 @@ IF
 THEN
   RESPONSE #23
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -3958,12 +3958,12 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #25
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -3975,7 +3975,7 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
 END
@@ -3998,7 +3998,7 @@ IF
 THEN
   RESPONSE #20
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -4027,12 +4027,12 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #25
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -4044,7 +4044,7 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
 END
@@ -4067,12 +4067,12 @@ IF
 THEN
   RESPONSE #13
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -4101,12 +4101,12 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #13
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -4123,7 +4123,7 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
 END
@@ -4146,7 +4146,7 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -4165,12 +4165,12 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -4187,7 +4187,7 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
 END
@@ -4210,12 +4210,12 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -4244,12 +4244,12 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -4266,7 +4266,7 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
 END
@@ -4289,12 +4289,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -4323,18 +4323,18 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -4357,7 +4357,7 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
 END
@@ -4380,12 +4380,12 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -4411,14 +4411,14 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -4442,13 +4442,13 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
 END
@@ -4471,18 +4471,18 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -4513,21 +4513,21 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -4558,13 +4558,13 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
 END
@@ -4587,14 +4587,14 @@ IF
 THEN
   RESPONSE #7
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -4644,16 +4644,16 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -4685,13 +4685,13 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
 END
@@ -4714,12 +4714,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -4751,14 +4751,14 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -4782,7 +4782,7 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
 END
@@ -4805,14 +4805,14 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -4857,14 +4857,14 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -4888,13 +4888,13 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
 END
@@ -4917,14 +4917,14 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -4976,16 +4976,16 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -5017,20 +5017,20 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
 END
@@ -5053,21 +5053,21 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -5116,24 +5116,24 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -5169,20 +5169,20 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
 END
@@ -5205,16 +5205,16 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -5264,24 +5264,24 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -5317,15 +5317,15 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
 END
@@ -5348,24 +5348,24 @@ IF
 THEN
   RESPONSE #7
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #20
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -5446,27 +5446,27 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
-    CreateCreature("ZG#SGIBB",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
+    CreateCreature("GIBBER",[316.1846],0) // Gibberling
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -5505,29 +5505,29 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #1
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
@@ -5554,14 +5554,14 @@ IF
 THEN
   RESPONSE #15
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
@@ -5626,15 +5626,15 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
 END
@@ -5660,14 +5660,14 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
@@ -5743,16 +5743,16 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
 END
@@ -5778,16 +5778,16 @@ IF
 THEN
   RESPONSE #10
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
@@ -5889,17 +5889,17 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
 END
@@ -5925,18 +5925,18 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
@@ -6041,24 +6041,24 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
@@ -6085,26 +6085,26 @@ IF
 THEN
   RESPONSE #3
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
@@ -6237,17 +6237,17 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
@@ -6274,18 +6274,18 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
@@ -6422,36 +6422,36 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
-    CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
-    SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
-  RESPONSE #2
-    SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
+    CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
+    SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
+  RESPONSE #2
+    SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
 END
@@ -6477,17 +6477,17 @@ IF
 THEN
   RESPONSE #8
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
@@ -6580,16 +6580,16 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
@@ -6616,19 +6616,19 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
@@ -6755,17 +6755,17 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #2
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
@@ -6793,21 +6793,21 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
@@ -6896,19 +6896,19 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
@@ -6936,10 +6936,10 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
@@ -6947,11 +6947,11 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
@@ -7078,21 +7078,21 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
@@ -7120,11 +7120,11 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
@@ -7132,12 +7132,12 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
@@ -7274,21 +7274,21 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
@@ -7296,11 +7296,11 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
@@ -7329,12 +7329,12 @@ IF
 THEN
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
@@ -7342,12 +7342,12 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
@@ -7356,12 +7356,12 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
     CreateCreature("WORG",[316.1846],0) // Worg
@@ -7527,10 +7527,10 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
@@ -7538,11 +7538,11 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
@@ -7550,12 +7550,12 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
     CreateCreature("WOLFDI",[316.1846],0) // Dire Wolf
@@ -7591,13 +7591,13 @@ THEN
   RESPONSE #15
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
     CreateCreature("WOLFWE",[316.1846],0) // Wolfwere
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
     CreateCreature("WOLFWE",[316.1846],0) // Wolfwere
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #8
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -7614,11 +7614,11 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
     CreateCreature("SGHASTGR",[316.1846],0) // Greater Ghast
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
@@ -7655,13 +7655,13 @@ THEN
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
     CreateCreature("WOLFWE",[316.1846],0) // Wolfwere
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
     CreateCreature("WOLFWE",[316.1846],0) // Wolfwere
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -7683,16 +7683,16 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #15
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #6
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
     CreateCreature("SGHASTGR",[316.1846],0) // Greater Ghast
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #2
@@ -7740,15 +7740,15 @@ THEN
   RESPONSE #10
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
     CreateCreature("WOLFWE",[316.1846],0) // Wolfwere
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
     CreateCreature("WOLFWE",[316.1846],0) // Wolfwere
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -7776,21 +7776,21 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
     CreateCreature("SGHASTGR",[316.1846],0) // Greater Ghast
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
     CreateCreature("SGHASTGR",[316.1846],0) // Greater Ghast
     CreateCreature("SGHASTGR",[316.1846],0) // Greater Ghast
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
@@ -7842,16 +7842,16 @@ THEN
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
     CreateCreature("WOLFWE",[316.1846],0) // Wolfwere
     CreateCreature("WOLFWE",[316.1846],0) // Wolfwere
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
     CreateCreature("WOLFWE",[316.1846],0) // Wolfwere
     CreateCreature("WOLFWE",[316.1846],0) // Wolfwere
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -7888,27 +7888,27 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #10
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
     CreateCreature("SGHASTGR",[316.1846],0) // Greater Ghast
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
     CreateCreature("SGHASTGR",[316.1846],0) // Greater Ghast
     CreateCreature("SGHASTGR",[316.1846],0) // Greater Ghast
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
@@ -7956,18 +7956,18 @@ THEN
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
     CreateCreature("WOLFWE",[316.1846],0) // Wolfwere
     CreateCreature("WOLFWE",[316.1846],0) // Wolfwere
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #9
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
     CreateCreature("WOLFWE",[316.1846],0) // Wolfwere
     CreateCreature("WOLFWE",[316.1846],0) // Wolfwere
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -8008,24 +8008,24 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
     CreateCreature("SGHASTGR",[316.1846],0) // Greater Ghast
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
     CreateCreature("SGHASTGR",[316.1846],0) // Greater Ghast
     CreateCreature("SGHASTGR",[316.1846],0) // Greater Ghast
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
@@ -8077,29 +8077,29 @@ THEN
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
     CreateCreature("WOLFWE",[316.1846],0) // Wolfwere
     CreateCreature("WOLFWE",[316.1846],0) // Wolfwere
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
     CreateCreature("WOLFWE",[316.1846],0) // Wolfwere
     CreateCreature("WOLFWE",[316.1846],0) // Wolfwere
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
     CreateCreature("WOLFWE",[316.1846],0) // Wolfwere
     CreateCreature("WOLFWE",[316.1846],0) // Wolfwere
     CreateCreature("WOLFWE",[316.1846],0) // Wolfwere
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
-    CreateCreature("ZG#SWOLF",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
+    CreateCreature("%Wolf%",[316.1846],0) // Wolf
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #4
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
@@ -8151,45 +8151,45 @@ THEN
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #7
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #3
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
-    CreateCreature("SGHASTGR",[316.1846],0) // Greater Ghast
-    SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
-  RESPONSE #5
-    SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
-    CreateCreature("SGHASTGR",[316.1846],0) // Greater Ghast
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
     CreateCreature("SGHASTGR",[316.1846],0) // Greater Ghast
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
-    CreateCreature("SGHASTGR",[316.1846],0) // Greater Ghast
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
     CreateCreature("SGHASTGR",[316.1846],0) // Greater Ghast
     CreateCreature("SGHASTGR",[316.1846],0) // Greater Ghast
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
   RESPONSE #5
     SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
-    CreateCreature("ZG#SGHGR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
+    CreateCreature("SGHASTGR",[316.1846],0) // Greater Ghast
+    CreateCreature("SGHASTGR",[316.1846],0) // Greater Ghast
+    CreateCreature("SGHASTGR",[316.1846],0) // Greater Ghast
+    SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
+  RESPONSE #5
+    SetGlobal("SpawnReset3161846","%SouthBeregostRoad%",1)
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
+    CreateCreature("GHOULLOR",[316.1846],0) // Greater Ghoul
     CreateCreature("SGHASTGR",[316.1846],0) // Greater Ghast
     CreateCreature("SGHASTGR",[316.1846],0) // Greater Ghast
     SetGlobalTimer("38003161846","%SouthBeregostRoad%",EIGHT_HOURS)
